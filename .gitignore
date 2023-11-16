@@ -1,0 +1,66 @@
+deps/
+
+# cpp
+*.o
+
+# python
+*.pyc
+*.pyo
+venv
+
+# latex
+*.aux
+*.bbl
+*.blg
+*.dvi
+*.log
+*.out
+*.pdf
+*.toc
+*.nav
+*.snm
+*.ent
+*.vtc
+*.fdb_latexmk
+*.fls
+.DS_Store
+
+# microsoft office
+*.xlsx
+*.docx
+*.doc
+*.pptx
+*.ppt
+
+# general
+old
+tmp
+out
+*.swp
+*.swo
+*.old
+*.zip
+Icon*
+target
+_build
+deps
+
+# images
+*.png
+*.gif
+*.mp3
+*.mp4
+*.jpg
+
+# misc
+.dropbox
+'
+\\
+
+# mathematica
+*.nb
+*.m
+*.txt
+
+*.key
+*.numbers

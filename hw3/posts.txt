@@ -1,0 +1,1101 @@
+200
+0
+	The llama couldn't resist trying the lemonade.
+	132
+	6
+
+1
+	He decided to live his life by the big beats manifesto.
+	47
+	1
+
+2
+	They wandered into a strange Tiki bar on the edge of the small beach town.
+	106
+	2
+	public
+	Aled Montes
+3
+	Flash photography is best used in full sunlight.
+	31
+	3
+	private
+	Kirsty Golden
+4
+	His confidence would have bee admirable if it wasn't for his stupidity.
+	106
+	4
+
+5
+	She wondered what his eyes were saying beneath his mirrored sunglasses.
+	54
+	7
+
+6
+	He quietly entered the museum as the super bowl started.
+	33
+	9
+
+7
+	Greetings from the real universe.
+	26
+	9
+
+8
+	Wisdom is easily acquired when hiding under the bed with a saucepan on your head.
+	62
+	4
+
+9
+	As the rental car rolled to a stop on the dark road, her fear increased by the moment.
+	70
+	2
+	private
+	Teng Huo
+10
+	She did a happy dance because all of the socks from the dryer matched.
+	80
+	3
+
+11
+	The snow-covered path was no help in finding his way out of the back-country.
+	77
+	5
+	public
+	Maria Hanna
+12
+	Her daily goal was to improve on yesterday.
+	94
+	0
+
+13
+	She looked at the masterpiece hanging in the museum but all she could think is that her five-year-old could do better.
+	44
+	2
+
+14
+	Situps are a terrible way to end your day.
+	21
+	3
+
+15
+	She always speaks to him in a loud voice.
+	76
+	0
+
+16
+	I love bacon, beer, birds, and baboons.
+	2
+	1
+	public
+	Paciencia Santoyo
+17
+	I met an interesting turtle while the song on the radio blasted away.
+	5
+	1
+	public
+	Jerrald Matos
+18
+	Little Red Riding Hood decided to wear orange today.
+	66
+	2
+
+19
+	While on the first date he accidentally hit his head on the beam.
+	10
+	1
+	private
+	Shakti Brahmbhatt
+20
+	The elephant didn't want to talk about the person in the room.
+	35
+	4
+	public
+	Beau Tucker
+21
+	The overpass went under the highway and into a secret world.
+	36
+	0
+
+22
+	He played the game as if his life depended on it and the truth was that it did.
+	120
+	2
+
+23
+	Just go ahead and press that button.
+	121
+	2
+	private
+	Ayrton Simpson
+24
+	I'll have you know I've written over fifty novels
+	31
+	4
+	public
+	Todd Terrell
+25
+	Pair your designer cowboy hat with scuba gear for a memorable occasion.
+	0
+	1
+
+26
+	The thick foliage and intertwined vines made the hike nearly impossible.
+	105
+	2
+	public
+	Isaac Guzman
+27
+	The anaconda was the greatest criminal mastermind in this part of the neighborhood.
+	52
+	3
+
+28
+	Karen believed all traffic laws should be obeyed by all except herself.
+	61
+	5
+
+29
+	Joyce enjoyed eating pancakes with ketchup.
+	142
+	2
+	private
+	Zackary Miranda
+30
+	The reservoir water level continued to lower while we enjoyed our long shower.
+	70
+	2
+	private
+	Teng Huo
+31
+	He's in a boy band which doesn't make much sense for a snake.
+	14
+	3
+
+32
+	He created a pig burger out of beef.
+	119
+	4
+	private
+	Tomas Bradford
+33
+	I am never at home on Sundays.
+	119
+	7
+
+34
+	Two more days and all his problems would be solved.
+	50
+	2
+	private
+	Alysha Gray
+35
+	Siri became confused when we reused to follow her directions.
+	42
+	5
+	public
+	Pan Chin
+36
+	Shakespeare was a famous 17th-century diesel mechanic.
+	47
+	0
+	public
+	Yaseen Fitzgerald
+37
+	Tuesdays are free if you bring a gnome costume.
+	33
+	0
+	public
+	Kong Ning
+38
+	He found the chocolate covered roaches quite tasty.
+	8
+	2
+	public
+	Connor Norris
+39
+	He realized there had been several deaths on this road, but his concern rose when he saw the exact number.
+	106
+	1
+	private
+	Tia Moon
+40
+	Tom got a small piece of pie.
+	45
+	1
+	public
+	Jana Edwards
+41
+	Joe discovered that traffic cones make excellent megaphones.
+	106
+	3
+	private
+	Kurtis Stein
+42
+	He decided water-skiing on a frozen lake wasn’t a good idea.
+	12
+	2
+
+43
+	The sunblock was handed to the girl before practice, but the burned skin was proof she did not apply it.
+	15
+	1
+	public
+	Nicolas Lozoya
+44
+	The trick to getting kids to eat anything is to put catchup on it.
+	77
+	5
+
+45
+	I really want to go to work, but I am too sick to drive.
+	23
+	4
+
+46
+	Everybody should read Chaucer to improve their everyday vocabulary.
+	35
+	1
+	private
+	Arianna Lozano
+47
+	Please wait outside of the house.
+	77
+	0
+
+48
+	Lucifer was surprised at the amount of life at Death Valley.
+	62
+	0
+	public
+	Lois Bernard
+49
+	There aren't enough towels in the world to stop the sewage flowing from his mouth.
+	119
+	7
+
+50
+	When I was little I had a car door slammed shut on my hand and I still remember it quite vividly.
+	83
+	0
+	private
+	Louie Fry
+51
+	There's no reason a hula hoop can't also be a circus ring.
+	17
+	1
+
+52
+	He strives to keep the best lawn in the neighborhood.
+	127
+	7
+
+53
+	There were three sphered rocks congregating in a cubed room.
+	134
+	1
+
+54
+	There's probably enough glass in my cupboard to build an undersea aquarium.
+	121
+	2
+
+55
+	Choosing to do nothing is still a choice, after all.
+	51
+	5
+	public
+	Cira Villarrubia
+56
+	The child’s favorite Christmas gift was the large box her father’s lawnmower came in.
+	98
+	7
+	public
+	Barry Pacheco
+57
+	You've been eyeing me all day and waiting for your move like a lion stalking a gazelle in a savannah.
+	53
+	1
+
+58
+	Some bathing suits just shouldn’t be worn by some people.
+	45
+	5
+	public
+	Paul Hines
+59
+	Combines are no longer just for farms.
+	47
+	2
+
+60
+	The clock within this blog and the clock on my laptop are 1 hour different from each other.
+	53
+	6
+
+61
+	Jeanne wished she has chosen the red button.
+	115
+	9
+
+62
+	He was sure the Devil created red sparkly glitter.
+	124
+	0
+
+63
+	He had unknowingly taken up sleepwalking as a nighttime hobby.
+	15
+	0
+
+64
+	He dreamed of eating green apples with worms.
+	128
+	5
+
+65
+	There should have been a time and a place, but this wasn't it.
+	32
+	3
+	public
+	Lana Pittman
+66
+	Today I dressed my unicorn in preparation for the race.
+	49
+	0
+	public
+	Kyron Miller
+67
+	She always speaks to him in a loud voice.
+	38
+	0
+
+68
+	Mr. Montoya knows the way to the bakery even though he's never been there.
+	122
+	4
+	private
+	Bartosz Morton
+69
+	It was always dangerous to drive with him since he insisted the safety cones were a slalom course.
+	69
+	6
+	private
+	Nicholas Nunez
+70
+	His mind was blown that there was nothing in space except space itself.
+	74
+	5
+	public
+	Xian Liang
+71
+	You can't compare apples and oranges, but what about bananas and plantains?
+	135
+	0
+	private
+	Sumaya Stokes
+72
+	He decided to fake his disappearance to avoid jail.
+	15
+	0
+	private
+	Nicolas Lozoya
+73
+	He said he was not there yesterday; however, many people saw him there.
+	15
+	1
+	private
+	Sandhya Krish
+74
+	Don't step on the broken glass.
+	110
+	4
+	private
+	Aled Montes
+75
+	She learned that water bottles are no longer just to hold liquid, but they're also status symbols.
+	52
+	0
+	private
+	Marina Cole
+76
+	Everyone was curious about the large white blimp that appeared overnight.
+	84
+	2
+	public
+	Otis Baker
+77
+	The sky is clear; the stars are twinkling.
+	88
+	1
+
+78
+	The two walked down the slot canyon oblivious to the sound of thunder in the distance.
+	57
+	0
+	private
+	Zain White
+79
+	My biggest joy is roasting almonds while stalking prey.
+	100
+	3
+
+80
+	There were a lot of paintings of monkeys waving bamboo sticks in the gallery.
+	74
+	4
+	private
+	Yang Xinyi
+81
+	She was the type of girl that always burnt sugar to show she cared.
+	112
+	5
+
+82
+	A dead duck doesn't fly backward.
+	24
+	0
+	private
+	Yuan Wuhan
+83
+	We need to rent a room for our party.
+	95
+	8
+
+84
+	No matter how beautiful the sunset, it saddened her knowing she was one day older.
+	55
+	3
+	public
+	Jia Jun
+85
+	As she walked along the street and looked in the gutter, she realized facemasks had become the new cigarette butts.
+	17
+	5
+	private
+	Frederick Murray
+86
+	Lets all be unique together until we realise we are all the same.
+	29
+	0
+	public
+	Anish Kapadia
+87
+	You're good at English when you know the difference between a man eating chicken and a man-eating chicken.
+	135
+	4
+
+88
+	When motorists sped in and out of traffic, all she could think of was those in need of a transplant.
+	133
+	5
+
+89
+	Poison ivy grew through the fence they said was impenetrable.
+	30
+	4
+
+90
+	The group quickly understood that toxic waste was the most effective barrier to use against the zombies.
+	66
+	2
+	public
+	Jana Edwards
+91
+	He decided that the time had come to be stronger than any of the excuses he'd used until then.
+	95
+	8
+	private
+	Mahamari Chakpram
+92
+	At that moment he wasn't listening to music, he was living an experience.
+	86
+	6
+
+93
+	It's important to remember to be aware of rampaging grizzly bears.
+	89
+	4
+
+94
+	He spiked his hair green to support his iguana.
+	143
+	3
+
+95
+	I think I will buy the red car, or I will lease the blue one.
+	69
+	5
+
+96
+	He knew it was going to be a bad day when he saw mountain lions roaming the streets.
+	50
+	2
+
+97
+	I was offended by the suggestion that my baby brother was a jewel thief.
+	79
+	2
+
+98
+	The three-year-old girl ran down the beach as the kite flew behind her.
+	128
+	5
+	private
+	Xian Liang
+99
+	They say people remember important moments in their life well, yet no one even remembers their own birth.
+	4
+	3
+
+100
+	Poison ivy grew through the fence they said was impenetrable.
+	108
+	3
+	public
+	Gloria Contreras
+101
+	The family’s excitement over going to Disneyland was crazier than she anticipated.
+	56
+	0
+	public
+	Paul Hines
+102
+	When he asked her favorite number, she answered without hesitation that it was diamonds.
+	70
+	1
+
+103
+	He was disappointed when he found the beach to be so sandy and the sun so sunny.
+	59
+	3
+
+104
+	Today I dressed my unicorn in preparation for the race.
+	117
+	7
+	private
+	Paul Hines
+105
+	I've traveled all around Africa and still haven't found the gnu who stole my scarf.
+	41
+	2
+	private
+	Maria Hanna
+106
+	She looked into the mirror and saw another person.
+	31
+	2
+	public
+	Kirsty Golden
+107
+	I had a friend in high school named Rick Shaw, but he was fairly useless as a mode of transport.
+	139
+	6
+	private
+	Kyron Miller
+108
+	When I was little I had a car door slammed shut on my hand and I still remember it quite vividly.
+	32
+	0
+
+109
+	The bees decided to have a mutiny against their queen.
+	28
+	6
+	private
+	Madeleine Castillo
+110
+	He found a leprechaun in his walnut shell.
+	13
+	4
+
+111
+	A good example of a useful vegetable is medicinal rhubarb.
+	49
+	6
+
+112
+	The green tea and avocado smoothie turned out exactly as would be expected.
+	29
+	1
+
+113
+	Pat ordered a ghost pepper pie.
+	147
+	3
+	private
+	Alysha Gray
+114
+	The bird had a belief that it was really a groundhog.
+	124
+	1
+
+115
+	She says she has the ability to hear the soundtrack of your life.
+	1
+	1
+	public
+	Varun Desai
+116
+	If you really strain your ears, you can just about hear the sound of no one giving a damn.
+	102
+	10
+	private
+	Gasper Blancas
+117
+	Wisdom is easily acquired when hiding under the bed with a saucepan on your head.
+	83
+	1
+	private
+	Anish Kapadia
+118
+	This made him feel like an old-style rootbeer float smells.
+	17
+	8
+
+119
+	The mysterious diary records the voice.
+	69
+	5
+	public
+	Brandon Ballard
+120
+	I just wanted to tell you I could see the love you have for your child by the way you look at her.
+	29
+	1
+
+121
+	They throw cabbage that turns your brain into emotional baggage.
+	44
+	3
+	private
+	Haaris George
+122
+	Abstraction is often one floor above you.
+	114
+	0
+	private
+	Molly Arias
+123
+	He found rain fascinating yet unpleasant.
+	120
+	2
+	public
+	Ajay Charles
+124
+	He figured a few sticks of dynamite were easier than a fishing pole to catch fish.
+	25
+	1
+	private
+	Mae Mcguire
+125
+	He shaved the peach to prove a point.
+	39
+	2
+
+126
+	He was sitting in a trash can with high street class.
+	70
+	0
+
+127
+	Despite what your teacher may have told you, there is a wrong way to wield a lasso.
+	51
+	5
+
+128
+	The underground bunker was filled with chips and candy.
+	13
+	5
+
+129
+	Red is greener than purple, for sure.
+	35
+	2
+	public
+	Jerrald Matos
+130
+	He wondered if it could be called a beach if there was no sand.
+	137
+	3
+
+131
+	Just because the water is red doesn't mean you can't drink it.
+	0
+	1
+	public
+	Xian Liang
+132
+	The fog was so dense even a laser decided it wasn't worth the effort.
+	73
+	1
+	private
+	Maria Hanna
+133
+	The child’s favorite Christmas gift was the large box her father’s lawnmower came in.
+	115
+	1
+
+134
+	He was sure the Devil created red sparkly glitter.
+	63
+	7
+
+135
+	Of course, she loves her pink bunny slippers.
+	25
+	2
+
+136
+	Being unacquainted with the chief raccoon was harming his prospects for promotion.
+	83
+	1
+	private
+	Anish Kapadia
+137
+	It isn't true that my mattress is made of cotton candy.
+	45
+	0
+
+138
+	Never underestimate the willingness of the greedy to throw you under the bus.
+	104
+	7
+
+139
+	I cheated while playing the darts tournament by using a longbow.
+	44
+	3
+	public
+	Peng Lan
+140
+	Various sea birds are elegant, but nothing is as elegant as a gliding pelican.
+	107
+	1
+	public
+	Frederick Murray
+141
+	She lived on Monkey Jungle Road and that seemed to explain all of her strangeness.
+	42
+	1
+	public
+	Lilly Flynn
+142
+	There's a reason that roses have thorns.
+	120
+	1
+
+143
+	I am never at home on Sundays.
+	131
+	1
+
+144
+	She wanted a pet platypus but ended up getting a duck and a ferret instead.
+	28
+	2
+	public
+	Xie Zhelan
+145
+	He uses onomatopoeia as a weapon of mental destruction.
+	45
+	3
+	public
+	Kong Ning
+146
+	Nothing seemed out of place except the washing machine in the bar.
+	78
+	0
+
+147
+	The tumbleweed refused to tumble but was more than willing to prance.
+	73
+	0
+	private
+	Louie Fry
+148
+	People generally approve of dogs eating cat food but not cats eating dog food.
+	12
+	4
+	private
+	Louie Fry
+149
+	Patricia loves the sound of nails strongly pressed against the chalkboard.
+	98
+	3
+
+150
+	My secretary is the only person who truly understands my stamp-collecting obsession.
+	74
+	2
+
+151
+	When I was little I had a car door slammed shut on my hand and I still remember it quite vividly.
+	67
+	0
+
+152
+	Joyce enjoyed eating pancakes with ketchup.
+	121
+	2
+	private
+	Long De
+153
+	All they could see was the blue water surrounding their sailboat.
+	83
+	1
+	private
+	Eliot Moses
+154
+	I am counting my calories, yet I really want dessert.
+	71
+	2
+
+155
+	Blue sounded too cold at the time and yet it seemed to work for gin.
+	97
+	2
+	private
+	Cira Villarrubia
+156
+	Her scream silenced the rowdy teenagers.
+	128
+	3
+
+157
+	His mind was blown that there was nothing in space except space itself.
+	115
+	9
+
+158
+	Barking dogs and screaming toddlers have the unique ability to turn friendly neighbors into cranky enemies.
+	21
+	4
+	private
+	Zainab Stephenson
+159
+	Mary realized if her calculator had a history, it would be more embarrassing than her computer browser history.
+	45
+	4
+	private
+	Paul Hines
+160
+	Excitement replaced fear until the final moment.
+	54
+	7
+	private
+	Ellie-Mae Vega
+161
+	Two seats were vacant.
+	32
+	1
+	public
+	Maisy Castro
+162
+	You've been eyeing me all day and waiting for your move like a lion stalking a gazelle in a savannah.
+	122
+	0
+	private
+	Fintan Carrillo
+163
+	Wisdom is easily acquired when hiding under the bed with a saucepan on your head.
+	84
+	0
+
+164
+	The fence was confused about whether it was supposed to keep things in or keep things out.
+	102
+	10
+	private
+	Nikhil Waller
+165
+	The gloves protect my feet from excess work.
+	127
+	2
+	private
+	Cira Villarrubia
+166
+	25 years later, she still regretted that specific moment.
+	9
+	0
+
+167
+	Patricia loves the sound of nails strongly pressed against the chalkboard.
+	115
+	9
+
+168
+	Hang on, my kittens are scratching at the bathtub and they'll upset by the lack of biscuits.
+	75
+	5
+
+169
+	You bite up because of your lower jaw.
+	120
+	4
+	public
+	Pan Chin
+170
+	Shakespeare was a famous 17th-century diesel mechanic.
+	102
+	5
+
+171
+	Lets all be unique together until we realise we are all the same.
+	22
+	6
+
+172
+	The shark-infested South Pine channel was the only way in or out.
+	5
+	2
+
+173
+	Erin accidentally created a new universe.
+	52
+	1
+	public
+	Nicolas Lozoya
+174
+	My uncle's favorite pastime was building cars out of noodles.
+	130
+	0
+	private
+	Lakshmi Vyas
+175
+	My biggest joy is roasting almonds while stalking prey.
+	45
+	0
+	public
+	Kong Ning
+176
+	I want a giraffe, but I'm a turtle eating waffles.
+	34
+	0
+
+177
+	As time wore on, simple dog commands turned into full paragraphs explaining why the dog couldn’t do something.
+	113
+	1
+	private
+	Haaris George
+178
+	The swirled lollipop had issues with the pop rock candy.
+	87
+	5
+
+179
+	The truth is that you pay for your lifestyle in hours.
+	67
+	2
+
+180
+	A dead duck doesn't fly backward.
+	12
+	2
+
+181
+	She wanted to be rescued, but only if it was Tuesday and raining.
+	58
+	7
+
+182
+	A good example of a useful vegetable is medicinal rhubarb.
+	94
+	3
+
+183
+	I checked to make sure that he was still alive.
+	8
+	1
+
+184
+	On each full moon
+	55
+	1
+	public
+	Beau Tucker
+185
+	She always speaks to him in a loud voice.
+	72
+	8
+	public
+	Jonathan Johnston
+186
+	Getting up at dawn is for the birds.
+	93
+	1
+
+187
+	She had a difficult time owning up to her own crazy self.
+	144
+	7
+
+188
+	They improved dramatically once the lead singer left.
+	142
+	1
+
+189
+	The tortoise jumped into the lake with dreams of becoming a sea turtle.
+	139
+	6
+
+190
+	The old apple revels in its authority.
+	20
+	4
+	public
+	Kanan Rau
+191
+	Nudist colonies shun fig-leaf couture.
+	101
+	1
+	public
+	Cecily Schroeder
+192
+	That must be the tenth time I've been arrested for selling deep-fried cigars.
+	114
+	5
+	private
+	Bienvenida Estopinal
+193
+	It took him a month to finish the meal.
+	132
+	3
+
+194
+	He looked behind the door and didn't like what he saw.
+	39
+	2
+	private
+	Frank Campbell
+195
+	Peanuts don't grow on trees, but cashews do.
+	122
+	3
+	private
+	Stanley Hartley
+196
+	The fog was so dense even a laser decided it wasn't worth the effort.
+	119
+	5
+	private
+	Joyce Baldwin
+197
+	The fifty mannequin heads floating in the pool kind of freaked them out.
+	46
+	2
+	public
+	Nicholas Nunez
+198
+	Plans for this weekend include turning wine into water.
+	86
+	6
+
+199
+	They did nothing as the raccoon attacked the lady’s bag of food.
+	105
+	1
+

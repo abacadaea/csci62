@@ -1,0 +1,12 @@
+ID	Name		Year	Zip
+==============================
+80 Peng Lan 1989 60162
+76 Cira Villarrubia 2007 71227
+115 Astrid Cantrell 1988 2751
+145 Natalia Rhodes 2003 84630
+40 Paciencia Santoyo 1987 49698
+44 Eliot Moses 2000 54267
+53 Feng Yuhan 1991 98095
+94 Ali Mccall 2001 44526
+110 Xian Liang 1999 43444
+113 Shawn Hill 1997 662

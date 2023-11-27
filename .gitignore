@@ -60,7 +60,6 @@ deps
 # mathematica
 *.nb
 *.m
-*.txt
 
 *.key
 *.numbers

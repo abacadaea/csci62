@@ -67,7 +67,13 @@ public:
 
     while (q.size() > 0) {
       int cur = q.front();
-
+      q.pop();
+      for (auto neighbor : adjLists_[cur]) {
+        if (!visited[neighbor]) {
+          visited[neighbor] = true;
+          q.push(neighbor);
+        }
+      }
       // HERE
       // print statements added
       std::cout << "cur: " << cur << std::endl;
@@ -79,14 +85,6 @@ public:
       }
       std::cout << std::endl;
       // HERE
-
-      q.pop();
-      for (auto neighbor : adjLists_[cur]) {
-        if (!visited[neighbor]) {
-          visited[neighbor] = true;
-          q.push(neighbor);
-        }
-      }
     }
   }
 

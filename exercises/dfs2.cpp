@@ -70,11 +70,11 @@ public:
     // end HERE
 
     for (auto neighbor : adjLists_[cur]) {
-        if (!visited[neighbor]) {
-          visited[neighbor] = true;
-          DFSHelper(neighbor, visited);
-        }
+      if (!visited[neighbor]) {
+        visited[neighbor] = true;
+        DFSHelper(neighbor, visited);
       }
+    }
   }
 
   void DFS(int source) {

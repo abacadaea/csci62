@@ -69,6 +69,13 @@ public:
 
     while (stck.size() > 0) {
       int cur = stck.top();
+      stck.pop();
+      for (auto neighbor : adjLists_[cur]) {
+        if (!visited[neighbor]) {
+          visited[neighbor] = true;
+          stck.push(neighbor);
+        }
+      }
       // HERE
       // print statements added
       std::cout << "cur: " << cur << std::endl;
@@ -80,14 +87,6 @@ public:
       }
       std::cout << std::endl;
       // HERE
-
-      stck.pop();
-      for (auto neighbor : adjLists_[cur]) {
-        if (!visited[neighbor]) {
-          visited[neighbor] = true;
-          stck.push(neighbor);
-        }
-      }
     }
   }
 

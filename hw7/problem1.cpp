@@ -3,7 +3,7 @@
 #include <string.h>
 #include <stdlib.h>
 
-int check_authentication() {
+int auth() {
     int auth_flag=0;
     char password[16];
     
@@ -16,7 +16,7 @@ int check_authentication() {
 }
 
 int main(){
-    if (check_authentication()) {
+    if (auth()) {
         printf(" Access Granted.\n");
     } else {
         printf("\nAccess Denied.\n");

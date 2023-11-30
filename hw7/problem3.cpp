@@ -9,7 +9,7 @@ void granted() {
 }
 
 int auth() {
-    char password[8];
+    char password[16];
     gets(password);
     if (strcmp(password, "123456")==0)
       granted();

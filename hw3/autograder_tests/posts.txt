@@ -1,0 +1,2437 @@
+406
+0
+	The llama couldn't resist trying the lemonade.
+	132
+	6
+
+
+1
+	He decided to live his life by the big beats manifesto.
+	47
+	1
+
+
+2
+	They wandered into a strange Tiki bar on the edge of the small beach town.
+	106
+	2
+	public
+	Aled Montes
+3
+	Flash photography is best used in full sunlight.
+	31
+	3
+	private
+	Kirsty Golden
+4
+	His confidence would have bee admirable if it wasn't for his stupidity.
+	106
+	4
+
+
+5
+	She wondered what his eyes were saying beneath his mirrored sunglasses.
+	54
+	7
+
+
+6
+	He quietly entered the museum as the super bowl started.
+	33
+	9
+
+
+7
+	Greetings from the real universe.
+	26
+	9
+
+
+8
+	Wisdom is easily acquired when hiding under the bed with a saucepan on your head.
+	62
+	4
+
+
+9
+	As the rental car rolled to a stop on the dark road, her fear increased by the moment.
+	70
+	2
+	private
+	Teng Huo
+10
+	She did a happy dance because all of the socks from the dryer matched.
+	80
+	3
+
+
+11
+	The snow-covered path was no help in finding his way out of the back-country.
+	77
+	5
+	public
+	Maria Hanna
+12
+	Her daily goal was to improve on yesterday.
+	94
+	0
+
+
+13
+	She looked at the masterpiece hanging in the museum but all she could think is that her five-year-old could do better.
+	44
+	2
+
+
+14
+	Situps are a terrible way to end your day.
+	21
+	3
+
+
+15
+	She always speaks to him in a loud voice.
+	76
+	0
+
+
+16
+	I love bacon, beer, birds, and baboons.
+	2
+	1
+	public
+	Paciencia Santoyo
+17
+	I met an interesting turtle while the song on the radio blasted away.
+	5
+	1
+	public
+	Jerrald Matos
+18
+	Little Red Riding Hood decided to wear orange today.
+	66
+	2
+
+
+19
+	While on the first date he accidentally hit his head on the beam.
+	10
+	1
+	private
+	Shakti Brahmbhatt
+20
+	The elephant didn't want to talk about the person in the room.
+	35
+	4
+	public
+	Beau Tucker
+21
+	The overpass went under the highway and into a secret world.
+	36
+	0
+
+
+22
+	He played the game as if his life depended on it and the truth was that it did.
+	120
+	2
+
+
+23
+	Just go ahead and press that button.
+	121
+	2
+	private
+	Ayrton Simpson
+24
+	I'll have you know I've written over fifty novels
+	31
+	4
+	public
+	Todd Terrell
+25
+	Pair your designer cowboy hat with scuba gear for a memorable occasion.
+	0
+	1
+
+
+26
+	The thick foliage and intertwined vines made the hike nearly impossible.
+	105
+	2
+	public
+	Isaac Guzman
+27
+	The anaconda was the greatest criminal mastermind in this part of the neighborhood.
+	52
+	3
+
+
+28
+	Karen believed all traffic laws should be obeyed by all except herself.
+	61
+	5
+
+
+29
+	Joyce enjoyed eating pancakes with ketchup.
+	142
+	2
+	private
+	Zackary Miranda
+30
+	The reservoir water level continued to lower while we enjoyed our long shower.
+	70
+	2
+	private
+	Teng Huo
+31
+	He's in a boy band which doesn't make much sense for a snake.
+	14
+	3
+
+
+32
+	He created a pig burger out of beef.
+	119
+	4
+	private
+	Tomas Bradford
+33
+	I am never at home on Sundays.
+	119
+	7
+
+
+34
+	Two more days and all his problems would be solved.
+	50
+	2
+	private
+	Alysha Gray
+35
+	Siri became confused when we reused to follow her directions.
+	42
+	5
+	public
+	Pan Chin
+36
+	Shakespeare was a famous 17th-century diesel mechanic.
+	47
+	0
+	public
+	Yaseen Fitzgerald
+37
+	Tuesdays are free if you bring a gnome costume.
+	33
+	0
+	public
+	Kong Ning
+38
+	He found the chocolate covered roaches quite tasty.
+	8
+	2
+	public
+	Connor Norris
+39
+	He realized there had been several deaths on this road, but his concern rose when he saw the exact number.
+	106
+	1
+	private
+	Tia Moon
+40
+	Tom got a small piece of pie.
+	45
+	1
+	public
+	Jana Edwards
+41
+	Joe discovered that traffic cones make excellent megaphones.
+	106
+	3
+	private
+	Kurtis Stein
+42
+	He decided water-skiing on a frozen lake wasn’t a good idea.
+	12
+	2
+
+
+43
+	The sunblock was handed to the girl before practice, but the burned skin was proof she did not apply it.
+	15
+	1
+	public
+	Nicolas Lozoya
+44
+	The trick to getting kids to eat anything is to put catchup on it.
+	77
+	5
+
+
+45
+	I really want to go to work, but I am too sick to drive.
+	23
+	4
+
+
+46
+	Everybody should read Chaucer to improve their everyday vocabulary.
+	35
+	1
+	private
+	Arianna Lozano
+47
+	Please wait outside of the house.
+	77
+	0
+
+
+48
+	Lucifer was surprised at the amount of life at Death Valley.
+	62
+	0
+	public
+	Lois Bernard
+49
+	There aren't enough towels in the world to stop the sewage flowing from his mouth.
+	119
+	7
+
+
+50
+	When I was little I had a car door slammed shut on my hand and I still remember it quite vividly.
+	83
+	0
+	private
+	Louie Fry
+51
+	There's no reason a hula hoop can't also be a circus ring.
+	17
+	1
+
+
+52
+	He strives to keep the best lawn in the neighborhood.
+	127
+	7
+
+
+53
+	There were three sphered rocks congregating in a cubed room.
+	134
+	1
+
+
+54
+	There's probably enough glass in my cupboard to build an undersea aquarium.
+	121
+	2
+
+
+55
+	Choosing to do nothing is still a choice, after all.
+	51
+	5
+	public
+	Cira Villarrubia
+56
+	The child’s favorite Christmas gift was the large box her father’s lawnmower came in.
+	98
+	7
+	public
+	Barry Pacheco
+57
+	You've been eyeing me all day and waiting for your move like a lion stalking a gazelle in a savannah.
+	53
+	1
+
+
+58
+	Some bathing suits just shouldn’t be worn by some people.
+	45
+	5
+	public
+	Paul Hines
+59
+	Combines are no longer just for farms.
+	47
+	2
+
+
+60
+	The clock within this blog and the clock on my laptop are 1 hour different from each other.
+	53
+	6
+
+
+61
+	Jeanne wished she has chosen the red button.
+	115
+	9
+
+
+62
+	He was sure the Devil created red sparkly glitter.
+	124
+	0
+
+
+63
+	He had unknowingly taken up sleepwalking as a nighttime hobby.
+	15
+	0
+
+
+64
+	He dreamed of eating green apples with worms.
+	128
+	5
+
+
+65
+	There should have been a time and a place, but this wasn't it.
+	32
+	3
+	public
+	Lana Pittman
+66
+	Today I dressed my unicorn in preparation for the race.
+	49
+	0
+	public
+	Kyron Miller
+67
+	She always speaks to him in a loud voice.
+	38
+	0
+
+
+68
+	Mr. Montoya knows the way to the bakery even though he's never been there.
+	122
+	4
+	private
+	Bartosz Morton
+69
+	It was always dangerous to drive with him since he insisted the safety cones were a slalom course.
+	69
+	6
+	private
+	Nicholas Nunez
+70
+	His mind was blown that there was nothing in space except space itself.
+	74
+	5
+	public
+	Xian Liang
+71
+	You can't compare apples and oranges, but what about bananas and plantains?
+	135
+	0
+	private
+	Sumaya Stokes
+72
+	He decided to fake his disappearance to avoid jail.
+	15
+	0
+	private
+	Nicolas Lozoya
+73
+	He said he was not there yesterday; however, many people saw him there.
+	15
+	1
+	private
+	Sandhya Krish
+74
+	Don't step on the broken glass.
+	110
+	4
+	private
+	Aled Montes
+75
+	She learned that water bottles are no longer just to hold liquid, but they're also status symbols.
+	52
+	0
+	private
+	Marina Cole
+76
+	Everyone was curious about the large white blimp that appeared overnight.
+	84
+	2
+	public
+	Otis Baker
+77
+	The sky is clear; the stars are twinkling.
+	88
+	1
+
+
+78
+	The two walked down the slot canyon oblivious to the sound of thunder in the distance.
+	57
+	0
+	private
+	Zain White
+79
+	My biggest joy is roasting almonds while stalking prey.
+	100
+	3
+
+
+80
+	There were a lot of paintings of monkeys waving bamboo sticks in the gallery.
+	74
+	4
+	private
+	Yang Xinyi
+81
+	She was the type of girl that always burnt sugar to show she cared.
+	112
+	5
+
+
+82
+	A dead duck doesn't fly backward.
+	24
+	0
+	private
+	Yuan Wuhan
+83
+	We need to rent a room for our party.
+	95
+	8
+
+
+84
+	No matter how beautiful the sunset, it saddened her knowing she was one day older.
+	55
+	3
+	public
+	Jia Jun
+85
+	As she walked along the street and looked in the gutter, she realized facemasks had become the new cigarette butts.
+	17
+	5
+	private
+	Frederick Murray
+86
+	Lets all be unique together until we realise we are all the same.
+	29
+	0
+	public
+	Anish Kapadia
+87
+	You're good at English when you know the difference between a man eating chicken and a man-eating chicken.
+	135
+	4
+
+
+88
+	When motorists sped in and out of traffic, all she could think of was those in need of a transplant.
+	133
+	5
+
+
+89
+	Poison ivy grew through the fence they said was impenetrable.
+	30
+	4
+
+
+90
+	The group quickly understood that toxic waste was the most effective barrier to use against the zombies.
+	66
+	2
+	public
+	Jana Edwards
+91
+	He decided that the time had come to be stronger than any of the excuses he'd used until then.
+	95
+	8
+	private
+	Mahamari Chakpram
+92
+	At that moment he wasn't listening to music, he was living an experience.
+	86
+	6
+
+
+93
+	It's important to remember to be aware of rampaging grizzly bears.
+	89
+	4
+
+
+94
+	He spiked his hair green to support his iguana.
+	143
+	3
+
+
+95
+	I think I will buy the red car, or I will lease the blue one.
+	69
+	5
+
+
+96
+	He knew it was going to be a bad day when he saw mountain lions roaming the streets.
+	50
+	2
+
+
+97
+	I was offended by the suggestion that my baby brother was a jewel thief.
+	79
+	2
+
+
+98
+	The three-year-old girl ran down the beach as the kite flew behind her.
+	128
+	5
+	private
+	Xian Liang
+99
+	They say people remember important moments in their life well, yet no one even remembers their own birth.
+	4
+	3
+
+
+100
+	Poison ivy grew through the fence they said was impenetrable.
+	108
+	3
+	public
+	Gloria Contreras
+101
+	The family’s excitement over going to Disneyland was crazier than she anticipated.
+	56
+	0
+	public
+	Paul Hines
+102
+	When he asked her favorite number, she answered without hesitation that it was diamonds.
+	70
+	1
+
+
+103
+	He was disappointed when he found the beach to be so sandy and the sun so sunny.
+	59
+	3
+
+
+104
+	Today I dressed my unicorn in preparation for the race.
+	117
+	7
+	private
+	Paul Hines
+105
+	I've traveled all around Africa and still haven't found the gnu who stole my scarf.
+	41
+	2
+	private
+	Maria Hanna
+106
+	She looked into the mirror and saw another person.
+	31
+	2
+	public
+	Kirsty Golden
+107
+	I had a friend in high school named Rick Shaw, but he was fairly useless as a mode of transport.
+	139
+	6
+	private
+	Kyron Miller
+108
+	When I was little I had a car door slammed shut on my hand and I still remember it quite vividly.
+	32
+	0
+
+
+109
+	The bees decided to have a mutiny against their queen.
+	28
+	6
+	private
+	Madeleine Castillo
+110
+	He found a leprechaun in his walnut shell.
+	13
+	4
+
+
+111
+	A good example of a useful vegetable is medicinal rhubarb.
+	49
+	6
+
+
+112
+	The green tea and avocado smoothie turned out exactly as would be expected.
+	29
+	1
+
+
+113
+	Pat ordered a ghost pepper pie.
+	147
+	3
+	private
+	Alysha Gray
+114
+	The bird had a belief that it was really a groundhog.
+	124
+	1
+
+
+115
+	She says she has the ability to hear the soundtrack of your life.
+	1
+	1
+	public
+	Varun Desai
+116
+	If you really strain your ears, you can just about hear the sound of no one giving a damn.
+	102
+	10
+	private
+	Gasper Blancas
+117
+	Wisdom is easily acquired when hiding under the bed with a saucepan on your head.
+	83
+	1
+	private
+	Anish Kapadia
+118
+	This made him feel like an old-style rootbeer float smells.
+	17
+	8
+
+
+119
+	The mysterious diary records the voice.
+	69
+	5
+	public
+	Brandon Ballard
+120
+	I just wanted to tell you I could see the love you have for your child by the way you look at her.
+	29
+	1
+
+
+121
+	They throw cabbage that turns your brain into emotional baggage.
+	44
+	3
+	private
+	Haaris George
+122
+	Abstraction is often one floor above you.
+	114
+	0
+	private
+	Molly Arias
+123
+	He found rain fascinating yet unpleasant.
+	120
+	2
+	public
+	Ajay Charles
+124
+	He figured a few sticks of dynamite were easier than a fishing pole to catch fish.
+	25
+	1
+	private
+	Mae Mcguire
+125
+	He shaved the peach to prove a point.
+	39
+	2
+
+
+126
+	He was sitting in a trash can with high street class.
+	70
+	0
+
+
+127
+	Despite what your teacher may have told you, there is a wrong way to wield a lasso.
+	51
+	5
+
+
+128
+	The underground bunker was filled with chips and candy.
+	13
+	5
+
+
+129
+	Red is greener than purple, for sure.
+	35
+	2
+	public
+	Jerrald Matos
+130
+	He wondered if it could be called a beach if there was no sand.
+	137
+	3
+
+
+131
+	Just because the water is red doesn't mean you can't drink it.
+	0
+	1
+	public
+	Xian Liang
+132
+	The fog was so dense even a laser decided it wasn't worth the effort.
+	73
+	1
+	private
+	Maria Hanna
+133
+	The child’s favorite Christmas gift was the large box her father’s lawnmower came in.
+	115
+	1
+
+
+134
+	He was sure the Devil created red sparkly glitter.
+	63
+	7
+
+
+135
+	Of course, she loves her pink bunny slippers.
+	25
+	2
+
+
+136
+	Being unacquainted with the chief raccoon was harming his prospects for promotion.
+	83
+	1
+	private
+	Anish Kapadia
+137
+	It isn't true that my mattress is made of cotton candy.
+	45
+	0
+
+
+138
+	Never underestimate the willingness of the greedy to throw you under the bus.
+	104
+	7
+
+
+139
+	I cheated while playing the darts tournament by using a longbow.
+	44
+	3
+	public
+	Peng Lan
+140
+	Various sea birds are elegant, but nothing is as elegant as a gliding pelican.
+	107
+	1
+	public
+	Frederick Murray
+141
+	She lived on Monkey Jungle Road and that seemed to explain all of her strangeness.
+	42
+	1
+	public
+	Lilly Flynn
+142
+	There's a reason that roses have thorns.
+	120
+	1
+
+
+143
+	I am never at home on Sundays.
+	131
+	1
+
+
+144
+	She wanted a pet platypus but ended up getting a duck and a ferret instead.
+	28
+	2
+	public
+	Xie Zhelan
+145
+	He uses onomatopoeia as a weapon of mental destruction.
+	45
+	3
+	public
+	Kong Ning
+146
+	Nothing seemed out of place except the washing machine in the bar.
+	78
+	0
+
+
+147
+	The tumbleweed refused to tumble but was more than willing to prance.
+	73
+	0
+	private
+	Louie Fry
+148
+	People generally approve of dogs eating cat food but not cats eating dog food.
+	12
+	4
+	private
+	Louie Fry
+149
+	Patricia loves the sound of nails strongly pressed against the chalkboard.
+	98
+	3
+
+
+150
+	My secretary is the only person who truly understands my stamp-collecting obsession.
+	74
+	2
+
+
+151
+	When I was little I had a car door slammed shut on my hand and I still remember it quite vividly.
+	67
+	0
+
+
+152
+	Joyce enjoyed eating pancakes with ketchup.
+	121
+	2
+	private
+	Long De
+153
+	All they could see was the blue water surrounding their sailboat.
+	83
+	1
+	private
+	Eliot Moses
+154
+	I am counting my calories, yet I really want dessert.
+	71
+	2
+
+
+155
+	Blue sounded too cold at the time and yet it seemed to work for gin.
+	97
+	2
+	private
+	Cira Villarrubia
+156
+	Her scream silenced the rowdy teenagers.
+	128
+	3
+
+
+157
+	His mind was blown that there was nothing in space except space itself.
+	115
+	9
+
+
+158
+	Barking dogs and screaming toddlers have the unique ability to turn friendly neighbors into cranky enemies.
+	21
+	4
+	private
+	Zainab Stephenson
+159
+	Mary realized if her calculator had a history, it would be more embarrassing than her computer browser history.
+	45
+	4
+	private
+	Paul Hines
+160
+	Excitement replaced fear until the final moment.
+	54
+	7
+	private
+	Ellie-Mae Vega
+161
+	Two seats were vacant.
+	32
+	1
+	public
+	Maisy Castro
+162
+	You've been eyeing me all day and waiting for your move like a lion stalking a gazelle in a savannah.
+	122
+	0
+	private
+	Fintan Carrillo
+163
+	Wisdom is easily acquired when hiding under the bed with a saucepan on your head.
+	84
+	0
+
+
+164
+	The fence was confused about whether it was supposed to keep things in or keep things out.
+	102
+	10
+	private
+	Nikhil Waller
+165
+	The gloves protect my feet from excess work.
+	127
+	2
+	private
+	Cira Villarrubia
+166
+	25 years later, she still regretted that specific moment.
+	9
+	0
+
+
+167
+	Patricia loves the sound of nails strongly pressed against the chalkboard.
+	115
+	9
+
+
+168
+	Hang on, my kittens are scratching at the bathtub and they'll upset by the lack of biscuits.
+	75
+	5
+
+
+169
+	You bite up because of your lower jaw.
+	120
+	4
+	public
+	Pan Chin
+170
+	Shakespeare was a famous 17th-century diesel mechanic.
+	102
+	5
+
+
+171
+	Lets all be unique together until we realise we are all the same.
+	22
+	6
+
+
+172
+	The shark-infested South Pine channel was the only way in or out.
+	5
+	2
+
+
+173
+	Erin accidentally created a new universe.
+	52
+	1
+	public
+	Nicolas Lozoya
+174
+	My uncle's favorite pastime was building cars out of noodles.
+	130
+	0
+	private
+	Lakshmi Vyas
+175
+	My biggest joy is roasting almonds while stalking prey.
+	45
+	0
+	public
+	Kong Ning
+176
+	I want a giraffe, but I'm a turtle eating waffles.
+	34
+	0
+
+
+177
+	As time wore on, simple dog commands turned into full paragraphs explaining why the dog couldn’t do something.
+	113
+	1
+	private
+	Haaris George
+178
+	The swirled lollipop had issues with the pop rock candy.
+	87
+	5
+
+
+179
+	The truth is that you pay for your lifestyle in hours.
+	67
+	2
+
+
+180
+	A dead duck doesn't fly backward.
+	12
+	2
+
+
+181
+	She wanted to be rescued, but only if it was Tuesday and raining.
+	58
+	7
+
+
+182
+	A good example of a useful vegetable is medicinal rhubarb.
+	94
+	3
+
+
+183
+	I checked to make sure that he was still alive.
+	8
+	1
+
+
+184
+	On each full moon
+	55
+	1
+	public
+	Beau Tucker
+185
+	She always speaks to him in a loud voice.
+	72
+	8
+	public
+	Jonathan Johnston
+186
+	Getting up at dawn is for the birds.
+	93
+	1
+
+
+187
+	She had a difficult time owning up to her own crazy self.
+	144
+	7
+
+
+188
+	They improved dramatically once the lead singer left.
+	142
+	1
+
+
+189
+	The tortoise jumped into the lake with dreams of becoming a sea turtle.
+	139
+	6
+
+
+190
+	The old apple revels in its authority.
+	20
+	4
+	public
+	Kanan Rau
+191
+	Nudist colonies shun fig-leaf couture.
+	101
+	1
+	public
+	Cecily Schroeder
+192
+	That must be the tenth time I've been arrested for selling deep-fried cigars.
+	114
+	5
+	private
+	Bienvenida Estopinal
+193
+	It took him a month to finish the meal.
+	132
+	3
+
+
+194
+	He looked behind the door and didn't like what he saw.
+	39
+	2
+	private
+	Frank Campbell
+195
+	Peanuts don't grow on trees, but cashews do.
+	122
+	3
+	private
+	Stanley Hartley
+196
+	The fog was so dense even a laser decided it wasn't worth the effort.
+	119
+	5
+	private
+	Joyce Baldwin
+197
+	The fifty mannequin heads floating in the pool kind of freaked them out.
+	46
+	2
+	public
+	Nicholas Nunez
+198
+	Plans for this weekend include turning wine into water.
+	86
+	6
+
+
+199
+	They did nothing as the raccoon attacked the lady’s bag of food.
+	105
+	1
+
+
+200
+	The dancing giraffe wore a tutu made of spaghetti.
+	24
+	3
+	private
+	Ali Mccall
+201
+	My pet rock thinks it's a secret agent for the undercover garden gnome society.
+	7
+	0
+	private
+	Frederick Murray
+202
+	The talking banana convinced the skeptical apple to join a fruit rebellion.
+	32
+	0
+	private
+	Anish Kapadia
+203
+	A group of sneezing dolphins organized a bubblegum-blowing competition underwater.
+	143
+	4
+
+
+204
+	The invisible snail won the race by leaving a trail of glitter behind.
+	144
+	4
+
+
+205
+	I accidentally swapped my GPS with a spaghetti noodle and ended up in the lost-and-saucy dimension.
+	68
+	0
+
+
+206
+	The moon is made of cheese, and astronauts go there for intergalactic fondue parties.
+	75
+	4
+
+
+207
+	My alarm clock speaks only in pirate language and demands a daily ration of chocolate coins.
+	6
+	5
+
+
+208
+	The ninja chicken practiced stealth by hiding in a carton of eggs.
+	136
+	3
+
+
+209
+	The library hosted a heated debate between books and e-books about who's more shelf-worthy.
+	97
+	2
+
+
+210
+	My cat believes it is a philosopher and contemplates the meaning of life while chasing its tail.
+	11
+	0
+	public
+	Hernandez Vicencio
+211
+	The clouds were having a pillow fight, and it rained feathers for days.
+	55
+	3
+	public
+	Beau Tucker
+212
+	The singing donut serenaded the coffee cup with a sweet lullaby.
+	24
+	2
+
+
+213
+	The superhero toaster shoots butter beams to rescue dry toast in distress.
+	147
+	3
+
+
+214
+	My shadow refuses to follow me because it wants to pursue a career in interpretive dance.
+	17
+	1
+	private
+	Shitala Cheema
+215
+	The rubber duck rebellion took over the bathtub, demanding more bubble baths for everyone.
+	90
+	1
+
+
+216
+	The roller-skating penguin challenged the ice-skating flamingo to a dance-off on a frozen pond.
+	84
+	2
+
+
+217
+	A group of acrobatic tomatoes performed daring stunts on the kitchen counter.
+	31
+	1
+	public
+	Mohammad Thomson
+218
+	The sock puppet theater presented a gripping drama about the mysterious case of the missing socks.
+	86
+	1
+	public
+	Kang Liang
+219
+	The pancake declared itself the king of breakfast and demanded a syrup tax from waffles.
+	147
+	0
+
+
+220
+	I accidentally watered my plants with fruit punch, and now they're growing fruit salad.
+	143
+	1
+	private
+	Eskame Fernando
+221
+	The jellybean orchestra played a sweet symphony that attracted a swarm of candy-loving bees.
+	130
+	7
+
+
+222
+	The talking cactus hosted a radio show for desert creatures, discussing sand dune fashion trends.
+	35
+	0
+	private
+	Beau Tucker
+223
+	The time-traveling pineapple visited the Middle Ages and became the medieval fruit knight.
+	100
+	5
+	public
+	Ajay Charles
+224
+	The conspiracy theory among garden gnomes is that flamingos are actually undercover spies.
+	141
+	1
+
+
+225
+	My pet rock wrote a best-selling autobiography titled "Memoirs of a Sedimentary Superstar."
+	120
+	1
+
+
+226
+	The hula-hooping hamster became the sensation of the rodent carnival.
+	87
+	5
+	private
+	Marco Turner
+227
+	The balloon animals escaped from the circus and embarked on a journey to find their true purpose.
+	7
+	0
+
+
+228
+	The bubblegum on the sidewalk formed a secret society to protest against shoe oppression.
+	55
+	1
+	private
+	Mae Mcguire
+229
+	The disco ball in my living room is convinced it's the center of the universe.
+	0
+	7
+
+
+230
+	The pencil sharpener claimed it had a black belt in martial arts and challenged the eraser to a duel.
+	132
+	4
+
+
+231
+	The cheeseburger choir harmonized with the french fry orchestra to create a fast-food masterpiece.
+	56
+	1
+	private
+	Madeleine Castillo
+232
+	The snowman in my backyard dreams of becoming a famous sculptor in the Ice Age.
+	52
+	3
+	private
+	Andy Rocha
+233
+	The fortune cookie predicted that I would have a dance-off with a unicorn under the moonlight.
+	88
+	4
+
+
+234
+	The toothpaste rebelled against the toothbrush, demanding independence for oral hygiene products.
+	8
+	4
+	private
+	Hermione Sutton
+235
+	The rubber chicken became a motivational speaker, inspiring other rubber chickens to "wing it" in life.
+	90
+	6
+	public
+	Jana Edwards
+236
+	The popcorn kernels organized a protest against microwaves, advocating for a return to traditional popping methods.
+	37
+	6
+
+
+237
+	The jigsaw puzzle solved itself out of sheer boredom and promptly retired to a puzzle retirement community.
+	11
+	4
+	public
+	Barry Pacheco
+238
+	The skateboard-riding banana taught a masterclass on extreme fruit sports.
+	98
+	2
+
+
+239
+	The superhero mosquito saved the day by draining all the blood from the evil mastermind, leaving them light-headed.
+	89
+	1
+
+
+240
+	The marshmallow family built a summer home on a hot cocoa lake.
+	14
+	6
+	public
+	Tomas Bradford
+241
+	The tomato declared itself a fruit but aspired to be a vegetable lawyer.
+	100
+	3
+
+
+242
+	The rubber duck became a life coach, offering quackingly good advice for navigating the challenges of pond life.
+	104
+	0
+	private
+	Alex Mcconnell
+243
+	The chocolate chip cookies formed a rock band called "The Sweet Beats" and went on a world tour.
+	35
+	4
+
+
+244
+	The potato chip choir sang the crunchy anthem of snack time solidarity.
+	34
+	2
+
+
+245
+	The ping pong ball attempted to break the world record for the longest bounce, but it got tired after the third bounce.
+	142
+	7
+
+
+246
+	The umbrella tried stand-up comedy but only got laughs when it accidentally opened indoors.
+	41
+	2
+	public
+	Lana Pittman
+247
+	The jellyfish joined a support group for creatures without spines, discussing the challenges of not having a backbone.
+	59
+	0
+	public
+	Frank Campbell
+248
+	The talking tree hosted a podcast about the secrets of the forest, with guest appearances from wise old rocks.
+	67
+	2
+	private
+	Lois Bernard
+249
+	The rubber band rebellion demanded equal stretching rights for all bands, regardless of elasticity.
+	41
+	4
+
+
+250
+	The rubber ducky became the mayor of the bathtub and implemented quack-tastic policies.
+	11
+	2
+	public
+	Hernandez Vicencio
+251
+	The potato challenged the couch to a staring contest and won after the couch got too comfy to keep its eyes open.
+	59
+	7
+
+
+252
+	The sock drawer organized a protest against mismatching socks, advocating for equal pair rights.
+	113
+	2
+	public
+	Astrid Cantrell
+253
+	The pizza delivery guy claimed he could teleport, but it turned out he just had a really fast scooter.
+	79
+	3
+
+
+254
+	The apple pie declared itself the king of desserts and demanded a royal crust treatment.
+	33
+	8
+
+
+255
+	The bubble wrap convention got out of hand when attendees started popping each other instead of the bubbles.
+	87
+	1
+
+
+256
+	The cactus opened a spa for stressed-out succulents, offering prickly relaxation treatments.
+	6
+	3
+	private
+	Maddie Reid
+257
+	The sneezing elephant set a world record for the loudest trumpet solo during allergy season.
+	44
+	6
+	public
+	Bonnie Reeves
+258
+	The superhero broccoli fought against the evil candy corn, promoting a balanced diet.
+	129
+	3
+
+
+259
+	The rubber chicken became the CEO of a rubber products company, leading the charge for bouncy innovation.
+	109
+	1
+
+
+260
+	The potato chip bag staged a rebellion against being crumpled, demanding respect for its snacky contents.
+	52
+	0
+
+
+261
+	The karate-chopping carrot trained vegetables in self-defense against kitchen utensils.
+	58
+	5
+
+
+262
+	The pillow fought with the blanket over who gets to cover the bed at night.
+	42
+	7
+	private
+	Bai De
+263
+	The burrito rolled itself into a burrito ball and challenged other fast foods to a game of culinary dodgeball.
+	50
+	1
+	private
+	Jia Jun
+264
+	The shadow puppets formed a rock band called "The Silhouettes" and went on a shadowy tour.
+	121
+	1
+
+
+265
+	The paper airplane unionized and demanded better working conditions in classrooms.
+	124
+	2
+	public
+	Jana Edwards
+266
+	The marshmallow decided to become a stand-up comedian, telling sweet and fluffy jokes.
+	78
+	1
+	public
+	Connor Norris
+267
+	The rubber ducky organized a flotation device protest, demanding better treatment in the bathtub.
+	100
+	5
+
+
+268
+	The slinky declared itself the ruler of staircases and demanded tribute in the form of smooth descents.
+	119
+	2
+
+
+269
+	The kite formed a rebellion against gravity, attempting to float away to a land of eternal breezes.
+	68
+	0
+	public
+	Teng Huo
+270
+	The disco ball hosted a glittering gala for all the sparkly things in the universe.
+	24
+	0
+	private
+	Barry Pacheco
+271
+	The trampoline challenged the tightrope to a bounce-off in the circus of gravity-defying feats.
+	105
+	2
+
+
+272
+	The rubber chicken started a dance craze called the "Chicken Cha-Cha," taking barnyards by storm.
+	132
+	5
+	public
+	Tomas Bradford
+273
+	The rubber ducky organized a synchronized swimming competition for bath toys.
+	143
+	3
+
+
+274
+	The feather duster claimed it was a secret agent on a mission to dust off international conspiracies.
+	5
+	3
+
+
+275
+	The kazoo orchestra performed a symphony of silliness at the annual clown convention.
+	47
+	3
+
+
+276
+	The jellybean became a motivational speaker, encouraging others to embrace their inner sweetness.
+	130
+	6
+
+
+277
+	The jigsaw puzzle solved itself in record time and retired to a life of leisure on the coffee table.
+	31
+	0
+
+
+278
+	The talking sock convinced the other laundry items to form a rock band called "The Lint Rollers."
+	4
+	0
+
+
+279
+	The ice cream cone went on a quest to find the legendary cherry on top of the sundae mountain.
+	144
+	5
+
+
+280
+	The rubber duck became a detective and solved the case of the missing bath toys.
+	57
+	2
+
+
+281
+	The jump rope challenged the garden hose to a double Dutch competition in the backyard.
+	82
+	1
+
+
+282
+	The spaghetti noodle rebelled against the pasta pot, demanding the right to choose its own sauce.
+	29
+	1
+	private
+	Yuan Wuhan
+283
+	The rubber band ball became the mayor of the desk drawer, promoting office supply unity.
+	80
+	2
+
+
+284
+	The pancake stack formed a pancake pyramid scheme, with each pancake recruiting more breakfast items.
+	61
+	6
+
+
+285
+	The kazoo declared itself the king of musical instruments and demanded a royal procession.
+	14
+	0
+
+
+286
+	The rubber chicken joined a comedy troupe and performed poultry stand-up at the barnyard comedy club.
+	103
+	0
+	private
+	Song Long
+287
+	The rubber ducky organized a protest against bath time, advocating for more playtime in the tub.
+	19
+	5
+	private
+	Soma Cherian
+288
+	The bubble wrap organized a bubble-popping marathon and raised funds for the "Save the Bubbles" foundation.
+	109
+	6
+	public
+	Astrid Cantrell
+289
+	The potato chip bag started a rebellion against being folded, demanding freedom for its crispy contents.
+	117
+	1
+	private
+	Vasuki Kaamat
+290
+	The feather duster became a superhero, using its dusting powers to defeat evil dust bunnies.
+	12
+	1
+	public
+	Shitala Cheema
+291
+	The rubber chicken challenged the garden gnome to a dance-off in the moonlit garden.
+	54
+	0
+	public
+	Lakshmi Vyas
+292
+	The talking sock hosted a podcast about the secret lives of socks, featuring exclusive interviews with sock celebrities.
+	81
+	2
+	private
+	Molly Arias
+293
+	The ice cream cone declared itself the queen of frozen treats and demanded a royal coronation.
+	106
+	1
+
+
+294
+	The rubber duck organized a duck parade in the bathtub, featuring floats made of soap bubbles.
+	112
+	2
+	public
+	Joyce Baldwin
+295
+	The marshmallow became a life coach for other confectioneries, offering sweet advice on life's challenges.
+	87
+	3
+
+
+296
+	The rubber band declared itself the ruler of the office, demanding loyalty from all stationery supplies.
+	119
+	0
+	public
+	Jana Edwards
+297
+	The kazoo formed a band with the harmonica and accordion, creating a cacophony of comedic music.
+	31
+	1
+	public
+	Jonathan Johnston
+298
+	The pancake stack challenged the waffle tower to a breakfast brawl in the kitchen.
+	142
+	2
+	public
+	Pundarik Samuel
+299
+	The rubber chicken joined a circus and became the star of the feathered frenzy acrobatics act.
+	80
+	2
+
+
+300
+	1. Just invented a new language that consists entirely of meows and interpretive dance. Who wants to join my conversation class?
+	90
+	2
+	private
+	Bartosz Morton
+301
+	
+	27
+	5
+	public
+	Tia Moon
+302
+	2. Accidentally wore my shirt inside out all day. Decided it's the latest fashion trend – backward chic!
+	65
+	1
+	public
+	Saira Booker
+303
+	
+	97
+	2
+
+
+304
+	3. Started a support group for people who forget what day it is. First meeting is tomorrow, or maybe it was yesterday?
+	12
+	2
+	public
+	Shawn Hill
+305
+	
+	16
+	2
+	private
+	Anish Kapadia
+306
+	4. Tried to teach my pet goldfish how to fetch. It didn't go well; now I have a wet living room.
+	111
+	8
+	public
+	Varun Desai
+307
+	
+	108
+	2
+	public
+	Autumn Jensen
+308
+	5. Just successfully completed a staring contest with my cat. Victory has never been so furry!
+	81
+	0
+	public
+	Ajay Charles
+309
+	
+	94
+	5
+	private
+	Yaseen Fitzgerald
+310
+	6. Convinced my reflection in the mirror to participate in a karaoke duet. The mirror didn't hit any high notes.
+	87
+	4
+	public
+	Aja Jani
+311
+	
+	100
+	6
+	private
+	Helena Carpenter
+312
+	7. Dropped my sandwich on the floor, and it landed peanut butter side up. Today, I am the chosen one.
+	31
+	1
+	public
+	Tia Moon
+313
+	
+	4
+	4
+	private
+	Wendy Hartman
+314
+	8. Started a book club for people who never finish the books but still want to discuss them. Spoiler alert: We never discuss the endings.
+	139
+	0
+	public
+	Madina Pedregon
+315
+	
+	124
+	1
+	private
+	Eliot Moses
+316
+	9. Decided to become a professional nap-taker. It's a tough job, but someone has to do it.
+	62
+	0
+	private
+	Lois Bernard
+317
+	Found a genie lamp, but my three wishes were all for more wishes. Now I'm drowning in infinite wishes. Oops?
+	53
+	1
+
+
+318
+	Invented a dance move called "The Awkward Penguin." It involves a lot of shuffling and flapping. It's catching on slowly.
+	30
+	0
+	private
+	Kyron Miller
+319
+	Attempted to break the world record for the longest time spent balancing a spoon on my nose. Current record holder: My cat.
+	145
+	2
+
+
+320
+	Started a petition to add a coffee IV drip to the office supplies list. Productivity levels would skyrocket!
+	132
+	1
+
+
+321
+	Decided to become a professional procrastinator but haven't gotten around to it yet.
+	14
+	5
+	public
+	Xie Zhelan
+322
+	Had a conversation with my GPS about the meaning of life. It recalculated.
+	140
+	6
+	public
+	Filipa Cerrato
+323
+	Just taught my pet rock how to roll over. Now it's unstoppable.
+	95
+	7
+	private
+	Maddie Reid
+324
+	Tried to make a sandwich using a tortilla as bread. It's a wrap – literally.
+	4
+	4
+	private
+	Gasper Blancas
+325
+	Started a band called "The Shower Singers." Our first album is titled "Shampoo Serenades."
+	71
+	2
+
+
+326
+	Invented a new sport called extreme spooning. It involves intense cuddling and oversized utensils.
+	125
+	7
+	public
+	Lois Bernard
+327
+	Decided to organize my sock drawer by personality. Turns out, my socks have more character than I thought.
+	93
+	6
+	public
+	Mahamari Chakpram
+328
+	Wrote a letter to the sun asking for a cooler summer. No response yet.
+	118
+	2
+
+
+329
+	Found a hidden talent: juggling marshmallows. The downside is that now my cat thinks I'm a snack dispenser.
+	95
+	0
+	public
+	Mae Mcguire
+330
+	Launched a social media campaign to bring back pet rocks. #RockSolidFriends
+	126
+	2
+	public
+	Alina Baird
+331
+	Started a fitness program where the only exercise is dancing like nobody's watching. Spoiler: Nobody's watching.
+	21
+	1
+	private
+	Frederick Murray
+332
+	Tried to break the record for the world's longest stare. I blinked.
+	76
+	4
+
+
+333
+	Invented a new board game called "Monotony." The goal is to see who can be the most bored.
+	27
+	4
+
+
+334
+	Decided to become a professional daydreamer. I'm currently accepting applications for a nap manager position.
+	112
+	2
+
+
+335
+	Taught my dog how to fetch the newspaper, but it came back as a paper-mâché sculpture. Close enough.
+	134
+	0
+	public
+	Melody Cabrera
+336
+	Attempted to create a time machine using a microwave and a clock. Dinner was ruined, but at least it wasn't time-traveling.
+	87
+	3
+
+
+337
+	Started a club for people who never finished organizing their sock drawer. We meet in the cluttered living room.
+	45
+	2
+
+
+338
+	Invented a new language that consists entirely of puns. It's pun-derful!
+	32
+	3
+	public
+	Kaden Krueger
+339
+	Found a way to turn coffee into a solid form. I call them "coffee cubes." Patent pending.
+	38
+	0
+	private
+	Teng Huo
+340
+	Started a campaign to replace all traffic lights with dance-offs. It's a traffic jam of epic proportions.
+	26
+	0
+
+
+341
+	Tried to teach my cat to type. The result was a masterpiece of random letters.
+	13
+	5
+
+
+342
+	Invented a game called "Hide and Seek with My Keys." Spoiler: The keys always win.
+	125
+	2
+
+
+343
+	Decided to become a professional cloud-watcher. The sky's the limit, literally.
+	85
+	5
+
+
+344
+	Found a way to turn ordinary socks into sock puppets. Sock puppet theater, here I come!
+	140
+	6
+	public
+	Marco Turner
+345
+	Started a food blog for recipes that require zero cooking skills. First recipe: cereal.
+	37
+	7
+	public
+	Louie Fry
+346
+	Tried to set a record for the longest time spent balancing a spoon on someone else's nose. It's a team effort.
+	53
+	0
+	private
+	Melody Cabrera
+347
+	Invented a new dance move called "The Disco Dishwasher." It involves a lot of spinning and detergent.
+	88
+	7
+	public
+	Jacques Mendoza
+348
+	Started a campaign to make pajamas acceptable office attire. Productivity might skyrocket!
+	147
+	1
+	public
+	Paciencia Santoyo
+349
+	Decided to become a professional blanket burrito roller. It's a cozy career.
+	133
+	4
+
+
+350
+	Found a way to turn procrastination into an art form. Still working on perfecting it... eventually.
+	35
+	4
+
+
+351
+	Launched a podcast about the existential thoughts of houseplants. It's called "The Philosophical Fern."
+	125
+	10
+
+
+352
+	Invented a game called "Extreme Pillow Fighting." Protective gear required.
+	7
+	1
+
+
+353
+	Started a club for people who collect collectibles. Our first meeting was a mess of knick-knacks.
+	41
+	6
+	public
+	Jacques Mendoza
+354
+	Tried to teach my cat to play chess. Checkmate: the laser pointer always wins.
+	37
+	2
+	public
+	Bartosz Morton
+355
+	Decided to become a professional parallel parker. My parallel parking skills are on point.
+	59
+	3
+
+
+356
+	Launched a petition to make "Dress Like a Pirate Day" a weekly event. Arrrr you in?
+	66
+	0
+
+
+357
+	Attempted to break the record for the world's slowest race. The tortoise was still faster.
+	46
+	1
+	private
+	Saira Booker
+358
+	Invented a new holiday called "National Sock Mismatch Day." Embrace the chaos!
+	107
+	1
+
+
+359
+	Started a campaign to replace all elevators with slides. The commute just got a lot more fun.
+	42
+	4
+
+
+360
+	Decided to become a professional blanket fort architect. My skills are tent-atively improving.
+	137
+	4
+
+
+361
+	Launched a YouTube channel dedicated to reviewing invisible products. Spoiler: They're all top-notch.
+	147
+	2
+	public
+	Tabitha Marsh
+362
+	Invented a game called "Musical Chairs with One Chair." It's a nail-biter.
+	116
+	0
+	private
+	Teng Huo
+363
+	Started a club for people who collect unusual rocks. We meet in a very rocky place.
+	21
+	4
+
+
+364
+	Tried to teach my dog how to do the cha-cha. It ended in a furry dance party.
+	70
+	2
+	public
+	Teng Huo
+365
+	Decided to become a professional napkin folder. It's a fold-time job.
+	110
+	6
+	private
+	Arianna Lozano
+366
+	Launched a campaign to replace handshakes with high-fives. Germs, meet enthusiasm!
+	82
+	1
+	public
+	Paciencia Santoyo
+367
+	Attempted to break the record for the most consecutive cartwheels. Spoiler: I'm not a gymnast.
+	37
+	3
+	public
+	Bartosz Morton
+368
+	Invented a new game called "Hide and Seek with My Phone." It's in silent mode somewhere.
+	107
+	1
+	private
+	Astrid Cantrell
+369
+	Started a campaign to rename all desserts to "sweet satisfaction circles." It's catchy!
+	50
+	0
+	private
+	Anish Kapadia
+370
+	Decided to become a professional cereal box reader. The nutritional facts are thrilling.
+	54
+	8
+
+
+371
+	Launched a petition to make bedtime a socially acceptable time for adults. No more judgment for early sleepers!
+	65
+	0
+
+
+372
+	Tried to teach my cat to solve a Rubik's Cube. The cube remains unsolved, and the cat is napping.
+	31
+	4
+	private
+	Mohammad Thomson
+373
+	Invented a game called "The Great Sock Hunt." Spoiler: The socks are always hiding.
+	44
+	4
+	public
+	Natalia Rhodes
+374
+	Attempted to break the record for the world's quietest party. It was a silent success.
+	114
+	6
+	private
+	Estelle Knapp
+375
+	Decided to become a professional bubble wrap popper. It's a stress-relieving career choice.
+	91
+	2
+
+
+376
+	Launched a campaign to replace all doorbells with personalized jingles. Ding-dong, sing along!
+	139
+	1
+	private
+	Bartosz Morton
+377
+	Tried to teach my pet fish synchronized swimming. They're still working on their routine.
+	39
+	3
+
+
+378
+	Invented a game called "Extreme Tic-Tac-Toe." Spoiler: It's still a tie.
+	135
+	10
+
+
+379
+	Started a club for people who collect invisible souvenirs. Our shelves are full of nothing.
+	88
+	7
+
+
+380
+	Decided to become a professional pillow fluffer. Sweet dreams, fluff enthusiasts!
+	26
+	6
+
+
+381
+	Found a way to turn procrastination into a sport. The championship is perpetually delayed.
+	124
+	4
+
+
+382
+	Launched a petition to add "Dress Like a Superhero Day" to the official calendar. Capes for everyone!
+	55
+	3
+	public
+	Constance Byrd
+383
+	Attempted to break the record for the longest time spent balancing a spoon on my nose while reciting Shakespeare. Alas, poor Yorick!
+	144
+	1
+	private
+	Jonathan Johnston
+384
+	Decided to become a professional cloud counter. The sky's the limit for this career.
+	104
+	3
+	private
+	Gasper Blancas
+385
+	Tried to teach my pet parrot beatboxing. It's now the hippest bird in town.
+	15
+	1
+
+
+386
+	Invented a game called "Musical Chairs for One." Spoiler: It's oddly lonely.
+	33
+	5
+
+
+387
+	Started a campaign to make pajamas acceptable attire for formal events. Who needs ball gowns?
+	52
+	3
+
+
+388
+	Launched a YouTube channel dedicated to reviewing imaginary movies. Spoiler: They're all blockbuster hits.
+	69
+	6
+	private
+	Brandon Ballard
+389
+	Attempted to break the record for the world's slowest book club. We're still on the first page.
+	118
+	3
+
+
+390
+	Decided to become a professional pen twirler. My office supplies have never been so entertained.
+	15
+	0
+
+
+391
+	Found a way to turn daydreaming into an Olympic sport. Gold medal in imagination, please!
+	58
+	6
+
+
+392
+	Tried to teach my dog how to whistle. Turns out, that's a skill reserved for humans.
+	93
+	2
+	public
+	Zakir Jennings
+393
+	Invented a game called "The Great Sock Migration." Socks travel in pairs, seeking warmer climates.
+	134
+	4
+
+
+394
+	Started a club for people who collect unusual smells. Our nostrils are connoisseurs.
+	72
+	3
+	private
+	Alina Baird
+395
+	Launched a petition to add "Nap Time" to the official work schedule. Productivity would skyrocket, obviously.
+	143
+	3
+
+
+396
+	Attempted to break the record for the world's longest paper airplane flight. Spoiler: It crashed on takeoff.
+	32
+	3
+
+
+397
+	Decided to become a professional bedtime storyteller. Fairy tales for the sleep-deprived.
+	119
+	8
+
+
+398
+	Tried to teach my cat the art of origami. Paper cranes are now cat toys.
+	37
+	0
+	private
+	Ellie-Mae Vega
+399
+	Invented a game called "The Silent Sing-Along." Lips move, but no sound comes out.
+	139
+	7
+	private
+	Louie Fry
+400
+	Started a campaign to replace all traffic signs with interpretive dance signals. Left turn, jazz hands!
+	29
+	0
+	private
+	Filipa Cerrato
+401
+	Launched a YouTube channel dedicated to reviewing invisible gadgets. Spoiler: They're all cutting-edge.
+	134
+	0
+
+
+402
+	Attempted to break the record for the world's longest hopscotch game. Spoiler: I got tired.
+	1
+	2
+	private
+	Josha Varkey
+403
+	Decided to become a professional cereal box riddler. The mysteries of breakfast, decoded.
+	83
+	1
+	public
+	Wayne Proctor
+404
+	Found a way to turn daydreaming into a team sport. Go team imagination!
+	21
+	5
+
+
+405
+	Tried to teach my goldfish how to play chess. Checkmate: Fish are better at swimming.
+	51
+	4
+	public
+	Jana Edwards

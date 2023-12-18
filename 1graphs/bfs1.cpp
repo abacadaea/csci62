@@ -91,6 +91,8 @@ public:
 };
 
 
+// in class demo
+/*
 int main () {
   Graph G;
   G.addVertex();
@@ -107,4 +109,25 @@ int main () {
   G.addEdge(0,4);
 
   G.BFS(2);
+}
+*/
+
+// in class exercise
+int main () {
+  Graph G;
+  G.addVertex();
+  G.addVertex();
+  G.addVertex();
+  G.addVertex();
+  G.addVertex();
+  G.addVertex();
+  G.addEdge(0,1);
+  G.addEdge(1,2);
+  G.addEdge(2,3);
+  G.addEdge(2,5);
+  G.addEdge(3,5);
+  G.addEdge(4,3);
+  G.addEdge(0,4);
+
+  G.BFS(4);
 }

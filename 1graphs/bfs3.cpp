@@ -2,24 +2,6 @@
 #include <vector>
 #include <set>
 #include <queue>
-#include <stack>
-
-using namespace std;
-
-void print_stack(stack<int> s)
-{
-  stack<int> s2;
-  while (!s.empty()) {
-    s2.push(s.top());
-    s.pop();
-  }
-  while (!s2.empty())
-  {
-    cout << s2.top() << " ";
-    s2.pop();
-  }
-  cout << endl;
-}
 
 class Graph {
 public:
@@ -46,7 +28,7 @@ public:
   // pre: none
   // post: a new vertex with label n() has been added to this Graph
   void addVertex() {
-    adjLists_.push_back(set<int>{});
+    adjLists_.push_back(std::set<int>{});
   }
 
   // pre: i < n() && j < n()
@@ -64,42 +46,43 @@ public:
     adjLists_[j].erase(i); 
   }
 
+  std::vector<int> shortestPath(int from, int to) {
+    std::queue<int> q;
+    std::vector<bool> visited (n(), 0);
+    std::vector<int> prev (n(), -1);
 
-  // what does this print out?
+    visited[from] = true;
+    q.push(from);
 
-  void DFS(int source) {
-    stack<int> stck;
-    vector<bool> visited (n(), 0);
-
-    visited[source] = true;
-    stck.push(source);
-
-    while (stck.size() > 0) {
-      int cur = stck.top();
-      stck.pop();
+    while (q.size() > 0) {
+      int cur = q.front();
+      q.pop();
       for (auto neighbor : adjLists_[cur]) {
         if (!visited[neighbor]) {
+          prev[neighbor] = cur;
           visited[neighbor] = true;
-          stck.push(neighbor);
+          q.push(neighbor);
         }
       }
-      // HERE
-      // print statements added
-      cout << "cur: " << cur << endl;
-      cout << "stck: ";
-      print_stack(stck);
-      cout << "visited: ";
-      for (int i = 0; i < n(); i ++) {
-        cout << i << (visited[i] ? "T" : "F") << " ";
-      }
-      cout << endl;
-      // HERE
     }
+    // print statements added
+    for (int i = 0; i < n(); i ++) {
+      std::cout << "prev[" << i << "]=" << prev[i] << std::endl;
+    }
+    // end print statements
+
+    std::vector<int> output;
+    int cur = to;
+    while (cur != from) {
+      output.push_back(cur);
+      cur = prev[cur];
+    }
+    return output;
   }
 
  private:
   // assumption: vertices are numbered 0, 1, ..., n-1
-  vector<set<int> > adjLists_;
+  std::vector<std::set<int> > adjLists_;
 };
 
 // in class demo
@@ -111,15 +94,21 @@ int main () {
   G.addVertex();
   G.addVertex();
   G.addVertex();
+  G.addVertex();
   G.addEdge(0,1);
+  G.addEdge(0,4);
   G.addEdge(1,2);
-  G.addEdge(2,3);
   G.addEdge(1,3);
   G.addEdge(1,4);
-  G.addEdge(4,3);
-  G.addEdge(0,4);
+  G.addEdge(2,3);
+  G.addEdge(3,4);
 
-  G.DFS(0);
+  std::vector<int> path = G.shortestPath(0,3);
+  std::cout << "Number of Vertices on Path: " << path.size() << std::endl << "Path: ";
+  for (auto v : path) {
+    std::cout << v << " ";
+  }
+  std::cout << std::endl;
 }
 */
 
@@ -140,5 +129,10 @@ int main () {
   G.addEdge(4,3);
   G.addEdge(0,4);
 
-  G.DFS(4);
+  std::vector<int> path = G.shortestPath(4,2);
+  std::cout << "Number of Vertices on Path: " << path.size() << std::endl << "Path: ";
+  for (auto v : path) {
+    std::cout << v << " ";
+  }
+  std::cout << std::endl;
 }

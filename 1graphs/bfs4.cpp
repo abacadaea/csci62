@@ -46,11 +46,12 @@ public:
     adjLists_[j].erase(i); 
   }
 
-  std::vector<int> shortestPath(int from, int to) {
+  int shortestPathLength(int from, int to) {
     std::queue<int> q;
     std::vector<bool> visited (n(), 0);
-    std::vector<int> prev (n(), -1);
+    std::vector<int> dist (n(), -1);
 
+    dist[from] = 0;
     visited[from] = true;
     q.push(from);
 
@@ -59,27 +60,13 @@ public:
       q.pop();
       for (auto neighbor : adjLists_[cur]) {
         if (!visited[neighbor]) {
-          prev[neighbor] = cur;
+          dist[neighbor] = dist[cur] + 1;
           visited[neighbor] = true;
           q.push(neighbor);
         }
       }
     }
-    // print statements added
-    for (int i = 0; i < n(); i ++) {
-      std::cout << "prev[" << i << "]=" << prev[i] << std::endl;
-    }
-    // end print statements
-
-    std::vector<int> output;
-    int cur = to;
-    while (cur != from) {
-      output.push_back(cur);
-      cur = prev[cur];
-    }
-    output.push_back(from);
-    reverse(output.begin(), output.end());
-    return output;
+    return dist[to];
   }
 
  private:
@@ -97,17 +84,12 @@ int main () {
   G.addVertex();
   G.addVertex();
   G.addEdge(0,1);
-  G.addEdge(0,4);
   G.addEdge(1,2);
-  G.addEdge(1,3);
-  G.addEdge(1,4);
   G.addEdge(2,3);
-  G.addEdge(3,4);
+  G.addEdge(2,5);
+  G.addEdge(3,5);
+  G.addEdge(4,3);
+  G.addEdge(0,4);
 
-  std::vector<int> path = G.shortestPath(0,3);
-  std::cout << "Number of Vertices on Path: " << path.size() << std::endl << "Path: ";
-  for (auto v : path) {
-    std::cout << v << " ";
-  }
-  std::cout << std::endl;
+  std::cout << G.shortestPathLength(4,2) << std::endl;
 }

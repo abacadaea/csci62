@@ -2,23 +2,15 @@
 using namespace std;
 
 class Animal{
-  private:
-    string name;
   public:
   Animal() {
-    name = "";
-    cout<<"New Animal!"<<endl;
+    cout<<"New Animal"<<endl;
   }
-  Animal(string n) {
-    name = n;
-    cout<<"New Animal: "<<name<<endl;
-  }
-  string getName(){return name;}
   void sleep(){
-    cout<<"Animal sleeps ..."<<name<<endl;
+    cout<<"Animal sleep"<<endl;
   }
   void eat(){
-    cout<<"Animal eats ..."<<name<<endl;
+    cout<<"Animal eat"<<endl;
   }
 };
 class Bird: public Animal{
@@ -26,11 +18,8 @@ class Bird: public Animal{
   Bird(){
     cout<<"New Bird!"<<endl;
   }
-  Bird(string n): Animal(n){
-    cout<<"New Bird!"<<endl;
-  }
   void sleep(){
-    cout<<"Bird sleeps ..."<<getName()<<endl;
+    cout<<"Bird sleeps"<<endl;
   }
 };
 class Cat: public Animal{
@@ -38,29 +27,24 @@ class Cat: public Animal{
   Cat(){
     cout<<"New Cat!"<<endl;
   }
-  Cat(string n): Animal(n){
-    cout<<"New Cat!"<<endl;
-  }
   void sleep(){
     Animal::sleep();//Call Animal's sleep method
-    cout<<"Cat sleeps ..."<<getName()<<endl;
+    cout<<"Cat sleeps"<<endl;
   }
   void meow(){
-    cout<<"Meow!!"<<endl;
+    cout<<"Meow"<<endl;
   }
 };
 int main(){
-  Cat c1;
-  Cat c2("Henry the Cat");
-  Animal a1;
-  Animal a2("Spot the Giraffe");
+  Animal a;
   Bird b;
+  Cat c;
 
-  a2.eat();
-  a2.sleep();
+  a.eat();
+  a.sleep();
   b.eat();
   b.sleep();
-  c2.eat();
-  c2.sleep();
-  c2.meow();
+  c.eat();
+  c.sleep();
+  c.meow();
 }

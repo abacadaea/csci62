@@ -16,6 +16,9 @@ class Person{
       name = n;
       cout << "New Person: " << n<< endl;
     }
+    void foo () {
+      cout << "Person foo" << endl;
+    }
     string toString(){
       return name;
     }
@@ -32,6 +35,9 @@ class Employee: public  Person{
       id = i;
       cout << "New Employee" << endl;
     }
+    void foo () {
+      cout << "Employee foo" << endl;
+    }
     string toString() {
       return "Employee " + Person::toString() + ", ID: " + std::to_string(id);
     }
@@ -40,10 +46,19 @@ class Employee: public  Person{
 
 int main(){
   Person p0;
-  Employee e0;
+  Employee e0; 
+  Person p1("Alice in Wonderland");
+  Employee e1("Spongebob Squarepants",1);
+
+  p0.foo();
+  e0.foo();
 
   Person p("John Smith");
   cout << p.toString() << endl;
   Employee e("Bob Smith",0);
   cout << e.toString() << endl;
+
+  // which one compiles?
+  p0 = e0;
+  e0 = p0;
 }

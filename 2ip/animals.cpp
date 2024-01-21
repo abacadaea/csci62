@@ -41,10 +41,19 @@ int main(){
   Cat c;
 
   a.eat();
-  a.sleep();
   b.eat();
-  b.sleep();
   c.eat();
+
+  a.sleep();
+  b.sleep();
   c.sleep();
+
+  //a.meow();
+  //b.meow();
   c.meow();
+
+  Animal a1, a2;
+  Bird b1, b2;
+  a1=b1; // really: a1 = (Animal) b1;
+  //b2=a2; // really: b2 = (Bird) a2;
 }

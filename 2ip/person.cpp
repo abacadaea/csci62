@@ -19,11 +19,14 @@ class Person{
     void foo () {
       cout << "Person foo" << endl;
     }
+    void bar () {
+      cout << "Person bar" << endl;
+    }
     string toString(){
       return name;
     }
 };
-class Employee: public  Person{
+class Employee: public Person{
   private:
     int id;
   public:
@@ -38,7 +41,11 @@ class Employee: public  Person{
     void foo () {
       cout << "Employee foo" << endl;
     }
+    void pay () {
+      cout << "Employee pay" << endl;
+    }
     string toString() {
+      //return "Employee " + name + ", ID: " + std::to_string(id);
       return "Employee " + Person::toString() + ", ID: " + std::to_string(id);
     }
 };
@@ -53,12 +60,18 @@ int main(){
   p0.foo();
   e0.foo();
 
-  Person p("John Smith");
-  cout << p.toString() << endl;
-  Employee e("Bob Smith",0);
-  cout << e.toString() << endl;
+  p0.bar();
+  e0.bar(); // can we still call this?
 
+  //p0.pay();
+  //e0.pay();
+
+  cout << p1.toString() << endl;
+  cout << e1.toString() << endl;
+
+  /*
   // which one compiles?
   p0 = e0;
   e0 = p0;
+  */
 }

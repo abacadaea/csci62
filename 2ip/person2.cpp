@@ -1,5 +1,5 @@
 // More inheritance practice:
-// Cross out the lines that don't compile and predict what is printed out.
+// Cross out the lines in main() that don't compile and predict what is printed out.
 // Check your answers by actually compiling and running the code
 #include <iostream>
 #include <string>

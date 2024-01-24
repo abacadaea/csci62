@@ -11,7 +11,7 @@ class Animal{
   Animal(string n) {
     name = n;
   }
-  virtual void sleep(){
+  void virtual sleep(){
     cout<<"Animal sleep" <<endl;
   }
   void eat(){
@@ -46,43 +46,28 @@ int main(){
   Bird b;
   Cat c;
 
-  a=c;  //Treat a cat object like an animal?
-        //Equivalent: a1 = (Animal)c2;
-  //c=a;//Treat an animal object like a cat?
-   
-  a.eat();
-  a.sleep();
-  //a.meow();
-  
   vector<Animal> v;
   v.push_back(a);
-  v.push_back(b);
+  v.push_back(b); // really: v.push_back((Animal) b);
   v.push_back(c);
-  cout << endl;
   for (auto x: v) {
     x.sleep(); // all objects get cast as Animal
   }     
 
-  cout << endl;
-  Animal* ap0 = new Cat();
-  ap0->sleep();//Calls Cat's sleep
-  ap0->eat();
-  //ap->meow();//Can only do Animal things while treating like an Animal
-
   Animal* ap = new Animal();
   Bird* bp = new Bird();
   Cat* cp = new Cat();
-  
+
+  cout << "bp: " << bp << endl;
+  Animal* bp2 = bp;
+  cout << "(Animal*) bp: " << bp2 << endl; // same as bp
+
   vector<Animal*> vp;
   vp.push_back(ap);
   vp.push_back(bp);
+  //equivalent: vp.push_back((Animal*)bp);
   vp.push_back(cp);
-  cout << endl;
-  for (auto x: vp) {
+  for (Animal* x: vp) {
     x->sleep();
-  }
-  cout << endl;
-  for (auto x: vp) {
-    x->eat();
   }
 }

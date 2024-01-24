@@ -2,15 +2,15 @@
 using namespace std;
 class A{
 public:
-  A(){ cout << "A's Constructor" << endl; }
-  void virtual foo(){  cout << "A's foo" << endl; }
-  void virtual fun(){ cout << "A's fun" << endl; }
+  A(){ cout << "new A" << endl; }
+  void virtual foo(){  cout << "A foo" << endl; }
+  void virtual fun(){ cout << "A fun" << endl; }
 };
 class B: public A{
 public:
-  B() {  cout << "B's Constructor" << endl; }
-  void foo(){ cout << "B's foo" << endl; }
-  void bar(){ cout << "B's bar" << endl; }
+  B() {  cout << "new B" << endl; }
+  void foo(){ cout << "B foo" << endl; }
+  void bar(){ cout << "B bar" << endl; }
 };
 int main(){
   A a1;
@@ -20,7 +20,6 @@ int main(){
 
   a1=b1;
   b2=a2;
-  
   a1.foo();
   b2.foo();
   a1.bar();

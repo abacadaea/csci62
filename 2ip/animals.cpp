@@ -56,4 +56,16 @@ int main(){
   Bird b1, b2;
   a1=b1; // really: a1 = (Animal) b1;
   //b2=a2; // really: b2 = (Bird) a2;
+
+  Animal a; Bird b; Cat c;
+
+  vector<Animal> v;
+  v.push_back(a);
+  v.push_back(b);
+  // equivalent: v.push_back((Animal)b);
+  v.push_back(c);
+
+  for (auto a_ : v) {
+    a_.sleep();
+  }
 }

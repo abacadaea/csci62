@@ -1,28 +1,23 @@
-#include <iostream>
+#include <assert.h>
+#include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
 
-using namespace std;
 
-int main() {
-  char str1[] = "HEY THERE";
-  char str2[] = "ALOHA!";
-  char str3[] = "HELLO WORLD";
+int auth() {
+  int auth_flag = 0;
+  char password[8];
+  gets(password);
+  if (strcmp(password, "123456")==0)
+    auth_flag = 1;
 
-  cout << "Before:\n";
-  cout << "str1: " << str1 << endl;
-  cout << "str2: " << str2 << endl;
-  cout << "str3: " << str3 << endl;
-
-  cout << "\nAddresses:\n";
-  cout << "str1: " << &str1 << endl;
-  cout << "str2: " << &str2 << endl;
-  cout << "str3: " << &str3 << endl;
-
-  int i;
-  for (i = 0; str3[i]!='\0'; i++) {  // until the end of str4
-    str2[i] = str3[i];
+  if (auth_flag) {
+    printf("Access Granted\n");
+  } else {
+    printf("Access Denied\n");
   }
-  cout << "\nAfter:\n";
-  cout << "str1: " << str1 << endl;
-  cout << "str2: " << str2 << endl;
-  cout << "str3: " << str3 << endl;
+}
+
+int main(){
+  auth();
 }

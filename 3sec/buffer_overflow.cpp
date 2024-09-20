@@ -4,7 +4,7 @@
 #include <stdlib.h>
 
 
-int auth() {
+int main(){
   int auth_flag = 0;
   char password[8];
   gets(password);
@@ -16,8 +16,4 @@ int auth() {
   } else {
     printf("Access Denied\n");
   }
-}
-
-int main(){
-  auth();
 }

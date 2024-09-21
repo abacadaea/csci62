@@ -11,7 +11,7 @@ int main() {
   int x = 10;
   int y = 20;
   int z = 30;
-  int w = 256;
+  int w = 1234567;
 
   int* a  = new int(5);
   int* b  = new int(10);

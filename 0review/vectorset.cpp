@@ -16,13 +16,11 @@ int main () {
     cout << arr [i] << " ";
   }
   cout << endl;
-  for (auto x: arr) {
+  for (int x: arr) {
     cout << x << " ";
   }
   cout << endl;
 
-
-  /*
   // set demo
   set<int> s;
   s.insert(5);
@@ -33,5 +31,5 @@ int main () {
   for (auto it: s) {
     cout << it << " ";
   }
-  cout << endl;*/
+  cout << endl;
 }

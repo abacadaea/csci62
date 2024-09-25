@@ -1,3 +1,5 @@
+// This program can be debugged with print statements 
+
 #include <iostream>
 
 using namespace std;

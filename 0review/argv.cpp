@@ -18,5 +18,5 @@ int main(int argc, char *argv[]) {
 
   string s; // (C++ string)
   char s2[4]; // char array (C-string)
-  char *s3 = s2; // C-strings are actually char-pointers (that point to the string)
+  char *s3 = s2; // arrays are actually pointers (to the beginning of the array)
 }

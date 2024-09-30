@@ -3,14 +3,16 @@
 #include <set>
 #include <queue>
 
-void print_queue(std::queue<int> q)
+using namespace std;
+
+void print_queue(queue<int> q)
 {
   while (!q.empty())
   {
-    std::cout << q.front() << " ";
+    cout << q.front() << " ";
     q.pop();
   }
-  std::cout << std::endl;
+  cout << endl;
 }
 
 class Graph {
@@ -38,7 +40,7 @@ public:
   // pre: none
   // post: a new vertex with label n() has been added to this Graph
   void addVertex() {
-    adjLists_.push_back(std::set<int>{});
+    adjLists_.push_back(set<int>());
   }
 
   // pre: i < n() && j < n()
@@ -59,40 +61,47 @@ public:
 
   // what does this print out?
   void BFS(int source) {
-    std::queue<int> q;
-    std::vector<bool> visited (n(), 0);
+    queue<int> q;
+    vector<bool> visited (n(), 0);
 
     visited[source] = true;
     q.push(source);
 
+    cout << "===Before while loop===\n"; // print statement added
+    cout << "q: "; print_queue(q); // print statement added
+    cout << "visited: "; // print statement added
+    for (int i = 0; i < n(); i ++) {
+      cout << i << (visited[i] ? "x" : ".") << " "; // print statement added
+    }
+    cout << endl << endl << "===Inside while loop===\n"; // print statement added
+
     while (q.size() > 0) {
       int cur = q.front();
       q.pop();
-      for (auto neighbor : adjLists_[cur]) {
+      for (int neighbor : adjLists_[cur]) {
         if (!visited[neighbor]) {
           visited[neighbor] = true;
           q.push(neighbor);
         }
       }
-      // print statements added
-      std::cout << "cur: " << cur << std::endl;
-      std::cout << "q: "; print_queue(q);
-      std::cout << "visited: ";
+      cout << "cur: " << cur << endl; // print statement added
+      cout << "q: "; print_queue(q); // print statement added
+      cout << "visited: "; // print statement added
       for (int i = 0; i < n(); i ++) {
-        std::cout << i << (visited[i] ? "T" : "F") << " ";
+        cout << i << (visited[i] ? "x" : ".") << " "; // print statement added
       }
-      std::cout << std::endl;
+      cout << endl << endl; // print statement added
     }
   }
 
  private:
   // assumption: vertices are numbered 0, 1, ..., n-1
-  std::vector<std::set<int> > adjLists_;
+  vector<set<int> > adjLists_;
 };
 
 
-// in class demo
 /*
+// in class demo
 int main () {
   Graph G;
   G.addVertex();

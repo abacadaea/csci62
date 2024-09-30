@@ -3,6 +3,8 @@
 #include <set>
 #include <queue>
 
+using namespace std;
+
 class Graph {
 public:
   // pre: none
@@ -28,7 +30,7 @@ public:
   // pre: none
   // post: a new vertex with label n() has been added to this Graph
   void addVertex() {
-    adjLists_.push_back(std::set<int>{});
+    adjLists_.push_back(set<int> ());
   }
 
   // pre: i < n() && j < n()
@@ -48,13 +50,13 @@ public:
 
   // what is wrong with this BFS?
   void BFS(int source) {
-    std::vector<int> output;
-    std::queue<int> q;
+    vector<int> output;
+    queue<int> q;
 
     q.push(source);
     while (q.size() > 0) {
       int cur = q.front();
-      std::cout << "cur: " << cur << std::endl;
+      cout << "cur: " << cur << endl;
 
       q.pop();
 
@@ -66,7 +68,7 @@ public:
 
  private:
   // assumption: vertices are numbered 0, 1, ..., n-1
-  std::vector<std::set<int> > adjLists_;
+  vector<set<int> > adjLists_;
 };
 
 

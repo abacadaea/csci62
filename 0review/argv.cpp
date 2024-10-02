@@ -4,7 +4,7 @@ using namespace std;
 
 /* 
  // the usual way
-int main (int argc, char* argv[]) {
+int main () {
   // some code
 }
 */

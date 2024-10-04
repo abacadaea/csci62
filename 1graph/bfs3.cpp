@@ -3,6 +3,8 @@
 #include <set>
 #include <queue>
 
+using namespace std;
+
 class Graph {
 public:
   // pre: none
@@ -46,10 +48,10 @@ public:
     adjLists_[j].erase(i); 
   }
 
-  std::vector<int> shortestPath(int from, int to) {
-    std::queue<int> q;
-    std::vector<bool> visited (n(), 0);
-    std::vector<int> prev (n(), -1);
+  vector<int> shortestPath(int from, int to) {
+    queue<int> q;
+    vector<bool> visited (n(), 0);
+    vector<int> prev (n(), -1);
 
     visited[from] = true;
     q.push(from);
@@ -67,29 +69,28 @@ public:
     }
     // print statements added
     for (int i = 0; i < n(); i ++) {
-      std::cout << "prev[" << i << "]=" << prev[i] << std::endl;
+      cout << "prev[" << i << "]=" << prev[i] << endl;
     }
     // end print statements
-
-    std::vector<int> output;
+    vector<int> output;
     int cur = to;
-    while (cur != from) {
+    while (cur != -1) {
       output.push_back(cur);
       cur = prev[cur];
     }
+    reverse(output.begin(), output.end());
     return output;
   }
 
  private:
   // assumption: vertices are numbered 0, 1, ..., n-1
-  std::vector<std::set<int> > adjLists_;
+  vector<set<int> > adjLists_;
 };
 
 // in class demo
 /*
 int main () {
   Graph G;
-  G.addVertex();
   G.addVertex();
   G.addVertex();
   G.addVertex();
@@ -103,15 +104,14 @@ int main () {
   G.addEdge(2,3);
   G.addEdge(3,4);
 
-  std::vector<int> path = G.shortestPath(0,3);
-  std::cout << "Number of Vertices on Path: " << path.size() << std::endl << "Path: ";
+  vector<int> path = G.shortestPath(0,3);
+  cout << "Number of Vertices on Path: " << path.size() << endl << "Path: ";
   for (auto v : path) {
-    std::cout << v << " ";
+    cout << v << " ";
   }
-  std::cout << std::endl;
+  cout << endl;
 }
 */
-
 // in class exercise
 int main () {
   Graph G;

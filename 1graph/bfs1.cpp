@@ -67,13 +67,14 @@ public:
     visited[source] = true;
     q.push(source);
 
-    cout << "===Before while loop===\n"; // print statement added
-    cout << "q: "; print_queue(q); // print statement added
-    cout << "visited: "; // print statement added
+    cout << "===Before while loop===\n"; 
+    cout << "q: "; print_queue(q); 
+    cout << "visited: "; 
     for (int i = 0; i < n(); i ++) {
-      cout << i << (visited[i] ? "x" : ".") << " "; // print statement added
+      cout << i << (visited[i] ? "x" : ".") << " "; 
     }
-    cout << endl << endl << "===Inside while loop===\n"; // print statement added
+    cout << endl << endl
+         << "===Inside while loop===\n"; 
 
     while (q.size() > 0) {
       int cur = q.front();
@@ -84,13 +85,13 @@ public:
           q.push(neighbor);
         }
       }
-      cout << "cur: " << cur << endl; // print statement added
-      cout << "q: "; print_queue(q); // print statement added
-      cout << "visited: "; // print statement added
+      cout << "cur: " << cur << endl;
+      cout << "q: "; print_queue(q);
+      cout << "visited: "; 
       for (int i = 0; i < n(); i ++) {
-        cout << i << (visited[i] ? "x" : ".") << " "; // print statement added
+        cout << i << (visited[i] ? "x" : ".") << " "; 
       }
-      cout << endl << endl; // print statement added
+      cout << endl << endl;
     }
   }
 
@@ -100,8 +101,8 @@ public:
 };
 
 
-/*
 // in class demo
+/*
 int main () {
   Graph G;
   G.addVertex();

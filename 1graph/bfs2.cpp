@@ -5,6 +5,17 @@
 
 using namespace std;
 
+void print_queue(queue<int> q)
+{
+  while (!q.empty())
+  {
+    cout << q.front() << " ";
+    q.pop();
+  }
+  cout << endl;
+}
+
+
 class Graph {
 public:
   // pre: none
@@ -56,16 +67,18 @@ public:
     q.push(source);
     while (q.size() > 0) {
       int cur = q.front();
-      cout << "cur: " << cur << endl;
-
       q.pop();
+      cout << "=====\ncur: " << cur << endl;
+      cout << "q: ";
+      print_queue(q);
 
       for (auto neighbor : adjLists_[cur]) {
           q.push(neighbor);
       }
+      cout << "q: ";
+      print_queue(q);
     }
   }
-
  private:
   // assumption: vertices are numbered 0, 1, ..., n-1
   vector<set<int> > adjLists_;
@@ -77,6 +90,5 @@ int main () {
   G.addVertex();
   G.addVertex();
   G.addEdge(0,1);
-
   G.BFS(0);
 }

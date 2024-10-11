@@ -51,7 +51,8 @@ public:
   vector<int> shortestPath(int from, int to) {
     queue<int> q;
     vector<bool> visited (n(), 0);
-    vector<int> prev (n(), -1);
+    // prev[v] is the vertex that visited/queued v
+    vector<int> prev (n(), -1); // new
 
     visited[from] = true;
     q.push(from);
@@ -61,17 +62,18 @@ public:
       q.pop();
       for (auto neighbor : adjLists_[cur]) {
         if (!visited[neighbor]) {
-          prev[neighbor] = cur;
+          prev[neighbor] = cur; // new
           visited[neighbor] = true;
           q.push(neighbor);
         }
       }
+      cout << "cur: " << cur << endl;
+      cout << "prev: ";
+      for (int i = 0; i < n(); i ++) {
+        cout << prev[i] << " ";
+      }
+      cout << endl;
     }
-    // print statements added
-    for (int i = 0; i < n(); i ++) {
-      cout << "prev[" << i << "]=" << prev[i] << endl;
-    }
-    // end print statements
     vector<int> output;
     int cur = to;
     while (cur != -1) {
@@ -87,52 +89,52 @@ public:
   vector<set<int> > adjLists_;
 };
 
-// in class demo
-/*
 int main () {
-  Graph G;
-  G.addVertex();
-  G.addVertex();
-  G.addVertex();
-  G.addVertex();
-  G.addVertex();
-  G.addEdge(0,1);
-  G.addEdge(0,4);
-  G.addEdge(1,2);
-  G.addEdge(1,3);
-  G.addEdge(1,4);
-  G.addEdge(2,3);
-  G.addEdge(3,4);
+  if (0) {
+    // in class demo
+    Graph G;
+    G.addVertex();
+    G.addVertex();
+    G.addVertex();
+    G.addVertex();
+    G.addVertex();
+    G.addEdge(0,1);
+    G.addEdge(0,4);
+    G.addEdge(1,2);
+    G.addEdge(1,3);
+    G.addEdge(1,4);
+    G.addEdge(2,3);
+    G.addEdge(3,4);
 
-  vector<int> path = G.shortestPath(0,3);
-  cout << "Number of Vertices on Path: " << path.size() << endl << "Path: ";
-  for (auto v : path) {
-    cout << v << " ";
-  }
-  cout << endl;
-}
-*/
-// in class exercise
-int main () {
-  Graph G;
-  G.addVertex();
-  G.addVertex();
-  G.addVertex();
-  G.addVertex();
-  G.addVertex();
-  G.addVertex();
-  G.addEdge(0,1);
-  G.addEdge(1,2);
-  G.addEdge(2,3);
-  G.addEdge(2,5);
-  G.addEdge(3,5);
-  G.addEdge(4,3);
-  G.addEdge(0,4);
+    vector<int> path = G.shortestPath(0,3);
+    cout << "Number of Vertices on Path: " << path.size() << endl << "Path: ";
+    for (auto v : path) {
+      cout << v << " ";
+    }
+    cout << endl;
+  } else {
+    // in class exercise
+    Graph G;
+    G.addVertex();
+    G.addVertex();
+    G.addVertex();
+    G.addVertex();
+    G.addVertex();
+    G.addVertex();
+    G.addEdge(0,1);
+    G.addEdge(1,2);
+    G.addEdge(2,3);
+    G.addEdge(2,5);
+    G.addEdge(3,5);
+    G.addEdge(4,3);
+    G.addEdge(0,4);
 
-  std::vector<int> path = G.shortestPath(4,2);
-  std::cout << "Number of Vertices on Path: " << path.size() << std::endl << "Path: ";
-  for (auto v : path) {
-    std::cout << v << " ";
+    std::vector<int> path = G.shortestPath(5,2);
+    std::cout << "Number of Vertices on Path: " << path.size() << std::endl << "Path: ";
+    for (auto v : path) {
+      std::cout << v << " ";
+    }
+    std::cout << std::endl;
   }
-  std::cout << std::endl;
 }
+

@@ -35,7 +35,6 @@ public:
       std::cout << i << (visited[i] ? "T" : "F") << " ";
     }
     std::cout << std::endl;
-    // end HERE
 
     for (auto neighbor : adjLists_[cur]) {
       if (!visited[neighbor]) {
@@ -57,43 +56,41 @@ public:
 };
 
 
-// in class demo
-/*
 int main () {
-  Graph G;
-  G.addVertex();
-  G.addVertex();
-  G.addVertex();
-  G.addVertex();
-  G.addVertex();
-  G.addEdge(0,1);
-  G.addEdge(1,2);
-  G.addEdge(2,3);
-  G.addEdge(1,3);
-  G.addEdge(1,4);
-  G.addEdge(4,3);
-  G.addEdge(0,4);
+  if (0) {
+    // in class demo
+    Graph G;
+    G.addVertex();
+    G.addVertex();
+    G.addVertex();
+    G.addVertex();
+    G.addVertex();
+    G.addEdge(0,1);
+    G.addEdge(1,2);
+    G.addEdge(2,3);
+    G.addEdge(1,3);
+    G.addEdge(1,4);
+    G.addEdge(4,3);
+    G.addEdge(0,4);
 
-  G.DFS(0);
-}
-*/
+    G.DFS(0);
+  } else {
+    // in class exercise
+    Graph G;
+    G.addVertex();
+    G.addVertex();
+    G.addVertex();
+    G.addVertex();
+    G.addVertex();
+    G.addVertex();
+    G.addEdge(0,1);
+    G.addEdge(1,2);
+    G.addEdge(2,3);
+    G.addEdge(2,5);
+    G.addEdge(3,5);
+    G.addEdge(4,3);
+    G.addEdge(0,4);
 
-// in class exercise
-int main () {
-  Graph G;
-  G.addVertex();
-  G.addVertex();
-  G.addVertex();
-  G.addVertex();
-  G.addVertex();
-  G.addVertex();
-  G.addEdge(0,1);
-  G.addEdge(1,2);
-  G.addEdge(2,3);
-  G.addEdge(2,5);
-  G.addEdge(3,5);
-  G.addEdge(4,3);
-  G.addEdge(0,4);
-
-  G.DFS(4);
+    G.DFS(4);
+  }
 }

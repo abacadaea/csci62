@@ -89,6 +89,8 @@ int main () {
   Graph G;
   G.addVertex();
   G.addVertex();
+  G.addVertex();
   G.addEdge(0,1);
+  G.addEdge(1,2);
   G.BFS(0);
 }

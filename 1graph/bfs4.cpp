@@ -3,6 +3,8 @@
 #include <set>
 #include <queue>
 
+using namespace std;
+
 class Graph {
 public:
   // pre: none
@@ -49,9 +51,10 @@ public:
   int shortestPathLength(int from, int to) {
     std::queue<int> q;
     std::vector<bool> visited (n(), 0);
+    // goal: dist[i] = d(from, i)
     std::vector<int> dist (n(), -1);
 
-    dist[from] = 0;
+    dist[from] = 0; 
     visited[from] = true;
     q.push(from);
 
@@ -65,8 +68,16 @@ public:
           q.push(neighbor);
         }
       }
+      cout << "cur: " << cur << endl;
+      cout << "dist: ";
+      for (int i = 0; i < n(); i ++) {
+        cout << dist[i] << " ";
+      }
+      cout << endl;
     }
-    return dist[to];
+  
+    // return dist[to] = d(from, to)
+    return dist[to]; 
   }
 
  private:
@@ -91,5 +102,5 @@ int main () {
   G.addEdge(4,3);
   G.addEdge(0,4);
 
-  std::cout << G.shortestPathLength(4,2) << std::endl;
+  std::cout << G.shortestPathLength(5,2) << std::endl;
 }

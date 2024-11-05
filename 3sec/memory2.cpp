@@ -3,29 +3,25 @@
 
 using namespace std;
 
-// Think: Order the addresses &x, &y, &z from low to high
-int foo() {
-  int x;
-  int y;
-  x = 2;
-  y = x+2;
-  cout << "&x: " << &x << endl;
-  cout << "&y: " << &y << endl;
+int bar(int x) {
+  int y = 2*x;
+  cout << "&x=" << &x << endl;
+  cout << "&y=" << &y << endl;
   return y;
 }
 
-int bar() {
-  int x = 2;
-  foo();
-  return x+2;
+int foo(int b, int c) {
+  int p=b;
+  int q=bar(c);
+  cout << "&b=" << &b << endl;
+  cout << "&c=" << &c << endl;
+  cout << "&p=" << &p << endl;
+  cout << "&q=" << &q << endl;
+  return p+q;
 }
 
 int main() {
-
-  bar();
-  
-
-  int z=5;
-  cout << "&z: " << &z << endl;
+  int a=5;
+  cout << "&a=" << &a << endl;
+  foo(2,3);
 }
-

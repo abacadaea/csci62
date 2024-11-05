@@ -9,14 +9,13 @@ int main() {
   cout << "&x: " << &x << endl;
   cout << "&y: " << &y << endl;
   cout << "&z: " << &z << endl;
+  // How much do &x and &y diff by?
   // What do you think happens?
   if (&x < &y) {
-    cout << "Address of x appears before address of y" << endl;
+    cout << "address of x < address of y" << endl;
   } else {
-    cout << "Address of y appears before address of x" << endl;
+    cout << "address of x > address of y" << endl;
   }
-  // Why do &x and &y differ by 4?
-  //
 
   int* aPtr  = new int(5);
   int* bPtr  = new int(10);
@@ -26,8 +25,8 @@ int main() {
   cout << "cPtr: " << cPtr << endl;
   // What do you think happens?
   if (aPtr < bPtr) {
-    cout << "aPtr points to earlier address than bPtr" << endl;
+    cout << "aPtr < bPtr" << endl;
   } else {
-    cout << "bPtr points to earlier address than aPtr" << endl;
+    cout << "aPtr > bPtr" << endl;
   }
 }

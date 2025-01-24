@@ -16,7 +16,6 @@ int main() {
     int score;
     vector<int> suggestions = net.suggestFriends(i,score);
     assert(score == 1);
-  	return 0;
-}
+  }
 	return 0;
 }

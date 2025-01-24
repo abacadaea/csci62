@@ -14,9 +14,6 @@ int main() {
 
   int score;
   vector<int> suggestions = net.suggestFriends(1,score);
-    cout << suggestions.size() << " " << score << endl;
-    for (auto v : suggestions) { cout << v << endl;	return 0;
-}
   assert(suggestions.size() == 0);
 	return 0;
 }

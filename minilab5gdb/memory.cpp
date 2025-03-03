@@ -1,11 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-
 void foo(int *n) {
   *n = *n + 10;
 }
-
 
 int main() {
   int x = 10;

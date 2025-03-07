@@ -8,7 +8,7 @@ void granted() {
   printf(" Access Granted.\n");
 }
 
-int auth() {
+void auth() {
     char password[16];
     gets(password);
     if (strcmp(password, "123456")==0)

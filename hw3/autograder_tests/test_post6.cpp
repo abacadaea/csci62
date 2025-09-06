@@ -10,7 +10,7 @@ using namespace std;
 int main() {
   Post p;
   assert(p.getMessage() == "");
-  assert(p.getMessageId() == 0);
-  assert(p.getOwnerId() == 0);
-  assert(p.getLikes() == 0);
+  assert(p.getMessageId() == -1);
+  assert(p.getProfileId() == 0);
+  assert(p.getAuthorId() == 0);
 }

@@ -9,8 +9,8 @@ using namespace std;
 
 int main() {
   Post * p = new Post(3,4,"asdf", 5);
-  IncomingPost * ip = new IncomingPost(0,1,"hi", 2, true, "Lillie Cain");
+  LinkPost * lp = new LinkPost(2,1,"hi",2, "http://www.example.com");
 
-  assert(p->getAuthor() == "");
-  assert(ip->getAuthor() == "Lillie Cain");
+  assert(p->getURL() == "");
+  assert(lp->getURL() == "http://www.example.com");
 }

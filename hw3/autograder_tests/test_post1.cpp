@@ -9,5 +9,5 @@ using namespace std;
 
 int main() {
   Post p1;
-  Post p2(0,0,"hi",2);
+  Post p2(1,2,"hi",2);
 }

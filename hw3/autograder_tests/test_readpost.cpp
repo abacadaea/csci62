@@ -13,5 +13,7 @@ int main() {
   n.readUsers("users.txt");
   n.readPosts("posts.txt");
   
-  assert(n.getUser(0)->getPosts().size() == 3);
+  assert(n.getPosts(0).size() == 6);
+  assert(n.getPosts(2).size() == 10);
+  assert(n.getPosts(147).size() == 5);
 }

@@ -8,6 +8,6 @@
 using namespace std;
 
 int main() {
-  Post p(0,1,"hi",2);
-  assert(p.getMessage() == "hi");
+  Post p(0,1,"hello",2);
+  assert(p.getMessage() == "hello");
 }

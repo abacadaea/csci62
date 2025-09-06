@@ -8,6 +8,7 @@
 using namespace std;
 
 int main() {
-  Post p(0,1,"hi",2);
-  assert(p.getOwnerId() == 1);
+  Post p(2,4,"hi",2);
+  assert(p.getProfileId() == 2);
+  assert(p.getAuthorId() == 4);
 }

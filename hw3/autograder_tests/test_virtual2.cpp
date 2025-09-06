@@ -9,10 +9,10 @@ using namespace std;
 
 int main() {
   Post * p = new Post(3,4,"asdf", 5);
-  IncomingPost * ip1 = new IncomingPost(0,1,"hi", 2, true, "Lillie Cain");
-  IncomingPost * ip2 = new IncomingPost(0,1,"hi", 2, false, "Lillie Cain");
+  LinkPost * lp1 = new LinkPost(2,1,"hiasdf",2, "http://www.example.com");
+  LinkPost * lp2 = new LinkPost(2,1,"hihihi",4, "http://www.example2.com");
 
-  assert(p->getIsPublic() == true);
-  assert(ip1->getIsPublic() == true);
-  assert(ip2->getIsPublic() == false);
+  assert(p->toString() == "asdf (5 likes)");
+  assert(lp1->toString() == "hiasdf (url: http://www.example.com) (2 likes)");
+  assert(lp2->toString() == "hihihi (url: http://www.example2.com) (4 likes)");
 }

@@ -8,6 +8,7 @@
 using namespace std;
 
 int main() {
-  Post p(0,1,"hi",2);
-  assert(p.getURL() == "");
+  LinkPost p(130,20,"hiasdfasdfasdfasdfasdfasdf", 2, "http://www.example.com");
+  assert(p.getProfileId() == 130);
+  assert(p.getAuthorId() == 20);
 }

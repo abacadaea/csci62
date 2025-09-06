@@ -8,6 +8,8 @@
 using namespace std;
 
 int main() {
-  Post p(0,1,"hi",2);
-  assert(p.getIsPublic() == true);
+  Post p(0,1,"hello",2);
+  string s = p.toString();
+  assert(s.find("hello") != std::string::npos);
+  assert(s.find("(2 likes)") != std::string::npos);
 }

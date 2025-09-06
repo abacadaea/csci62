@@ -15,9 +15,6 @@ int main() {
   n.addPost(new Post(0,3,"message2", 2));
   n.addPost(new Post(4,5,"message3", 2));
   n.addPost(new LinkPost(1,3,"message4", 2, "http://www.example.com"));
-  //n.addPost(1,"message2", 3, true, "Lillie Cain", false);
-  //n.addPost(2,"message3", 4, true, "Jeremy Hodges", true);
-  //n.addPost(0,"message4", 4, true, "Krish Summers", false);
   n.writePosts("tmp.txt");
   
   Network n2;

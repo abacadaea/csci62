@@ -1,2437 +1,7201 @@
-406
+800
 0
 	The llama couldn't resist trying the lemonade.
 	132
+	119
 	6
-
 
 1
 	He decided to live his life by the big beats manifesto.
-	47
+	53
+	48
 	1
-
-
+	http://www.example.com/1
 2
 	They wandered into a strange Tiki bar on the edge of the small beach town.
-	106
+	29
+	20
 	2
-	public
-	Aled Montes
+
 3
 	Flash photography is best used in full sunlight.
-	31
-	3
-	private
-	Kirsty Golden
+	132
+	6
+	5
+
 4
 	His confidence would have bee admirable if it wasn't for his stupidity.
 	106
+	13
 	4
-
-
+	http://www.example.com/4
 5
 	She wondered what his eyes were saying beneath his mirrored sunglasses.
-	54
-	7
-
+	131
+	70
+	6
 
 6
 	He quietly entered the museum as the super bowl started.
-	33
-	9
-
-
+	8
+	32
+	0
+	http://www.example.com/6
 7
 	Greetings from the real universe.
-	26
-	9
-
-
+	62
+	105
+	4
+	http://www.example.com/7
 8
 	Wisdom is easily acquired when hiding under the bed with a saucepan on your head.
-	62
-	4
-
+	2
+	94
+	1
 
 9
 	As the rental car rolled to a stop on the dark road, her fear increased by the moment.
-	70
-	2
-	private
-	Teng Huo
-10
-	She did a happy dance because all of the socks from the dryer matched.
 	80
+	137
 	3
 
-
+10
+	She did a happy dance because all of the socks from the dryer matched.
+	58
+	116
+	3
+	http://www.example.com/10
 11
 	The snow-covered path was no help in finding his way out of the back-country.
-	77
-	5
-	public
-	Maria Hanna
+	94
+	107
+	0
+	http://www.example.com/11
 12
 	Her daily goal was to improve on yesterday.
-	94
-	0
-
+	27
+	133
+	5
 
 13
 	She looked at the masterpiece hanging in the museum but all she could think is that her five-year-old could do better.
-	44
-	2
-
-
+	23
+	116
+	4
+	http://www.example.com/13
 14
 	Situps are a terrible way to end your day.
-	21
-	3
-
-
+	2
+	110
+	1
+	http://www.example.com/14
 15
 	She always speaks to him in a loud voice.
-	76
-	0
-
+	114
+	127
+	5
 
 16
 	I love bacon, beer, birds, and baboons.
-	2
-	1
-	public
-	Paciencia Santoyo
+	114
+	139
+	0
+
 17
 	I met an interesting turtle while the song on the radio blasted away.
-	5
-	1
-	public
-	Jerrald Matos
+	43
+	130
+	2
+
 18
 	Little Red Riding Hood decided to wear orange today.
-	66
-	2
-
-
+	77
+	142
+	3
+	http://www.example.com/18
 19
 	While on the first date he accidentally hit his head on the beam.
-	10
-	1
-	private
-	Shakti Brahmbhatt
+	67
+	33
+	0
+	http://www.example.com/19
 20
 	The elephant didn't want to talk about the person in the room.
-	35
-	4
-	public
-	Beau Tucker
+	103
+	18
+	6
+
 21
 	The overpass went under the highway and into a secret world.
-	36
-	0
-
-
+	40
+	20
+	4
+	http://www.example.com/21
 22
 	He played the game as if his life depended on it and the truth was that it did.
-	120
+	5
+	10
 	2
-
-
+	http://www.example.com/22
 23
 	Just go ahead and press that button.
-	121
-	2
-	private
-	Ayrton Simpson
+	106
+	113
+	3
+	http://www.example.com/23
 24
 	I'll have you know I've written over fifty novels
-	31
-	4
-	public
-	Todd Terrell
+	23
+	120
+	0
+	http://www.example.com/24
 25
 	Pair your designer cowboy hat with scuba gear for a memorable occasion.
-	0
-	1
-
-
+	111
+	139
+	2
+	http://www.example.com/25
 26
 	The thick foliage and intertwined vines made the hike nearly impossible.
-	105
-	2
-	public
-	Isaac Guzman
-27
-	The anaconda was the greatest criminal mastermind in this part of the neighborhood.
-	52
+	61
+	54
 	3
 
+27
+	The anaconda was the greatest criminal mastermind in this part of the neighborhood.
+	120
+	37
+	0
 
 28
 	Karen believed all traffic laws should be obeyed by all except herself.
-	61
-	5
-
-
+	75
+	66
+	3
+	http://www.example.com/28
 29
 	Joyce enjoyed eating pancakes with ketchup.
-	142
-	2
-	private
-	Zackary Miranda
+	136
+	143
+	3
+	http://www.example.com/29
 30
 	The reservoir water level continued to lower while we enjoyed our long shower.
-	70
-	2
-	private
-	Teng Huo
+	111
+	139
+	8
+	http://www.example.com/30
 31
 	He's in a boy band which doesn't make much sense for a snake.
-	14
-	3
-
+	16
+	99
+	4
 
 32
 	He created a pig burger out of beef.
-	119
-	4
-	private
-	Tomas Bradford
+	145
+	137
+	3
+	http://www.example.com/32
 33
 	I am never at home on Sundays.
-	119
-	7
-
-
+	16
+	103
+	4
+	http://www.example.com/33
 34
 	Two more days and all his problems would be solved.
-	50
-	2
-	private
-	Alysha Gray
+	142
+	20
+	5
+	http://www.example.com/34
 35
 	Siri became confused when we reused to follow her directions.
-	42
-	5
-	public
-	Pan Chin
+	47
+	13
+	0
+	http://www.example.com/35
 36
 	Shakespeare was a famous 17th-century diesel mechanic.
-	47
-	0
-	public
-	Yaseen Fitzgerald
+	62
+	105
+	2
+	http://www.example.com/36
 37
 	Tuesdays are free if you bring a gnome costume.
-	33
-	0
-	public
-	Kong Ning
-38
-	He found the chocolate covered roaches quite tasty.
-	8
+	122
+	12
 	2
-	public
-	Connor Norris
+	http://www.example.com/37
+38
+	He found the chocolate covered beans quite tasty.
+	43
+	130
+	2
+	http://www.example.com/38
 39
 	He realized there had been several deaths on this road, but his concern rose when he saw the exact number.
-	106
-	1
-	private
-	Tia Moon
+	146
+	19
+	2
+
 40
 	Tom got a small piece of pie.
 	45
+	58
 	1
-	public
-	Jana Edwards
+	http://www.example.com/40
 41
 	Joe discovered that traffic cones make excellent megaphones.
-	106
-	3
-	private
-	Kurtis Stein
+	60
+	140
+	0
+	http://www.example.com/41
 42
 	He decided water-skiing on a frozen lake wasn’t a good idea.
-	12
-	2
-
+	65
+	35
+	1
 
 43
 	The sunblock was handed to the girl before practice, but the burned skin was proof she did not apply it.
-	15
-	1
-	public
-	Nicolas Lozoya
+	86
+	96
+	6
+
 44
 	The trick to getting kids to eat anything is to put catchup on it.
-	77
-	5
-
+	106
+	38
+	2
 
 45
 	I really want to go to work, but I am too sick to drive.
-	23
-	4
-
-
+	19
+	56
+	3
+	http://www.example.com/45
 46
 	Everybody should read Chaucer to improve their everyday vocabulary.
 	35
+	102
 	1
-	private
-	Arianna Lozano
+
 47
 	Please wait outside of the house.
-	77
-	0
-
+	51
+	89
+	4
 
 48
 	Lucifer was surprised at the amount of life at Death Valley.
 	62
+	112
 	0
-	public
-	Lois Bernard
+	http://www.example.com/48
 49
-	There aren't enough towels in the world to stop the sewage flowing from his mouth.
-	119
-	7
-
-
+	There isn't enough toilet paper.
+	53
+	56
+	2
+	http://www.example.com/49
 50
 	When I was little I had a car door slammed shut on my hand and I still remember it quite vividly.
 	83
+	116
 	0
-	private
-	Louie Fry
+
 51
 	There's no reason a hula hoop can't also be a circus ring.
-	17
+	14
+	119
 	1
-
-
+	http://www.example.com/51
 52
 	He strives to keep the best lawn in the neighborhood.
 	127
+	38
 	7
-
-
+	http://www.example.com/52
 53
 	There were three sphered rocks congregating in a cubed room.
-	134
-	1
-
+	45
+	144
+	4
 
 54
 	There's probably enough glass in my cupboard to build an undersea aquarium.
-	121
-	2
-
+	129
+	33
+	8
 
 55
 	Choosing to do nothing is still a choice, after all.
-	51
-	5
-	public
-	Cira Villarrubia
+	50
+	31
+	0
+	http://www.example.com/55
 56
 	The child’s favorite Christmas gift was the large box her father’s lawnmower came in.
-	98
-	7
-	public
-	Barry Pacheco
+	10
+	89
+	8
+
 57
-	You've been eyeing me all day and waiting for your move like a lion stalking a gazelle in a savannah.
-	53
+	Take a look at this picture!
+	11
+	130
 	1
-
-
+	http://www.example.com/57
 58
 	Some bathing suits just shouldn’t be worn by some people.
-	45
+	131
 	5
-	public
-	Paul Hines
-59
-	Combines are no longer just for farms.
-	47
 	2
 
+59
+	Combines are no longer just for farms.
+	57
+	142
+	2
 
 60
 	The clock within this blog and the clock on my laptop are 1 hour different from each other.
-	53
-	6
-
+	128
+	68
+	1
 
 61
 	Jeanne wished she has chosen the red button.
-	115
-	9
-
+	124
+	44
+	0
 
 62
 	He was sure the Devil created red sparkly glitter.
-	124
-	0
-
+	119
+	59
+	2
 
 63
 	He had unknowingly taken up sleepwalking as a nighttime hobby.
-	15
-	0
-
-
+	60
+	132
+	10
+	http://www.example.com/63
 64
 	He dreamed of eating green apples with worms.
-	128
-	5
-
-
+	46
+	61
+	1
+	http://www.example.com/64
 65
 	There should have been a time and a place, but this wasn't it.
-	32
-	3
-	public
-	Lana Pittman
+	33
+	42
+	5
+	http://www.example.com/65
 66
 	Today I dressed my unicorn in preparation for the race.
-	49
-	0
-	public
-	Kyron Miller
+	91
+	43
+	5
+	http://www.example.com/66
 67
 	She always speaks to him in a loud voice.
-	38
-	0
-
+	97
+	36
+	3
 
 68
 	Mr. Montoya knows the way to the bakery even though he's never been there.
-	122
-	4
-	private
-	Bartosz Morton
+	40
+	130
+	1
+
 69
 	It was always dangerous to drive with him since he insisted the safety cones were a slalom course.
-	69
-	6
-	private
-	Nicholas Nunez
+	74
+	17
+	5
+	http://www.example.com/69
 70
 	His mind was blown that there was nothing in space except space itself.
-	74
-	5
-	public
-	Xian Liang
+	87
+	76
+	1
+
 71
 	You can't compare apples and oranges, but what about bananas and plantains?
-	135
-	0
-	private
-	Sumaya Stokes
+	43
+	130
+	1
+	http://www.example.com/71
 72
 	He decided to fake his disappearance to avoid jail.
-	15
-	0
-	private
-	Nicolas Lozoya
+	100
+	28
+	1
+
 73
 	He said he was not there yesterday; however, many people saw him there.
-	15
-	1
-	private
-	Sandhya Krish
+	2
+	110
+	3
+	http://www.example.com/73
 74
 	Don't step on the broken glass.
 	110
+	69
 	4
-	private
-	Aled Montes
+
 75
 	She learned that water bottles are no longer just to hold liquid, but they're also status symbols.
-	52
+	106
+	54
 	0
-	private
-	Marina Cole
+	http://www.example.com/75
 76
 	Everyone was curious about the large white blimp that appeared overnight.
-	84
-	2
-	public
-	Otis Baker
+	9
+	53
+	0
+	http://www.example.com/76
 77
 	The sky is clear; the stars are twinkling.
-	88
-	1
-
-
+	85
+	112
+	0
+	http://www.example.com/77
 78
 	The two walked down the slot canyon oblivious to the sound of thunder in the distance.
-	57
-	0
-	private
-	Zain White
+	121
+	136
+	2
+	http://www.example.com/78
 79
 	My biggest joy is roasting almonds while stalking prey.
-	100
+	74
+	126
 	3
-
-
+	http://www.example.com/79
 80
 	There were a lot of paintings of monkeys waving bamboo sticks in the gallery.
-	74
-	4
-	private
-	Yang Xinyi
+	29
+	20
+	0
+	http://www.example.com/80
 81
 	She was the type of girl that always burnt sugar to show she cared.
-	112
-	5
-
-
+	143
+	121
+	0
+	http://www.example.com/81
 82
 	A dead duck doesn't fly backward.
-	24
+	79
+	86
 	0
-	private
-	Yuan Wuhan
+	http://www.example.com/82
 83
 	We need to rent a room for our party.
-	95
-	8
-
+	50
+	103
+	2
 
 84
 	No matter how beautiful the sunset, it saddened her knowing she was one day older.
-	55
 	3
-	public
-	Jia Jun
+	128
+	6
+	http://www.example.com/84
 85
 	As she walked along the street and looked in the gutter, she realized facemasks had become the new cigarette butts.
-	17
-	5
-	private
-	Frederick Murray
+	133
+	125
+	6
+
 86
 	Lets all be unique together until we realise we are all the same.
-	29
+	46
+	22
 	0
-	public
-	Anish Kapadia
+
 87
 	You're good at English when you know the difference between a man eating chicken and a man-eating chicken.
-	135
-	4
-
-
+	29
+	134
+	0
+	http://www.example.com/87
 88
 	When motorists sped in and out of traffic, all she could think of was those in need of a transplant.
-	133
-	5
-
+	83
+	117
+	3
 
 89
 	Poison ivy grew through the fence they said was impenetrable.
-	30
-	4
-
-
+	133
+	13
+	5
+	http://www.example.com/89
 90
 	The group quickly understood that toxic waste was the most effective barrier to use against the zombies.
-	66
-	2
-	public
-	Jana Edwards
+	87
+	76
+	1
+	http://www.example.com/90
 91
 	He decided that the time had come to be stronger than any of the excuses he'd used until then.
-	95
-	8
-	private
-	Mahamari Chakpram
-92
-	At that moment he wasn't listening to music, he was living an experience.
-	86
-	6
-
-
-93
-	It's important to remember to be aware of rampaging grizzly bears.
-	89
+	124
+	138
 	4
 
+92
+	At that moment he wasn't listening to music, he was living an experience.
+	142
+	20
+	8
+	http://www.example.com/92
+93
+	It's important to remember to be aware of rampaging grizzly bears.
+	86
+	55
+	6
 
 94
 	He spiked his hair green to support his iguana.
 	143
-	3
-
+	138
+	7
 
 95
 	I think I will buy the red car, or I will lease the blue one.
-	69
-	5
-
+	139
+	98
+	2
 
 96
 	He knew it was going to be a bad day when he saw mountain lions roaming the streets.
 	50
+	135
 	2
-
 
 97
 	I was offended by the suggestion that my baby brother was a jewel thief.
-	79
-	2
-
-
+	117
+	14
+	6
+	http://www.example.com/97
 98
 	The three-year-old girl ran down the beach as the kite flew behind her.
-	128
-	5
-	private
-	Xian Liang
+	13
+	17
+	4
+	http://www.example.com/98
 99
 	They say people remember important moments in their life well, yet no one even remembers their own birth.
-	4
+	39
+	127
 	3
-
-
+	http://www.example.com/99
 100
 	Poison ivy grew through the fence they said was impenetrable.
-	108
-	3
-	public
-	Gloria Contreras
+	65
+	137
+	1
+	http://www.example.com/100
 101
 	The family’s excitement over going to Disneyland was crazier than she anticipated.
-	56
-	0
-	public
-	Paul Hines
+	106
+	113
+	1
+	http://www.example.com/101
 102
 	When he asked her favorite number, she answered without hesitation that it was diamonds.
 	70
+	102
 	1
-
 
 103
 	He was disappointed when he found the beach to be so sandy and the sun so sunny.
-	59
+	135
+	129
 	3
-
-
+	http://www.example.com/103
 104
 	Today I dressed my unicorn in preparation for the race.
-	117
-	7
-	private
-	Paul Hines
+	23
+	47
+	2
+
 105
 	I've traveled all around Africa and still haven't found the gnu who stole my scarf.
-	41
-	2
-	private
-	Maria Hanna
+	4
+	26
+	0
+	http://www.example.com/105
 106
 	She looked into the mirror and saw another person.
 	31
+	50
 	2
-	public
-	Kirsty Golden
+	http://www.example.com/106
 107
 	I had a friend in high school named Rick Shaw, but he was fairly useless as a mode of transport.
-	139
-	6
-	private
-	Kyron Miller
+	64
+	142
+	7
+
 108
 	When I was little I had a car door slammed shut on my hand and I still remember it quite vividly.
-	32
-	0
-
+	95
+	51
+	4
 
 109
 	The bees decided to have a mutiny against their queen.
-	28
-	6
-	private
-	Madeleine Castillo
+	13
+	67
+	0
+	http://www.example.com/109
 110
 	He found a leprechaun in his walnut shell.
-	13
-	4
-
+	15
+	20
+	0
 
 111
 	A good example of a useful vegetable is medicinal rhubarb.
-	49
-	6
-
-
+	4
+	42
+	1
+	http://www.example.com/111
 112
 	The green tea and avocado smoothie turned out exactly as would be expected.
 	29
+	117
 	1
-
 
 113
 	Pat ordered a ghost pepper pie.
-	147
-	3
-	private
-	Alysha Gray
+	60
+	103
+	8
+	http://www.example.com/113
 114
 	The bird had a belief that it was really a groundhog.
 	124
+	126
 	1
-
 
 115
 	She says she has the ability to hear the soundtrack of your life.
-	1
-	1
-	public
-	Varun Desai
+	126
+	124
+	0
+
 116
 	If you really strain your ears, you can just about hear the sound of no one giving a damn.
 	102
+	35
 	10
-	private
-	Gasper Blancas
+
 117
 	Wisdom is easily acquired when hiding under the bed with a saucepan on your head.
-	83
-	1
-	private
-	Anish Kapadia
+	13
+	42
+	3
+
 118
 	This made him feel like an old-style rootbeer float smells.
-	17
-	8
-
+	141
+	92
+	3
 
 119
 	The mysterious diary records the voice.
-	69
+	133
+	105
 	5
-	public
-	Brandon Ballard
+
 120
 	I just wanted to tell you I could see the love you have for your child by the way you look at her.
-	29
-	1
-
+	48
+	53
+	4
 
 121
 	They throw cabbage that turns your brain into emotional baggage.
-	44
-	3
-	private
-	Haaris George
+	125
+	95
+	0
+	http://www.example.com/121
 122
 	Abstraction is often one floor above you.
-	114
-	0
-	private
-	Molly Arias
+	43
+	12
+	2
+	http://www.example.com/122
 123
 	He found rain fascinating yet unpleasant.
-	120
-	2
-	public
-	Ajay Charles
+	124
+	7
+	3
+	http://www.example.com/123
 124
 	He figured a few sticks of dynamite were easier than a fishing pole to catch fish.
-	25
-	1
-	private
-	Mae Mcguire
+	88
+	109
+	3
+	http://www.example.com/124
 125
 	He shaved the peach to prove a point.
-	39
-	2
-
+	25
+	36
+	1
 
 126
 	He was sitting in a trash can with high street class.
-	70
+	15
+	141
 	0
-
-
+	http://www.example.com/126
 127
 	Despite what your teacher may have told you, there is a wrong way to wield a lasso.
-	51
-	5
-
+	70
+	98
+	0
 
 128
 	The underground bunker was filled with chips and candy.
-	13
-	5
-
+	81
+	132
+	0
 
 129
 	Red is greener than purple, for sure.
-	35
-	2
-	public
-	Jerrald Matos
+	75
+	66
+	3
+	http://www.example.com/129
 130
 	He wondered if it could be called a beach if there was no sand.
-	137
-	3
-
+	136
+	14
+	2
 
 131
 	Just because the water is red doesn't mean you can't drink it.
-	0
-	1
-	public
-	Xian Liang
+	43
+	83
+	3
+
 132
 	The fog was so dense even a laser decided it wasn't worth the effort.
-	73
-	1
-	private
-	Maria Hanna
+	106
+	125
+	2
+	http://www.example.com/132
 133
 	The child’s favorite Christmas gift was the large box her father’s lawnmower came in.
-	115
-	1
-
+	77
+	133
+	2
 
 134
 	He was sure the Devil created red sparkly glitter.
-	63
-	7
-
+	139
+	112
+	1
 
 135
 	Of course, she loves her pink bunny slippers.
-	25
-	2
-
+	115
+	110
+	8
 
 136
 	Being unacquainted with the chief raccoon was harming his prospects for promotion.
 	83
+	125
 	1
-	private
-	Anish Kapadia
+
 137
 	It isn't true that my mattress is made of cotton candy.
-	45
-	0
-
+	135
+	62
+	1
 
 138
 	Never underestimate the willingness of the greedy to throw you under the bus.
 	104
+	84
 	7
-
-
+	http://www.example.com/138
 139
 	I cheated while playing the darts tournament by using a longbow.
-	44
-	3
-	public
-	Peng Lan
+	132
+	7
+	1
+
 140
 	Various sea birds are elegant, but nothing is as elegant as a gliding pelican.
 	107
+	115
 	1
-	public
-	Frederick Murray
+	http://www.example.com/140
 141
 	She lived on Monkey Jungle Road and that seemed to explain all of her strangeness.
-	42
-	1
-	public
-	Lilly Flynn
-142
-	There's a reason that roses have thorns.
-	120
+	57
+	84
 	1
 
+142
+	There's a reason that roses have thorns.
+	12
+	43
+	2
 
 143
 	I am never at home on Sundays.
-	131
-	1
-
-
+	108
+	52
+	0
+	http://www.example.com/143
 144
 	She wanted a pet platypus but ended up getting a duck and a ferret instead.
 	28
+	101
 	2
-	public
-	Xie Zhelan
+	http://www.example.com/144
 145
 	He uses onomatopoeia as a weapon of mental destruction.
-	45
-	3
-	public
-	Kong Ning
+	130
+	43
+	2
+
 146
 	Nothing seemed out of place except the washing machine in the bar.
-	78
-	0
-
+	140
+	90
+	4
 
 147
 	The tumbleweed refused to tumble but was more than willing to prance.
-	73
-	0
-	private
-	Louie Fry
+	60
+	74
+	4
+
 148
 	People generally approve of dogs eating cat food but not cats eating dog food.
-	12
-	4
-	private
-	Louie Fry
+	97
+	36
+	7
+	http://www.example.com/148
 149
 	Patricia loves the sound of nails strongly pressed against the chalkboard.
-	98
-	3
-
-
+	65
+	61
+	0
+	http://www.example.com/149
 150
 	My secretary is the only person who truly understands my stamp-collecting obsession.
-	74
-	2
-
+	95
+	80
+	1
 
 151
 	When I was little I had a car door slammed shut on my hand and I still remember it quite vividly.
-	67
-	0
-
-
+	79
+	49
+	3
+	http://www.example.com/151
 152
 	Joyce enjoyed eating pancakes with ketchup.
 	121
-	2
-	private
-	Long De
-153
-	All they could see was the blue water surrounding their sailboat.
-	83
-	1
-	private
-	Eliot Moses
-154
-	I am counting my calories, yet I really want dessert.
-	71
+	143
 	2
 
+153
+	All they could see was the blue water surrounding their sailboat.
+	141
+	128
+	2
+	http://www.example.com/153
+154
+	I am counting my calories, yet I really want dessert.
+	139
+	60
+	5
 
 155
 	Blue sounded too cold at the time and yet it seemed to work for gin.
-	97
-	2
-	private
-	Cira Villarrubia
+	25
+	86
+	0
+	http://www.example.com/155
 156
 	Her scream silenced the rowdy teenagers.
-	128
-	3
-
+	83
+	88
+	2
 
 157
 	His mind was blown that there was nothing in space except space itself.
-	115
-	9
-
+	76
+	80
+	3
 
 158
 	Barking dogs and screaming toddlers have the unique ability to turn friendly neighbors into cranky enemies.
 	21
+	102
 	4
-	private
-	Zainab Stephenson
+
 159
 	Mary realized if her calculator had a history, it would be more embarrassing than her computer browser history.
-	45
-	4
-	private
-	Paul Hines
+	6
+	61
+	3
+
 160
 	Excitement replaced fear until the final moment.
-	54
-	7
-	private
-	Ellie-Mae Vega
+	11
+	102
+	2
+	http://www.example.com/160
 161
 	Two seats were vacant.
-	32
-	1
-	public
-	Maisy Castro
+	86
+	55
+	7
+	http://www.example.com/161
 162
 	You've been eyeing me all day and waiting for your move like a lion stalking a gazelle in a savannah.
-	122
-	0
-	private
-	Fintan Carrillo
-163
-	Wisdom is easily acquired when hiding under the bed with a saucepan on your head.
-	84
+	104
+	73
 	0
 
+163
+	Wisdom is easily acquired when hiding under the bed with a saucepan on your head.
+	122
+	12
+	0
 
 164
 	The fence was confused about whether it was supposed to keep things in or keep things out.
-	102
-	10
-	private
-	Nikhil Waller
+	133
+	90
+	4
+
 165
 	The gloves protect my feet from excess work.
-	127
-	2
-	private
-	Cira Villarrubia
+	102
+	11
+	10
+
 166
 	25 years later, she still regretted that specific moment.
-	9
-	0
-
-
+	133
+	63
+	3
+	http://www.example.com/166
 167
 	Patricia loves the sound of nails strongly pressed against the chalkboard.
-	115
-	9
-
+	97
+	77
+	7
 
 168
 	Hang on, my kittens are scratching at the bathtub and they'll upset by the lack of biscuits.
-	75
-	5
-
+	140
+	90
+	1
 
 169
 	You bite up because of your lower jaw.
-	120
-	4
-	public
-	Pan Chin
+	75
+	147
+	5
+	http://www.example.com/169
 170
 	Shakespeare was a famous 17th-century diesel mechanic.
-	102
-	5
-
-
+	30
+	61
+	6
+	http://www.example.com/170
 171
 	Lets all be unique together until we realise we are all the same.
-	22
-	6
-
-
+	102
+	60
+	5
+	http://www.example.com/171
 172
 	The shark-infested South Pine channel was the only way in or out.
-	5
-	2
-
+	35
+	23
+	1
 
 173
 	Erin accidentally created a new universe.
-	52
+	45
+	14
 	1
-	public
-	Nicolas Lozoya
+	http://www.example.com/173
 174
 	My uncle's favorite pastime was building cars out of noodles.
-	130
+	108
+	95
 	0
-	private
-	Lakshmi Vyas
+	http://www.example.com/174
 175
 	My biggest joy is roasting almonds while stalking prey.
-	45
-	0
-	public
-	Kong Ning
-176
-	I want a giraffe, but I'm a turtle eating waffles.
-	34
-	0
-
-
-177
-	As time wore on, simple dog commands turned into full paragraphs explaining why the dog couldn’t do something.
-	113
-	1
-	private
-	Haaris George
-178
-	The swirled lollipop had issues with the pop rock candy.
-	87
-	5
-
-
-179
-	The truth is that you pay for your lifestyle in hours.
-	67
+	122
+	44
 	2
 
+176
+	I want a giraffe, but I'm a turtle eating waffles.
+	24
+	141
+	0
+	http://www.example.com/176
+177
+	As time wore on, simple dog commands turned into full paragraphs explaining why the dog couldn’t do something.
+	34
+	140
+	0
+
+178
+	The swirled lollipop had issues with the pop rock candy.
+	60
+	71
+	9
+	http://www.example.com/178
+179
+	The truth is that you pay for your lifestyle in hours.
+	87
+	100
+	5
 
 180
 	A dead duck doesn't fly backward.
-	12
-	2
-
+	9
+	90
+	0
 
 181
 	She wanted to be rescued, but only if it was Tuesday and raining.
-	58
-	7
-
+	110
+	12
+	0
 
 182
 	A good example of a useful vegetable is medicinal rhubarb.
 	94
+	130
 	3
-
-
+	http://www.example.com/182
 183
 	I checked to make sure that he was still alive.
-	8
-	1
-
-
+	103
+	135
+	5
+	http://www.example.com/183
 184
 	On each full moon
-	55
-	1
-	public
-	Beau Tucker
+	41
+	62
+	3
+	http://www.example.com/184
 185
 	She always speaks to him in a loud voice.
-	72
-	8
-	public
-	Jonathan Johnston
+	100
+	101
+	5
+	http://www.example.com/185
 186
 	Getting up at dawn is for the birds.
 	93
+	140
 	1
-
-
+	http://www.example.com/186
 187
 	She had a difficult time owning up to her own crazy self.
-	144
-	7
-
+	141
+	139
+	3
 
 188
 	They improved dramatically once the lead singer left.
-	142
+	4
+	16
 	1
-
 
 189
 	The tortoise jumped into the lake with dreams of becoming a sea turtle.
-	139
-	6
-
-
+	20
+	143
+	4
+	http://www.example.com/189
 190
 	The old apple revels in its authority.
-	20
-	4
-	public
-	Kanan Rau
+	141
+	11
+	10
+
 191
-	Nudist colonies shun fig-leaf couture.
-	101
-	1
-	public
-	Cecily Schroeder
-192
-	That must be the tenth time I've been arrested for selling deep-fried cigars.
-	114
-	5
-	private
-	Bienvenida Estopinal
-193
-	It took him a month to finish the meal.
-	132
-	3
-
-
-194
-	He looked behind the door and didn't like what he saw.
+	The apple tree is old.
+	118
 	39
 	2
-	private
-	Frank Campbell
+	http://www.example.com/191
+192
+	That must be the tenth time I've been arrested for selling deep-fried cigars.
+	66
+	135
+	4
+	http://www.example.com/192
+193
+	It took him a month to finish the meal.
+	31
+	118
+	4
+	http://www.example.com/193
+194
+	He looked behind the door and didn't like what he saw.
+	92
+	121
+	3
+	http://www.example.com/194
 195
 	Peanuts don't grow on trees, but cashews do.
-	122
-	3
-	private
-	Stanley Hartley
+	50
+	7
+	1
+	http://www.example.com/195
 196
 	The fog was so dense even a laser decided it wasn't worth the effort.
 	119
+	8
 	5
-	private
-	Joyce Baldwin
+
 197
-	The fifty mannequin heads floating in the pool kind of freaked them out.
-	46
-	2
-	public
-	Nicholas Nunez
+	There were fifty floaties in the pool.
+	141
+	88
+	9
+	http://www.example.com/197
 198
 	Plans for this weekend include turning wine into water.
-	86
-	6
-
+	78
+	102
+	1
 
 199
 	They did nothing as the raccoon attacked the lady’s bag of food.
 	105
-	1
-
-
-200
-	The dancing giraffe wore a tutu made of spaghetti.
-	24
-	3
-	private
-	Ali Mccall
-201
-	My pet rock thinks it's a secret agent for the undercover garden gnome society.
-	7
-	0
-	private
-	Frederick Murray
-202
-	The talking banana convinced the skeptical apple to join a fruit rebellion.
-	32
-	0
-	private
-	Anish Kapadia
-203
-	A group of sneezing dolphins organized a bubblegum-blowing competition underwater.
-	143
-	4
-
-
-204
-	The invisible snail won the race by leaving a trail of glitter behind.
-	144
-	4
-
-
-205
-	I accidentally swapped my GPS with a spaghetti noodle and ended up in the lost-and-saucy dimension.
-	68
-	0
-
-
-206
-	The moon is made of cheese, and astronauts go there for intergalactic fondue parties.
-	75
-	4
-
-
-207
-	My alarm clock speaks only in pirate language and demands a daily ration of chocolate coins.
-	6
-	5
-
-
-208
-	The ninja chicken practiced stealth by hiding in a carton of eggs.
-	136
-	3
-
-
-209
-	The library hosted a heated debate between books and e-books about who's more shelf-worthy.
-	97
-	2
-
-
-210
-	My cat believes it is a philosopher and contemplates the meaning of life while chasing its tail.
-	11
-	0
-	public
-	Hernandez Vicencio
-211
-	The clouds were having a pillow fight, and it rained feathers for days.
-	55
-	3
-	public
-	Beau Tucker
-212
-	The singing donut serenaded the coffee cup with a sweet lullaby.
-	24
-	2
-
-
-213
-	The superhero toaster shoots butter beams to rescue dry toast in distress.
-	147
-	3
-
-
-214
-	My shadow refuses to follow me because it wants to pursue a career in interpretive dance.
-	17
-	1
-	private
-	Shitala Cheema
-215
-	The rubber duck rebellion took over the bathtub, demanding more bubble baths for everyone.
-	90
-	1
-
-
-216
-	The roller-skating penguin challenged the ice-skating flamingo to a dance-off on a frozen pond.
-	84
-	2
-
-
-217
-	A group of acrobatic tomatoes performed daring stunts on the kitchen counter.
-	31
-	1
-	public
-	Mohammad Thomson
-218
-	The sock puppet theater presented a gripping drama about the mysterious case of the missing socks.
-	86
-	1
-	public
-	Kang Liang
-219
-	The pancake declared itself the king of breakfast and demanded a syrup tax from waffles.
-	147
-	0
-
-
-220
-	I accidentally watered my plants with fruit punch, and now they're growing fruit salad.
-	143
-	1
-	private
-	Eskame Fernando
-221
-	The jellybean orchestra played a sweet symphony that attracted a swarm of candy-loving bees.
-	130
-	7
-
-
-222
-	The talking cactus hosted a radio show for desert creatures, discussing sand dune fashion trends.
-	35
-	0
-	private
-	Beau Tucker
-223
-	The time-traveling pineapple visited the Middle Ages and became the medieval fruit knight.
-	100
-	5
-	public
-	Ajay Charles
-224
-	The conspiracy theory among garden gnomes is that flamingos are actually undercover spies.
-	141
-	1
-
-
-225
-	My pet rock wrote a best-selling autobiography titled "Memoirs of a Sedimentary Superstar."
-	120
-	1
-
-
-226
-	The hula-hooping hamster became the sensation of the rodent carnival.
-	87
-	5
-	private
-	Marco Turner
-227
-	The balloon animals escaped from the circus and embarked on a journey to find their true purpose.
-	7
-	0
-
-
-228
-	The bubblegum on the sidewalk formed a secret society to protest against shoe oppression.
-	55
-	1
-	private
-	Mae Mcguire
-229
-	The disco ball in my living room is convinced it's the center of the universe.
-	0
-	7
-
-
-230
-	The pencil sharpener claimed it had a black belt in martial arts and challenged the eraser to a duel.
-	132
-	4
-
-
-231
-	The cheeseburger choir harmonized with the french fry orchestra to create a fast-food masterpiece.
-	56
-	1
-	private
-	Madeleine Castillo
-232
-	The snowman in my backyard dreams of becoming a famous sculptor in the Ice Age.
-	52
-	3
-	private
-	Andy Rocha
-233
-	The fortune cookie predicted that I would have a dance-off with a unicorn under the moonlight.
-	88
-	4
-
-
-234
-	The toothpaste rebelled against the toothbrush, demanding independence for oral hygiene products.
-	8
-	4
-	private
-	Hermione Sutton
-235
-	The rubber chicken became a motivational speaker, inspiring other rubber chickens to "wing it" in life.
-	90
-	6
-	public
-	Jana Edwards
-236
-	The popcorn kernels organized a protest against microwaves, advocating for a return to traditional popping methods.
-	37
-	6
-
-
-237
-	The jigsaw puzzle solved itself out of sheer boredom and promptly retired to a puzzle retirement community.
-	11
-	4
-	public
-	Barry Pacheco
-238
-	The skateboard-riding banana taught a masterclass on extreme fruit sports.
 	98
 	2
-
-
-239
-	The superhero mosquito saved the day by draining all the blood from the evil mastermind, leaving them light-headed.
-	89
-	1
-
-
-240
-	The marshmallow family built a summer home on a hot cocoa lake.
-	14
-	6
-	public
-	Tomas Bradford
-241
-	The tomato declared itself a fruit but aspired to be a vegetable lawyer.
-	100
-	3
-
-
-242
-	The rubber duck became a life coach, offering quackingly good advice for navigating the challenges of pond life.
-	104
-	0
-	private
-	Alex Mcconnell
-243
-	The chocolate chip cookies formed a rock band called "The Sweet Beats" and went on a world tour.
-	35
-	4
-
-
-244
-	The potato chip choir sang the crunchy anthem of snack time solidarity.
-	34
-	2
-
-
-245
-	The ping pong ball attempted to break the world record for the longest bounce, but it got tired after the third bounce.
-	142
-	7
-
-
-246
-	The umbrella tried stand-up comedy but only got laughs when it accidentally opened indoors.
-	41
-	2
-	public
-	Lana Pittman
-247
-	The jellyfish joined a support group for creatures without spines, discussing the challenges of not having a backbone.
-	59
-	0
-	public
-	Frank Campbell
-248
-	The talking tree hosted a podcast about the secrets of the forest, with guest appearances from wise old rocks.
-	67
-	2
-	private
-	Lois Bernard
-249
-	The rubber band rebellion demanded equal stretching rights for all bands, regardless of elasticity.
-	41
-	4
-
-
-250
-	The rubber ducky became the mayor of the bathtub and implemented quack-tastic policies.
-	11
-	2
-	public
-	Hernandez Vicencio
-251
-	The potato challenged the couch to a staring contest and won after the couch got too comfy to keep its eyes open.
-	59
-	7
-
-
-252
-	The sock drawer organized a protest against mismatching socks, advocating for equal pair rights.
-	113
-	2
-	public
-	Astrid Cantrell
-253
-	The pizza delivery guy claimed he could teleport, but it turned out he just had a really fast scooter.
-	79
-	3
-
-
-254
-	The apple pie declared itself the king of desserts and demanded a royal crust treatment.
-	33
-	8
-
-
-255
-	The bubble wrap convention got out of hand when attendees started popping each other instead of the bubbles.
-	87
-	1
-
-
-256
-	The cactus opened a spa for stressed-out succulents, offering prickly relaxation treatments.
-	6
-	3
-	private
-	Maddie Reid
-257
-	The sneezing elephant set a world record for the loudest trumpet solo during allergy season.
-	44
-	6
-	public
-	Bonnie Reeves
-258
-	The superhero broccoli fought against the evil candy corn, promoting a balanced diet.
-	129
-	3
-
-
-259
-	The rubber chicken became the CEO of a rubber products company, leading the charge for bouncy innovation.
-	109
-	1
-
-
-260
-	The potato chip bag staged a rebellion against being crumpled, demanding respect for its snacky contents.
-	52
-	0
-
-
-261
-	The karate-chopping carrot trained vegetables in self-defense against kitchen utensils.
-	58
-	5
-
-
-262
-	The pillow fought with the blanket over who gets to cover the bed at night.
-	42
-	7
-	private
-	Bai De
-263
-	The burrito rolled itself into a burrito ball and challenged other fast foods to a game of culinary dodgeball.
-	50
-	1
-	private
-	Jia Jun
-264
-	The shadow puppets formed a rock band called "The Silhouettes" and went on a shadowy tour.
-	121
-	1
-
-
-265
-	The paper airplane unionized and demanded better working conditions in classrooms.
-	124
-	2
-	public
-	Jana Edwards
-266
-	The marshmallow decided to become a stand-up comedian, telling sweet and fluffy jokes.
-	78
-	1
-	public
-	Connor Norris
-267
-	The rubber ducky organized a flotation device protest, demanding better treatment in the bathtub.
-	100
-	5
-
-
-268
-	The slinky declared itself the ruler of staircases and demanded tribute in the form of smooth descents.
-	119
-	2
-
-
-269
-	The kite formed a rebellion against gravity, attempting to float away to a land of eternal breezes.
-	68
-	0
-	public
-	Teng Huo
-270
-	The disco ball hosted a glittering gala for all the sparkly things in the universe.
+	http://www.example.com/199
+200
+	I didn't know what to wear to my best friend's funeral.
 	24
-	0
-	private
-	Barry Pacheco
-271
-	The trampoline challenged the tightrope to a bounce-off in the circus of gravity-defying feats.
-	105
-	2
-
-
-272
-	The rubber chicken started a dance craze called the "Chicken Cha-Cha," taking barnyards by storm.
-	132
-	5
-	public
-	Tomas Bradford
-273
-	The rubber ducky organized a synchronized swimming competition for bath toys.
-	143
+	119
 	3
 
-
-274
-	The feather duster claimed it was a secret agent on a mission to dust off international conspiracies.
-	5
+201
+	There used to be a big cherry tree behind my house.
+	134
+	7
+	2
+	http://www.example.com/201
+202
+	Sometimes, books and movies made her feel things she couldn't explain.
+	33
+	6
 	3
-
-
-275
-	The kazoo orchestra performed a symphony of silliness at the annual clown convention.
-	47
-	3
-
-
-276
-	The jellybean became a motivational speaker, encouraging others to embrace their inner sweetness.
-	130
-	6
-
-
-277
-	The jigsaw puzzle solved itself in record time and retired to a life of leisure on the coffee table.
-	31
-	0
-
-
-278
-	The talking sock convinced the other laundry items to form a rock band called "The Lint Rollers."
-	4
-	0
-
-
-279
-	The ice cream cone went on a quest to find the legendary cherry on top of the sundae mountain.
-	144
-	5
-
-
-280
-	The rubber duck became a detective and solved the case of the missing bath toys.
-	57
-	2
-
-
-281
-	The jump rope challenged the garden hose to a double Dutch competition in the backyard.
-	82
-	1
-
-
-282
-	The spaghetti noodle rebelled against the pasta pot, demanding the right to choose its own sauce.
-	29
-	1
-	private
-	Yuan Wuhan
-283
-	The rubber band ball became the mayor of the desk drawer, promoting office supply unity.
-	80
-	2
-
-
-284
-	The pancake stack formed a pancake pyramid scheme, with each pancake recruiting more breakfast items.
-	61
-	6
-
-
-285
-	The kazoo declared itself the king of musical instruments and demanded a royal procession.
-	14
-	0
-
-
-286
-	The rubber chicken joined a comedy troupe and performed poultry stand-up at the barnyard comedy club.
-	103
-	0
-	private
-	Song Long
-287
-	The rubber ducky organized a protest against bath time, advocating for more playtime in the tub.
-	19
-	5
-	private
-	Soma Cherian
-288
-	The bubble wrap organized a bubble-popping marathon and raised funds for the "Save the Bubbles" foundation.
-	109
-	6
-	public
-	Astrid Cantrell
-289
-	The potato chip bag started a rebellion against being folded, demanding freedom for its crispy contents.
-	117
-	1
-	private
-	Vasuki Kaamat
-290
-	The feather duster became a superhero, using its dusting powers to defeat evil dust bunnies.
-	12
-	1
-	public
-	Shitala Cheema
-291
-	The rubber chicken challenged the garden gnome to a dance-off in the moonlit garden.
-	54
-	0
-	public
-	Lakshmi Vyas
-292
-	The talking sock hosted a podcast about the secret lives of socks, featuring exclusive interviews with sock celebrities.
-	81
-	2
-	private
-	Molly Arias
-293
-	The ice cream cone declared itself the queen of frozen treats and demanded a royal coronation.
+	http://www.example.com/202
+203
+	My bandaid wasn't sticky anymore so it fell off on the way to school.
+	38
 	106
 	1
 
+204
+	He feel asleep immediately.
+	35
+	23
+	1
 
-294
-	The rubber duck organized a duck parade in the bathtub, featuring floats made of soap bubbles.
-	112
-	2
-	public
-	Joyce Baldwin
-295
-	The marshmallow became a life coach for other confectioneries, offering sweet advice on life's challenges.
-	87
+205
+	In Hong Kong, everyone lives stacked together.
+	118
+	76
 	3
 
-
-296
-	The rubber band declared itself the ruler of the office, demanding loyalty from all stationery supplies.
-	119
+206
+	Her parents had been separated for almost three years, but she never expected them to actually go through with the divorce.
+	75
+	66
+	4
+	http://www.example.com/206
+207
+	These are the things that I want from a relationship.
+	21
+	77
 	0
-	public
-	Jana Edwards
-297
-	The kazoo formed a band with the harmonica and accordion, creating a cacophony of comedic music.
-	31
-	1
-	public
-	Jonathan Johnston
-298
-	The pancake stack challenged the waffle tower to a breakfast brawl in the kitchen.
-	142
-	2
-	public
-	Pundarik Samuel
-299
-	The rubber chicken joined a circus and became the star of the feathered frenzy acrobatics act.
-	80
-	2
 
+208
+	When one considers the issue from a different perspective, the answer seems to change.
+	79
+	86
+	3
 
-300
-	1. Just invented a new language that consists entirely of meows and interpretive dance. Who wants to join my conversation class?
-	90
-	2
-	private
-	Bartosz Morton
-301
-	
-	27
-	5
-	public
-	Tia Moon
-302
-	2. Accidentally wore my shirt inside out all day. Decided it's the latest fashion trend – backward chic!
-	65
-	1
-	public
-	Saira Booker
-303
-	
-	97
-	2
-
-
-304
-	3. Started a support group for people who forget what day it is. First meeting is tomorrow, or maybe it was yesterday?
-	12
-	2
-	public
-	Shawn Hill
-305
-	
-	16
-	2
-	private
-	Anish Kapadia
-306
-	4. Tried to teach my pet goldfish how to fetch. It didn't go well; now I have a wet living room.
-	111
-	8
-	public
-	Varun Desai
-307
-	
-	108
-	2
-	public
-	Autumn Jensen
-308
-	5. Just successfully completed a staring contest with my cat. Victory has never been so furry!
-	81
+209
+	She twisted her ankle and couldn't go to soccer anymore.
+	11
+	57
 	0
-	public
-	Ajay Charles
-309
-	
+	http://www.example.com/209
+210
+	You can always find baked goods somewhere in my pantry.
+	91
+	112
+	4
+
+211
+	The alligator's teeth were so scary that I ran back to the car as fast as I could.
+	76
+	18
+	4
+
+212
+	They sold shampoo and conditioner, but no plain soap.
+	41
+	143
+	0
+	http://www.example.com/212
+213
+	She got a discount to buy the stickers online.
+	17
+	89
+	1
+
+214
+	Once you master cooking, you'll start tweaking popular recipes, and that's when it becomes even more fun.
+	18
+	76
+	2
+
+215
+	Checking things off the list is the best feeling.
+	84
+	102
+	2
+
+216
+	Let's all just take a moment to breathe, please.
+	24
+	64
+	0
+
+217
+	She decided to take the bus because it was supposed to be quicker, but then it ended up being twenty minutes late.
+	86
+	127
+	1
+	http://www.example.com/217
+218
+	She fell off the bull two seconds after she got on.
+	23
 	94
-	5
-	private
-	Yaseen Fitzgerald
-310
-	6. Convinced my reflection in the mirror to participate in a karaoke duet. The mirror didn't hit any high notes.
-	87
-	4
-	public
-	Aja Jani
-311
-	
-	100
-	6
-	private
-	Helena Carpenter
-312
-	7. Dropped my sandwich on the floor, and it landed peanut butter side up. Today, I am the chosen one.
-	31
+	0
+	http://www.example.com/218
+219
+	Rosa crossed Mary's name off the list.
+	143
+	59
 	1
-	public
-	Tia Moon
-313
-	
+
+220
+	She couldn't find the basket she was looking for.
+	42
+	142
 	4
-	4
-	private
-	Wendy Hartman
-314
-	8. Started a book club for people who never finish the books but still want to discuss them. Spoiler alert: We never discuss the endings.
+
+221
+	What he likes best is being around his friends.
+	35
 	139
 	0
-	public
-	Madina Pedregon
-315
-	
-	124
-	1
-	private
-	Eliot Moses
-316
-	9. Decided to become a professional nap-taker. It's a tough job, but someone has to do it.
-	62
-	0
-	private
-	Lois Bernard
-317
-	Found a genie lamp, but my three wishes were all for more wishes. Now I'm drowning in infinite wishes. Oops?
-	53
-	1
 
-
-318
-	Invented a dance move called "The Awkward Penguin." It involves a lot of shuffling and flapping. It's catching on slowly.
-	30
-	0
-	private
-	Kyron Miller
-319
-	Attempted to break the world record for the longest time spent balancing a spoon on my nose. Current record holder: My cat.
-	145
-	2
-
-
-320
-	Started a petition to add a coffee IV drip to the office supplies list. Productivity levels would skyrocket!
-	132
-	1
-
-
-321
-	Decided to become a professional procrastinator but haven't gotten around to it yet.
-	14
-	5
-	public
-	Xie Zhelan
-322
-	Had a conversation with my GPS about the meaning of life. It recalculated.
-	140
+222
+	I found a gold coin on the playground after school today.
+	121
+	143
 	6
-	public
-	Filipa Cerrato
-323
-	Just taught my pet rock how to roll over. Now it's unstoppable.
-	95
+	http://www.example.com/222
+223
+	She sells Christmas trees.
+	144
+	37
 	7
-	private
-	Maddie Reid
-324
-	Tried to make a sandwich using a tortilla as bread. It's a wrap – literally.
-	4
-	4
-	private
-	Gasper Blancas
-325
-	Started a band called "The Shower Singers." Our first album is titled "Shampoo Serenades."
-	71
-	2
 
-
-326
-	Invented a new sport called extreme spooning. It involves intense cuddling and oversized utensils.
-	125
-	7
-	public
-	Lois Bernard
-327
-	Decided to organize my sock drawer by personality. Turns out, my socks have more character than I thought.
-	93
-	6
-	public
-	Mahamari Chakpram
-328
-	Wrote a letter to the sun asking for a cooler summer. No response yet.
-	118
-	2
-
-
-329
-	Found a hidden talent: juggling marshmallows. The downside is that now my cat thinks I'm a snack dispenser.
-	95
-	0
-	public
-	Mae Mcguire
-330
-	Launched a social media campaign to bring back pet rocks. #RockSolidFriends
-	126
-	2
-	public
-	Alina Baird
-331
-	Started a fitness program where the only exercise is dancing like nobody's watching. Spoiler: Nobody's watching.
-	21
-	1
-	private
-	Frederick Murray
-332
-	Tried to break the record for the world's longest stare. I blinked.
-	76
+224
+	Going to a bar is a fun thing to do.
+	120
+	28
 	4
 
-
-333
-	Invented a new board game called "Monotony." The goal is to see who can be the most bored.
-	27
-	4
-
-
-334
-	Decided to become a professional daydreamer. I'm currently accepting applications for a nap manager position.
-	112
-	2
-
-
-335
-	Taught my dog how to fetch the newspaper, but it came back as a paper-mâché sculpture. Close enough.
-	134
-	0
-	public
-	Melody Cabrera
-336
-	Attempted to create a time machine using a microwave and a clock. Dinner was ruined, but at least it wasn't time-traveling.
+225
+	She got hiccups and couldn't get rid of them for three hours.
 	87
-	3
-
-
-337
-	Started a club for people who never finished organizing their sock drawer. We meet in the cluttered living room.
-	45
-	2
-
-
-338
-	Invented a new language that consists entirely of puns. It's pun-derful!
-	32
-	3
-	public
-	Kaden Krueger
-339
-	Found a way to turn coffee into a solid form. I call them "coffee cubes." Patent pending.
-	38
-	0
-	private
-	Teng Huo
-340
-	Started a campaign to replace all traffic lights with dance-offs. It's a traffic jam of epic proportions.
-	26
-	0
-
-
-341
-	Tried to teach my cat to type. The result was a masterpiece of random letters.
-	13
+	107
 	5
 
+226
+	Many big projects will be completed in the 21st century.
+	143
+	1
+	4
+	http://www.example.com/226
+227
+	They will be here shortly.
+	55
+	31
+	1
 
-342
-	Invented a game called "Hide and Seek with My Keys." Spoiler: The keys always win.
-	125
+228
+	The caffeine was making her jittery.
+	3
+	128
+	0
+	http://www.example.com/228
+229
+	If you go there, you will find him.
+	132
+	111
+	4
+	http://www.example.com/229
+230
+	It's time to watch TV.
+	116
+	83
+	1
+	http://www.example.com/230
+231
+	They are still edible.
+	52
+	47
+	3
+
+232
+	I didn't want to take a side in the argument.
+	56
+	58
+	1
+
+233
+	Captain America is my favorite Avenger.
+	8
+	98
+	4
+
+234
+	Get your act together.
+	103
+	93
+	3
+	http://www.example.com/234
+235
+	Over time, she realized she would never know how to cook.
+	56
+	66
 	2
 
+236
+	You'll move more than before.
+	48
+	37
+	3
 
-343
-	Decided to become a professional cloud-watcher. The sky's the limit, literally.
+237
+	He was president from 2008 to 2016.
+	66
+	59
+	2
+
+238
+	The window looks out on a garden.
+	84
+	111
+	3
+	http://www.example.com/238
+239
+	The girl wore her hair in two braids, tied with two blue bows.
+	14
+	144
+	6
+	http://www.example.com/239
+240
+	Looking back, I know it was the right decision.
+	132
+	100
+	3
+
+241
+	It is going to happen on Friday.
+	104
+	130
+	0
+
+242
+	You must be happy.
+	97
+	104
+	2
+	http://www.example.com/242
+243
+	I need to clean my room.
+	34
+	115
+	2
+	http://www.example.com/243
+244
+	I want the stability of a full-time job, but I'm not interested in the rigidity of working nine to five.
+	17
+	135
+	9
+	http://www.example.com/244
+245
+	You have a big house.
+	65
+	108
+	1
+
+246
+	She wanted to be a professor when she was in high school, but then she realized how few academic jobs there are on the market.
+	114
+	69
+	3
+
+247
+	She had a big scar on her knee from falling off her bike as a kid.
+	67
+	33
+	2
+
+248
+	They may come in handy one day.
+	56
+	131
+	2
+	http://www.example.com/248
+249
+	A wet road is usually slippery.
+	11
+	141
+	2
+	http://www.example.com/249
+250
+	Insurance wouldn't cover it.
+	111
+	58
+	3
+	http://www.example.com/250
+251
+	Imagine I am deciding if I like some new, heretofore untasted food.
+	113
+	2
+	2
+	http://www.example.com/251
+252
+	He earned his PhD in physics at the age of 89.
+	66
+	136
+	4
+
+253
+	In Australia, there is a store called PieFace which sells meat pies with smiley faces on them.
+	33
+	129
+	8
+
+254
+	Don't go there.
+	81
+	135
+	3
+	http://www.example.com/254
+255
+	They make wonderful walking buddies.
+	125
+	37
+	4
+	http://www.example.com/255
+256
+	The church was white and brown and looked very old.
+	16
+	133
+	0
+	http://www.example.com/256
+257
+	Watch out, there's quicksand.
+	129
+	14
+	3
+
+258
+	She likes to play soccer.
+	27
+	114
+	5
+
+259
+	I will open the door.
+	29
+	134
+	2
+	http://www.example.com/259
+260
+	I will have a baby in the near future.
+	42
+	1
+	7
+
+261
+	That was the president on the phone.
+	19
+	118
+	4
+
+262
+	Well, that's a big surprise.
+	47
+	123
+	2
+
+263
+	Every year Americans pay half a trillion in rent.
+	138
+	136
+	4
+
+264
+	You have a beautiful home.
+	122
+	98
+	4
+	http://www.example.com/264
+265
+	I got my driver's license when I was eighteen.
+	122
+	102
+	5
+	http://www.example.com/265
+266
+	I wish I had never gone surfing that day.
+	3
+	121
+	5
+
+267
+	The professor marked down one point for every use of the word 'interesting' in a paper.
+	137
+	145
+	0
+
+268
+	I won't believe it unless I see it with my own eyes.
+	36
+	97
+	2
+	http://www.example.com/268
+269
+	She always worried that sings would embarrass themselves, because if she was in front of a crowd she would always be worried about embarrassing herself.
+	96
 	85
 	5
 
-
-344
-	Found a way to turn ordinary socks into sock puppets. Sock puppet theater, here I come!
-	140
-	6
-	public
-	Marco Turner
-345
-	Started a food blog for recipes that require zero cooking skills. First recipe: cereal.
-	37
-	7
-	public
-	Louie Fry
-346
-	Tried to set a record for the longest time spent balancing a spoon on someone else's nose. It's a team effort.
-	53
-	0
-	private
-	Melody Cabrera
-347
-	Invented a new dance move called "The Disco Dishwasher." It involves a lot of spinning and detergent.
-	88
-	7
-	public
-	Jacques Mendoza
-348
-	Started a campaign to make pajamas acceptable office attire. Productivity might skyrocket!
-	147
-	1
-	public
-	Paciencia Santoyo
-349
-	Decided to become a professional blanket burrito roller. It's a cozy career.
-	133
-	4
-
-
-350
-	Found a way to turn procrastination into an art form. Still working on perfecting it... eventually.
-	35
-	4
-
-
-351
-	Launched a podcast about the existential thoughts of houseplants. It's called "The Philosophical Fern."
-	125
-	10
-
-
-352
-	Invented a game called "Extreme Pillow Fighting." Protective gear required.
-	7
-	1
-
-
-353
-	Started a club for people who collect collectibles. Our first meeting was a mess of knick-knacks.
-	41
-	6
-	public
-	Jacques Mendoza
-354
-	Tried to teach my cat to play chess. Checkmate: the laser pointer always wins.
-	37
+270
+	I don't want to drink alcohol.
+	95
+	117
 	2
-	public
-	Bartosz Morton
-355
-	Decided to become a professional parallel parker. My parallel parking skills are on point.
-	59
-	3
-
-
-356
-	Launched a petition to make "Dress Like a Pirate Day" a weekly event. Arrrr you in?
-	66
-	0
-
-
-357
-	Attempted to break the record for the world's slowest race. The tortoise was still faster.
-	46
-	1
-	private
-	Saira Booker
-358
-	Invented a new holiday called "National Sock Mismatch Day." Embrace the chaos!
-	107
-	1
-
-
-359
-	Started a campaign to replace all elevators with slides. The commute just got a lot more fun.
-	42
-	4
-
-
-360
-	Decided to become a professional blanket fort architect. My skills are tent-atively improving.
-	137
-	4
-
-
-361
-	Launched a YouTube channel dedicated to reviewing invisible products. Spoiler: They're all top-notch.
-	147
-	2
-	public
-	Tabitha Marsh
-362
-	Invented a game called "Musical Chairs with One Chair." It's a nail-biter.
-	116
-	0
-	private
-	Teng Huo
-363
-	Started a club for people who collect unusual rocks. We meet in a very rocky place.
-	21
-	4
-
-
-364
-	Tried to teach my dog how to do the cha-cha. It ended in a furry dance party.
-	70
-	2
-	public
-	Teng Huo
-365
-	Decided to become a professional napkin folder. It's a fold-time job.
-	110
-	6
-	private
-	Arianna Lozano
-366
-	Launched a campaign to replace handshakes with high-fives. Germs, meet enthusiasm!
-	82
-	1
-	public
-	Paciencia Santoyo
-367
-	Attempted to break the record for the most consecutive cartwheels. Spoiler: I'm not a gymnast.
-	37
-	3
-	public
-	Bartosz Morton
-368
-	Invented a new game called "Hide and Seek with My Phone." It's in silent mode somewhere.
-	107
-	1
-	private
-	Astrid Cantrell
-369
-	Started a campaign to rename all desserts to "sweet satisfaction circles." It's catchy!
-	50
-	0
-	private
-	Anish Kapadia
-370
-	Decided to become a professional cereal box reader. The nutritional facts are thrilling.
-	54
-	8
-
-
-371
-	Launched a petition to make bedtime a socially acceptable time for adults. No more judgment for early sleepers!
-	65
-	0
-
-
-372
-	Tried to teach my cat to solve a Rubik's Cube. The cube remains unsolved, and the cat is napping.
-	31
-	4
-	private
-	Mohammad Thomson
-373
-	Invented a game called "The Great Sock Hunt." Spoiler: The socks are always hiding.
-	44
-	4
-	public
-	Natalia Rhodes
-374
-	Attempted to break the record for the world's quietest party. It was a silent success.
-	114
-	6
-	private
-	Estelle Knapp
-375
-	Decided to become a professional bubble wrap popper. It's a stress-relieving career choice.
-	91
-	2
-
-
-376
-	Launched a campaign to replace all doorbells with personalized jingles. Ding-dong, sing along!
-	139
-	1
-	private
-	Bartosz Morton
-377
-	Tried to teach my pet fish synchronized swimming. They're still working on their routine.
-	39
-	3
-
-
-378
-	Invented a game called "Extreme Tic-Tac-Toe." Spoiler: It's still a tie.
-	135
-	10
-
-
-379
-	Started a club for people who collect invisible souvenirs. Our shelves are full of nothing.
-	88
-	7
-
-
-380
-	Decided to become a professional pillow fluffer. Sweet dreams, fluff enthusiasts!
-	26
-	6
-
-
-381
-	Found a way to turn procrastination into a sport. The championship is perpetually delayed.
-	124
-	4
-
-
-382
-	Launched a petition to add "Dress Like a Superhero Day" to the official calendar. Capes for everyone!
-	55
-	3
-	public
-	Constance Byrd
-383
-	Attempted to break the record for the longest time spent balancing a spoon on my nose while reciting Shakespeare. Alas, poor Yorick!
-	144
-	1
-	private
-	Jonathan Johnston
-384
-	Decided to become a professional cloud counter. The sky's the limit for this career.
-	104
-	3
-	private
-	Gasper Blancas
-385
-	Tried to teach my pet parrot beatboxing. It's now the hippest bird in town.
-	15
-	1
-
-
-386
-	Invented a game called "Musical Chairs for One." Spoiler: It's oddly lonely.
-	33
+	http://www.example.com/270
+271
+	It was so cold that no one wanted to go outside.
+	115
+	62
 	5
 
+272
+	The wind was so strong it swept her hat right away.
+	121
+	3
+	2
 
+273
+	I don't think I liked the movie.
+	86
+	79
+	7
+	http://www.example.com/273
+274
+	The wound hasn't healed yet.
+	130
+	7
+	6
+
+275
+	The fan is blowing in my face right now.
+	19
+	121
+	2
+
+276
+	The footballers were very upset when they cancelled the game because of lightning threats.
+	33
+	61
+	3
+
+277
+	Elizabeth is traveling all around the country to hear directly from people like you.
+	57
+	44
+	2
+	http://www.example.com/277
+278
+	I'm always on time.
+	19
+	146
+	0
+	http://www.example.com/278
+279
+	The contents of the box are listed on the label.
+	46
+	33
+	1
+	http://www.example.com/279
+280
+	My pen broke and leaked blue ink all over my new dress.
+	37
+	117
+	8
+
+281
+	Historical sites are awesome to walk through.
+	81
+	135
+	1
+	http://www.example.com/281
+282
+	I love bacon, eggs, and orange juice for breakfast.
+	103
+	93
+	0
+
+283
+	Big Brother is watching.
+	38
+	53
+	0
+	http://www.example.com/283
+284
+	Pluto may not be a planet anymore, but it's a planet in my heart.
+	47
+	23
+	2
+	http://www.example.com/284
+285
+	My biggest problem is deciding what to do next.
+	85
+	6
+	6
+
+286
+	Tom asked me if he was invited to the party.
+	20
+	3
+	6
+	http://www.example.com/286
+287
+	Her dream is to visit Paris.
+	12
+	43
+	1
+	http://www.example.com/287
+288
+	There are eggs in the nest.
+	47
+	13
+	1
+
+289
+	My shoes are blue with yellow stripes and green stars on the front.
+	54
+	92
+	3
+	http://www.example.com/289
+290
+	He's as proud as a peacock.
+	140
+	134
+	5
+	http://www.example.com/290
+291
+	You'd better look before you jump.
+	139
+	125
+	4
+	http://www.example.com/291
+292
+	I'm cutting down on sweets.
+	139
+	114
+	5
+
+293
+	I have a friend whose father is the captain of a big ship.
+	19
+	26
+	5
+	http://www.example.com/293
+294
+	Somebody help me.
+	51
+	76
+	6
+
+295
+	Go sit on the roof.
+	2
+	145
+	0
+
+296
+	Please, take pity on me.
+	142
+	77
+	2
+	http://www.example.com/296
+297
+	The squeaky wheel gets the oil.
+	66
+	101
+	3
+	http://www.example.com/297
+298
+	Mother doesn't make things up.
+	90
+	140
+	2
+
+299
+	I hope that a little bit of my soul dwindles away.
+	90
+	93
+	6
+
+300
+	I have a good idea.
+	52
+	70
+	5
+	http://www.example.com/300
+301
+	The President is back.
+	128
+	3
+	2
+
+302
+	My biggest problem is deciding what I should wear.
+	131
+	54
+	6
+	http://www.example.com/302
+303
+	She had to start saving in October so she could afford to buy Christmas presents for all her family and friends.
+	68
+	110
+	0
+	http://www.example.com/303
+304
+	Jessica wants a new book.
+	90
+	5
+	0
+
+305
+	You don't need 20 captains.
+	111
+	37
+	8
+	http://www.example.com/305
+306
+	I advocate military action.
+	79
+	52
+	1
+	http://www.example.com/306
+307
+	As a child, her house was surrounded by towering oak trees which she always thought were one bad storm away from toppling.
+	122
+	12
+	5
+	http://www.example.com/307
+308
+	It is illegal to buy and sell tigers and other big cats in the United States.
+	88
+	112
+	5
+	http://www.example.com/308
+309
+	All the swings are empty.
+	130
+	40
+	7
+
+310
+	that's not how you do it.
+	87
+	86
+	4
+	http://www.example.com/310
+311
+	I went to California with my mom for a weekend girl's trip.
+	108
+	36
+	2
+
+312
+	I can't swim after I drink milk.
+	91
+	127
+	3
+	http://www.example.com/312
+313
+	A balanced diet is a cookie in each hand.
+	82
+	48
+	1
+	http://www.example.com/313
+314
+	That was last week.
+	126
+	93
+	0
+
+315
+	I like geography and science.
+	139
+	141
+	0
+	http://www.example.com/315
+316
+	One morning, I found an elephant in my pajamas.
+	137
+	145
+	0
+
+317
+	My mother looks a lot like my grandmother, and I look a lot like them.
+	31
+	51
+	4
+	http://www.example.com/317
+318
+	The orange tree in her backyard was blown away by the hurricane.
+	137
+	13
+	4
+
+319
+	She had a variety of masks.
+	19
+	146
+	3
+	http://www.example.com/319
+320
+	If I could recommend anything to try, it's my chiropractor, Hernando.
+	52
+	61
+	4
+
+321
+	The bus went roaring by her window at 6 am.
+	123
+	54
+	3
+
+322
+	When you are in your twenties you read Hegel.
+	78
+	119
+	1
+	http://www.example.com/322
+323
+	Hand me the hammer.
+	108
+	6
+	1
+	http://www.example.com/323
+324
+	The pencil broke in the middle of my test.
+	146
+	104
+	1
+
+325
+	Options are limited.
+	62
+	115
+	1
+	http://www.example.com/325
+326
+	I would not want to be in that situation.
+	4
+	7
+	4
+
+327
+	She was shaking like a chihuahua.
+	143
+	100
+	5
+	http://www.example.com/327
+328
+	She had so many books that she stacked them and used them as tables.
+	125
+	37
+	7
+	http://www.example.com/328
+329
+	Tom gave Mary an obvious wink.
+	130
+	43
+	0
+	http://www.example.com/329
+330
+	It's storming outside.
+	46
+	87
+	0
+
+331
+	We know that everything we need to do is on the list.
+	89
+	59
+	5
+	http://www.example.com/331
+332
+	The box was small and wrapped in paper with tiny silver and red glitter dots.
+	20
+	52
+	8
+	http://www.example.com/332
+333
+	Hairless cats are probably cold a lot.
+	130
+	92
+	4
+
+334
+	The Earth is spherical.
+	134
+	7
+	6
+	http://www.example.com/334
+335
+	You may choose what to eat from this list.
+	76
+	87
+	4
+
+336
+	You look so amazing in that red dress and heels.
+	125
+	11
+	2
+
+337
+	The dog barked at the cat.
+	86
+	53
+	6
+	http://www.example.com/337
+338
+	I was so thirsty that I couldn't wait to get a drink of water.
+	144
+	61
+	4
+
+339
+	He persuaded me to take the job.
+	77
+	31
+	1
+	http://www.example.com/339
+340
+	When I read the list of ingredients, my stomach turned.
+	32
+	37
+	3
+	http://www.example.com/340
+341
+	Keep your hands to yourself.
+	107
+	87
+	3
+	http://www.example.com/341
+342
+	I own a lot of property in Beijing.
+	27
+	98
+	5
+
+343
+	I didn't realize that the app was an invitation-only kind of thing.
+	144
+	17
+	1
+	http://www.example.com/343
+344
+	I was already sorry that you had to work with Blake.
+	125
+	24
+	2
+
+345
+	She was constantly looking for new jobs.
+	55
+	19
+	4
+	http://www.example.com/345
+346
+	It's so expensive I want to die.
+	59
+	27
+	5
+
+347
+	They're as different as night and day.
+	52
+	47
+	1
+
+348
+	The siblings could help each other.zfh
+	53
+	63
+	0
+
+349
+	You ought to do it.
+	126
+	103
+	1
+	http://www.example.com/349
+350
+	He knows English better than I do.
+	126
+	74
+	2
+	http://www.example.com/350
+351
+	She liked vintage jeans because they fit her better.
+	10
+	58
+	5
+
+352
+	My son has black hair.
+	59
+	22
+	6
+
+353
+	The peddler carried a big bundle on his back.
+	71
+	62
+	3
+
+354
+	I won't phone my friend till Bob arrives.
+	7
+	102
+	1
+
+355
+	She bought a new plant even though she already had too many.
+	32
+	136
+	0
+	http://www.example.com/355
+356
+	You took out someone you cared for.
+	37
+	76
+	2
+	http://www.example.com/356
+357
+	The book had pictures of eyes all over the cover.
+	74
+	84
+	1
+
+358
+	I'm not really a TV watcher.
+	66
+	21
+	0
+	http://www.example.com/358
+359
+	Everything has a beginning and an end.
+	30
+	20
+	6
+
+360
+	There was a point in my life when my dreams didn't seem possible.
+	107
+	111
+	1
+	http://www.example.com/360
+361
+	On her fifteenth birthday, her mom surprised her with a trip to Portugal.
+	37
+	77
+	4
+
+362
+	She's a walking encyclopedia of scientific facts.
+	27
+	97
+	6
+
+363
+	She wasn't sure if she liked her job or not, but she was sure it was better than being unemployed.
+	94
+	144
+	4
+	http://www.example.com/363
+364
+	That box is too big to put in the trunk of the car.
+	124
+	7
+	3
+
+365
+	He drinks more water than I do.
+	117
+	5
+	3
+	http://www.example.com/365
+366
+	She cut the covers off of all of her books so people wouldn't want to steal them.
+	133
+	135
+	3
+	http://www.example.com/366
+367
+	She bought a rotisserie chicken at the grocery store and its juices spilled all over the inside of her canvas bag.
+	46
+	33
+	0
+
+368
+	I get on the bus.
+	82
+	131
+	1
+	http://www.example.com/368
+369
+	My daughter does the laundry.
+	123
+	104
+	2
+
+370
+	She went on a first date with the boy before she realized he was a Marxist.
+	76
+	87
+	1
+	http://www.example.com/370
+371
+	We finished the game.
+	41
+	95
+	3
+	http://www.example.com/371
+372
+	Danny drank the juice.
+	110
+	45
+	3
+
+373
+	You're running a big risk in trusting him.
+	54
+	20
+	8
+
+374
+	Any day will do.
+	107
+	48
+	2
+	http://www.example.com/374
+375
+	Cows eat grass.
+	68
+	128
+	0
+	http://www.example.com/375
+376
+	He changed his favorite color by the day.
+	36
+	119
+	3
+	http://www.example.com/376
+377
+	Also, they don't eat much.
+	114
+	92
+	6
+
+378
+	I can be greedy sometimes.
+	130
+	7
+	6
+	http://www.example.com/378
+379
+	Here he comes to save the day.
+	139
+	116
+	1
+
+380
+	Let's go to the mall today.
+	12
+	44
+	0
+
+381
+	Pam wants to play outside because it just stopped raining.
+	135
+	28
+	10
+	http://www.example.com/381
+382
+	I want chocolate.
+	141
+	6
+	1
+
+383
+	This suitcase is terrible.
+	53
+	102
+	5
+
+384
+	Tom's a lot smarter than me.
+	55
+	86
+	3
+	http://www.example.com/384
+385
+	You're the best person I know.
+	136
+	14
+	3
+	http://www.example.com/385
+386
+	I think you have the wrong number.
+	141
+	87
+	5
+	http://www.example.com/386
 387
-	Started a campaign to make pajamas acceptable attire for formal events. Who needs ball gowns?
+	He had an old pickup truck and a big, battered mower.
+	58
+	42
+	0
+
+388
+	We were on the lake yesterday.
+	45
+	144
+	4
+
+389
+	She really wanted Panera, but there wasn't a store near her.
+	63
+	137
+	2
+
+390
+	Paul gave me a present.
+	69
+	67
+	6
+
+391
+	My small pet mouse escaped from his cage.
+	97
+	87
+	4
+	http://www.example.com/391
+392
+	The delayed train has been an unexpected event today.
+	15
+	141
+	0
+	http://www.example.com/392
+393
+	There is a dictionary open on the table.
+	53
+	86
+	6
+	http://www.example.com/393
+394
+	I'll have to blow out my gas stove for my birthday, since I don't have any candles.
+	88
+	83
+	4
+	http://www.example.com/394
+395
+	I plan to weed the yard today.
+	19
+	121
+	0
+	http://www.example.com/395
+396
+	The baby threw up all over her new white dress.
+	76
+	18
+	2
+
+397
+	I've been able to cure my neighbor's sick cat.
+	53
+	56
+	4
+
+398
+	Don't even look at me.
+	15
+	141
+	1
+
+399
+	Eurasia has a very rich history.
+	37
+	121
+	0
+
+400
+	I have lived in Shanghai for a long time.
+	40
+	147
+	6
+
+401
+	The room had green wallpaper with yellow flowers all over it.
+	5
+	10
+	2
+	http://www.example.com/401
+402
+	I can do what you said.
+	73
+	140
+	0
+	http://www.example.com/402
+403
+	My mom went on vacation and left my dad in charge of the house.
+	19
+	118
+	4
+	http://www.example.com/403
+404
+	They could be together.
+	24
+	137
+	0
+
+405
+	She was hypercritical of all writers, even those who had been published and became successful.
+	146
+	109
+	4
+
+406
+	I saw some cool vintage chairs in a thrift store, but I really need to stop buying things.
+	21
+	87
+	5
+
+407
+	You know what I mean.
+	132
+	142
+	7
+	http://www.example.com/407
+408
+	She cancelled the date last minute because she was so stressed.
+	98
+	72
+	4
+
+409
+	Gus and Jack are selling toys outside their house.
+	42
+	116
+	1
+	http://www.example.com/409
+410
+	They sat in the shade of that big tree.
+	119
+	54
+	7
+
+411
+	I could help mom around here.
+	42
+	79
+	5
+	http://www.example.com/411
+412
+	Those apples are very red.
+	114
+	128
+	5
+	http://www.example.com/412
+413
+	They want to make it bigger.
+	58
+	112
+	3
+
+414
+	We can make ice cream.
+	81
+	13
+	2
+	http://www.example.com/414
+415
+	Nevermind, then.
+	105
+	101
+	1
+	http://www.example.com/415
+416
+	She was the one that got away.
+	49
+	115
+	2
+
+417
+	How beautiful she is.
+	63
+	116
+	6
+	http://www.example.com/417
+418
+	Yes, every tweet so far has been bad, but scientists are hopeful that one day we will discover a way to make good tweets.
+	61
+	46
+	6
+
+419
+	The shower was too hot when I first got into it.
+	56
+	19
+	0
+
+420
+	I also did not want to just close it down.
+	71
+	140
+	7
+
+421
+	I'll be back tomorrow, and we can decide together then.
+	105
+	64
+	3
+	http://www.example.com/421
+422
+	She was born to dance.
+	134
+	130
+	5
+
+423
+	The Chicago Bulls won six championships.
+	115
+	49
+	1
+	http://www.example.com/423
+424
+	I am to blame.
+	91
+	112
+	2
+
+425
+	She didn't drink, but she didn't want people to realize that, so she ordered a ginger ale at the bar.
+	110
+	2
+	5
+
+426
+	There is not much to do in South Carolina other than sit on a beach.
+	11
+	109
+	1
+	http://www.example.com/426
+427
+	I stepped into the elevator and pressed the down button.
+	7
+	104
+	3
+
+428
+	I suggest you leave here at once.
+	79
+	139
+	3
+	http://www.example.com/428
+429
+	He reminds me of your brother.
+	73
+	125
+	4
+	http://www.example.com/429
+430
+	She fell and got a bruise on her thigh that was shaped like Texas.
+	98
+	1
+	5
+	http://www.example.com/430
+431
+	You make me so happy.
+	49
+	52
+	3
+	http://www.example.com/431
+432
+	We will walk in the garden later.
+	130
+	104
+	2
+
+433
+	I'd be very surprised if that happened.
+	4
+	42
+	3
+
+434
+	I wanted a little more than that, to be perfectly honest, Trevor.
+	26
+	33
+	9
+
+435
+	They had a very traditional doorbell.
+	51
+	144
+	6
+
+436
+	The gang's all her.
+	129
+	64
+	0
+	http://www.example.com/436
+437
+	She kept getting distracted by her own face in the camera viewfinder.
+	117
+	95
+	6
+	http://www.example.com/437
+438
+	I spread the map on the table.
+	9
+	17
+	0
+	http://www.example.com/438
+439
+	He wanted to give his boyfriend a hug, but he was in Slovakia.
+	126
+	0
+	3
+
+440
+	We go to a gallery every Sunday.
+	3
+	147
+	2
+	http://www.example.com/440
+441
+	She found an old piece of paper under the fridge that had writing all over it.
+	132
+	81
+	6
+	http://www.example.com/441
+442
+	It was a big honor to be asked to give a speech.
+	21
+	73
+	1
+
+443
+	Tom knew he'd just made a big mistake.
+	23
+	75
+	5
+
+444
+	He led them down the mountain.
+	121
+	85
+	0
+
+445
+	She started wondering if he was cheating on her when she saw the receipt for an expensive jewelry purchase.
+	48
+	4
+	2
+	http://www.example.com/445
+446
+	I can't believe how right I was back then.
+	5
+	60
+	3
+
+447
+	I just got hired at this restaurant.
+	55
+	18
+	2
+	http://www.example.com/447
+448
+	He came to the point at once.
+	60
+	141
+	0
+
+449
+	I was taking care of the dog.
+	127
+	86
+	6
+	http://www.example.com/449
+450
+	It's adorable that you think I like you.
+	31
+	55
+	3
+
+451
+	He was born in Tunisia but moved to Amsterdam when he was six.
+	116
+	103
+	1
+	http://www.example.com/451
+452
+	Shape up or ship out.
+	26
+	6
+	10
+	http://www.example.com/452
+453
+	The way you said that didn't make sense.
+	24
+	144
+	2
+
+454
+	We all want to believe that hot people aren't better than everyone else, but it's surprisingly difficult to justify philosophically.
+	61
+	33
+	4
+	http://www.example.com/454
+455
+	The girl was wearing a denim jacket over a denim shirt and denim jeans.
+	30
+	144
+	6
+	http://www.example.com/455
+456
+	Their efforts embarrassed them.
+	2
+	145
+	2
+
+457
+	She could do it in her sleep.
+	144
+	133
+	7
+
+458
+	It took quite a while.
+	147
+	3
+	2
+	http://www.example.com/458
+459
+	When her boss didn't respond to her text immediately, she started to panic.
+	101
+	112
+	0
+	http://www.example.com/459
+460
+	Dozens of houses were burned down in that big fire.
+	140
+	40
+	0
+
+461
+	He has been looking for this portal for decades.
+	65
+	61
+	0
+
+462
+	I don't mess around with diets; when I'm hungry, I eat.
+	121
+	136
+	4
+	http://www.example.com/462
+463
+	She had never appreciated radio news shows.
+	59
+	133
+	0
+
+464
+	I put on my slippers.
+	41
+	26
+	0
+	http://www.example.com/464
+465
+	When he decided to investigate the crime, he had no idea he'd learn so much about his family.
+	12
+	110
+	1
+	http://www.example.com/465
+466
+	She's headed to the Hockey Hall of Fame.
+	6
+	48
+	2
+	http://www.example.com/466
+467
+	There's a good chance it'll rain tomorrow.
+	80
+	142
+	3
+	http://www.example.com/467
+468
+	I like crawfish but oysters suck.
+	73
+	140
+	3
+
+469
+	That is not a pencil.
+	51
+	98
+	2
+	http://www.example.com/469
+470
+	Come on down.
+	100
+	132
+	2
+	http://www.example.com/470
+471
+	Steve doesn't have to go if he doesn't want to.
+	82
+	40
+	1
+
+472
+	They tore up the football field so they could develop the area for a new science wing.
+	36
+	25
+	0
+
+473
+	She mixed up the recipes and accidentally made a beef parfait.
+	2
+	80
+	4
+	http://www.example.com/473
+474
+	Henderson started the American Communist's Club when they were in tenth grade.
+	78
+	102
+	0
+
+475
+	There is nothing about the situation I could relate to.
+	114
+	32
+	5
+	http://www.example.com/475
+476
+	They'll keep its name and French identity.
+	100
+	112
+	2
+	http://www.example.com/476
+477
+	The park has a soccer field.
+	132
+	7
+	5
+	http://www.example.com/477
+478
+	He often wished he was born in a time before social media.
+	119
+	48
+	0
+	http://www.example.com/478
+479
+	Anakin and Padme belong together.
+	112
+	88
+	2
+
+480
+	She thought she wanted to be an editor, until she got a job and realized she hated detail work.
+	90
+	64
+	4
+
+481
+	California is in America.
+	125
+	11
+	10
+	http://www.example.com/481
+482
+	We usually eat our biggest meal of the day at noon.
+	36
+	69
+	3
+	http://www.example.com/482
+483
+	She had a water bottle with  a built-in water filter.
+	128
+	31
+	1
+
+484
+	Paying your rent is not your biggest worry.
+	75
+	85
+	0
+	http://www.example.com/484
+485
+	Don't be sad, you're going to the game.
+	87
+	141
+	3
+	http://www.example.com/485
+486
+	It had been so long since she had seen him, she actually had to check the yearbook to remember his last name.
+	100
+	132
+	2
+
+487
+	She was convinced her father was a master chef.
+	147
+	40
+	0
+	http://www.example.com/487
+488
+	i really enjoyed meeting you guys and experiencing the other side of catering events, but the late hours and insufficient wages deterred me from continuing this job.
+	89
+	10
+	3
+
+489
+	I am on a very tight budget.
+	24
+	141
+	1
+	http://www.example.com/489
+490
+	The movie industry became a big business.
+	40
+	140
+	5
+	http://www.example.com/490
+491
+	Give me the big knife to cut the bread.
+	30
+	128
+	5
+
+492
+	I am looking for some pears.
+	100
+	87
+	6
+	http://www.example.com/492
+493
+	My father is in the office.
+	53
+	38
+	4
+	http://www.example.com/493
+494
+	I will take you to the movies only if you wait for me outside.
+	115
+	19
+	1
+
+495
+	You have some schoolwork to do.
+	0
+	114
+	0
+	http://www.example.com/495
+496
+	Maybe he was brokering a deal.
+	103
+	116
+	3
+	http://www.example.com/496
+497
+	We are all in favor of this plan.
+	63
+	69
+	6
+	http://www.example.com/497
+498
+	It's the biggest house in the neighborhood.
+	140
+	36
+	2
+
+499
+	Tom forgot his shopping list and only got half of what he wanted to.
+	133
+	90
+	0
+
+500
+	His appearance terrified her and she screamed.
+	23
+	116
+	0
+
+501
+	We have a long day tomorrow.
+	10
+	109
+	5
+
+502
+	He didn't know who to go as for Halloween.
+	35
+	10
+	1
+	http://www.example.com/502
+503
+	Stand up straight.
+	113
+	2
+	3
+
+504
+	Don't be nervous.
+	100
+	1
+	4
+
+505
+	That is very nice of you to say.
+	15
+	141
+	0
+
+506
+	That's it, go to time-out.
+	39
+	84
+	4
+
+507
+	The coach smiled at the player who tossed the frisbee.
+	58
+	8
+	5
+
+508
+	I'm going to see a movie.
+	20
+	29
+	8
+
+509
+	I don't know how to spell a lot of things.
+	132
+	6
+	7
+	http://www.example.com/509
+510
+	There are chips that I want in that vending machine.
+	18
+	135
+	2
+	http://www.example.com/510
+511
+	The cat jumped over the fence.
+	13
+	16
+	0
+	http://www.example.com/511
+512
+	I want to ask them when their big day is.
+	146
+	26
+	3
+	http://www.example.com/512
+513
+	My mom drove me to school fifteen minutes late on Tuesday.
+	13
+	10
+	0
+
+514
+	There is nobody more powerful than someone who is extremely intelligent but also extremely humble.
+	73
+	102
+	5
+	http://www.example.com/514
+515
+	My brother's dog barks a lot.
+	79
+	86
+	3
+
+516
+	The wind was strong today in the city.
+	97
+	135
+	2
+	http://www.example.com/516
+517
+	My hat is cooler than Jim's.
+	20
+	29
+	3
+	http://www.example.com/517
+518
+	That is a great idea.
+	147
+	33
+	3
+
+519
+	I've got other problems.
+	126
+	103
+	0
+
+520
+	Sports is one outlet to let off steam.
+	1
+	53
+	1
+
+521
+	I like the Wimbledon.
+	17
+	127
+	2
+	http://www.example.com/521
+522
+	What a big house you have.
+	9
+	53
+	1
+
+523
+	Look at the blackboard.
+	116
+	25
+	1
+	http://www.example.com/523
+524
+	You set me up and I don't appreciate it.
+	39
+	4
+	1
+
+525
+	He didn't know where he was supposed to go for his interview.
+	64
+	13
+	5
+	http://www.example.com/525
+526
+	There was a big party at Tom's place last weekend.
+	119
+	48
+	2
+	http://www.example.com/526
+527
+	She has a beautiful smile.
+	85
+	22
+	6
+	http://www.example.com/527
+528
+	The sirens went off in the middle of the night and woke us all up.
+	60
+	5
+	0
+
+529
+	She wants to be stronger, even if that means being meaner.
+	144
+	119
+	4
+
+530
+	Skating is so much fun.
+	117
+	5
+	4
+	http://www.example.com/530
+531
+	You can start from the basic stitches, and go from there.
+	101
+	3
+	1
+	http://www.example.com/531
+532
+	The chocolate chip cookies smelled so good that I ate one without asking.
+	22
+	115
+	2
+	http://www.example.com/532
+533
+	The earth is like a ball with a big magnet in it.
+	125
+	12
+	3
+
+534
+	She was very tired and frustrated.
+	53
+	143
+	0
+	http://www.example.com/534
+535
+	She started crying after she finished the song.
+	27
+	97
+	3
+	http://www.example.com/535
+536
+	It was very disgusting what he did to that pool.
+	105
+	22
+	3
+	http://www.example.com/536
+537
+	He hung a picture on the wall.
+	145
+	26
+	1
+
+538
+	I wonder if she dressed herself as hastily as we did: the room still dark, neither of us awake enough to remember to turn on the light switch, the echo of the telephone bells in our ears.
+	0
+	71
+	5
+
+539
+	Europe is old.
+	40
+	147
+	4
+
+540
+	The taxes are included in the price.
+	121
+	84
+	2
+
+541
+	Tom is now looking for a bigger house to live in.
+	132
+	100
+	3
+
+542
+	This carpet is big enough to cover the whole floor.
+	44
+	12
+	5
+
+543
+	You're pulling my leg.
+	78
+	21
+	1
+	http://www.example.com/543
+544
+	Mrs. Lee's class took a field trip to Austin.
+	72
+	109
+	3
+
+545
+	On her birthday, she decided to skip work, and instead got on a plane to Wisconsin.
+	78
+	119
+	0
+	http://www.example.com/545
+546
+	He got a fantastic performance review.
+	136
+	121
+	3
+	http://www.example.com/546
+547
+	He's a bit tipsy.
+	94
+	2
+	2
+
+548
+	A skirt can be fancier than jeans.
+	12
+	110
+	4
+	http://www.example.com/548
+549
+	The key he was interested in was very old.
+	17
 	52
 	3
 
+550
+	I'm taking a break from work.
+	123
+	47
+	1
 
-388
-	Launched a YouTube channel dedicated to reviewing imaginary movies. Spoiler: They're all blockbuster hits.
-	69
-	6
-	private
-	Brandon Ballard
-389
-	Attempted to break the record for the world's slowest book club. We're still on the first page.
-	118
+551
+	You're already big enough to do it by yourself.
+	81
+	3
+	3
+	http://www.example.com/551
+552
+	Last weekend, she wanted to go to the wedding, but she wasn't sure it was safe.
+	68
+	110
+	2
+	http://www.example.com/552
+553
+	Your reputation as an eccentric will rapidly grow in the neighborhood if you're seen walking a pet ostrich on a leash every morning.
+	64
+	13
+	5
+	http://www.example.com/553
+554
+	She was always worried that everyone secretly hated her.
+	59
+	89
+	3
+	http://www.example.com/554
+555
+	My German vocabulary list is up to two thousand words now.
+	91
+	18
 	3
 
-
-390
-	Decided to become a professional pen twirler. My office supplies have never been so entertained.
-	15
-	0
-
-
-391
-	Found a way to turn daydreaming into an Olympic sport. Gold medal in imagination, please!
-	58
-	6
-
-
-392
-	Tried to teach my dog how to whistle. Turns out, that's a skill reserved for humans.
-	93
-	2
-	public
-	Zakir Jennings
-393
-	Invented a game called "The Great Sock Migration." Socks travel in pairs, seeking warmer climates.
-	134
+556
+	The chickens were running around and pecking worms out of the ground.
+	12
+	110
 	4
 
-
-394
-	Started a club for people who collect unusual smells. Our nostrils are connoisseurs.
-	72
-	3
-	private
-	Alina Baird
-395
-	Launched a petition to add "Nap Time" to the official work schedule. Productivity would skyrocket, obviously.
-	143
-	3
-
-
-396
-	Attempted to break the record for the world's longest paper airplane flight. Spoiler: It crashed on takeoff.
-	32
-	3
-
-
-397
-	Decided to become a professional bedtime storyteller. Fairy tales for the sleep-deprived.
-	119
-	8
-
-
-398
-	Tried to teach my cat the art of origami. Paper cranes are now cat toys.
-	37
-	0
-	private
-	Ellie-Mae Vega
-399
-	Invented a game called "The Silent Sing-Along." Lips move, but no sound comes out.
-	139
-	7
-	private
-	Louie Fry
-400
-	Started a campaign to replace all traffic signs with interpretive dance signals. Left turn, jazz hands!
-	29
-	0
-	private
-	Filipa Cerrato
-401
-	Launched a YouTube channel dedicated to reviewing invisible gadgets. Spoiler: They're all cutting-edge.
-	134
-	0
-
-
-402
-	Attempted to break the record for the world's longest hopscotch game. Spoiler: I got tired.
-	1
-	2
-	private
-	Josha Varkey
-403
-	Decided to become a professional cereal box riddler. The mysteries of breakfast, decoded.
-	83
-	1
-	public
-	Wayne Proctor
-404
-	Found a way to turn daydreaming into a team sport. Go team imagination!
+557
+	She's the absolute best.
+	38
 	21
+	2
+	http://www.example.com/557
+558
+	This big sofa is really not suitable for a small room.
+	62
+	17
+	4
+
+559
+	There've been some big changes made around here recently.
+	53
+	38
+	7
+
+560
+	Moving to the next step is daunting.
+	22
+	95
+	0
+
+561
+	He does laundry in his basement.
+	55
+	102
+	1
+
+562
+	Plenty of sleep is healthful.
+	18
+	91
 	5
 
-
-405
-	Tried to teach my goldfish how to play chess. Checkmate: Fish are better at swimming.
-	51
+563
+	Most big Japanese firms depend on exports.
+	146
+	135
+	3
+	http://www.example.com/563
+564
+	I can't make up my mind.
+	40
+	82
 	4
-	public
-	Jana Edwards
+	http://www.example.com/564
+565
+	The sponge absorbed the water quicker than the towel.
+	62
+	105
+	2
+	http://www.example.com/565
+566
+	My big brother shared his cake with me.
+	19
+	22
+	0
+	http://www.example.com/566
+567
+	Those pants are too tight.
+	104
+	97
+	5
+	http://www.example.com/567
+568
+	I was scared to go to a monster movie, but my dad said he would sit with me, so we went last night.
+	65
+	35
+	0
+
+569
+	I've got too much work to do.
+	59
+	22
+	2
+
+570
+	Sarah will throw a big party with a lot of music.
+	131
+	87
+	6
+
+571
+	I think I can hear a baby crying.
+	47
+	98
+	2
+	http://www.example.com/571
+572
+	They wrote the specials on the chalkboard in multi-colored chalks.
+	121
+	88
+	7
+
+573
+	It is all going to be all right.
+	128
+	68
+	4
+
+574
+	We would move to a nicer house if we had more money.
+	137
+	145
+	0
+	http://www.example.com/574
+575
+	We can go to the museum.
+	100
+	137
+	2
+
+576
+	A lovely day isn't it.
+	30
+	104
+	0
+	http://www.example.com/576
+577
+	Ken's uncle has a chicken farm.
+	87
+	121
+	0
+	http://www.example.com/577
+578
+	We've been making this recipe for generations.
+	122
+	95
+	5
+
+579
+	I was so mad that I yelled at him at the top of my lungs.
+	103
+	50
+	4
+
+580
+	Your stance tells me.
+	119
+	3
+	6
+	http://www.example.com/580
+581
+	You can decide before your flight here on Thursday morning.
+	0
+	71
+	0
+
+582
+	Mr. Smith thinks that he's the best.
+	5
+	60
+	0
+
+583
+	I was excited to spend time with my wife without being interrupted by kids.
+	131
+	70
+	2
+
+584
+	We will make a snowman this winter.
+	124
+	138
+	2
+	http://www.example.com/584
+585
+	Blood is thicker than water.
+	41
+	51
+	1
+	http://www.example.com/585
+586
+	The snake in the grass made me jump.
+	120
+	132
+	0
+	http://www.example.com/586
+587
+	You're making a big fuss about nothing.
+	4
+	120
+	2
+	http://www.example.com/587
+588
+	It was raining so badly that she skidded on the pavement.
+	97
+	66
+	2
+
+589
+	Good heavens you've grown.
+	138
+	124
+	2
+
+590
+	I broke my phone.
+	145
+	2
+	4
+	http://www.example.com/590
+591
+	I wouldn't bet on going to the fair today.
+	99
+	77
+	5
+
+592
+	The White House is important.
+	34
+	93
+	2
+	http://www.example.com/592
+593
+	I am a football fan.
+	16
+	117
+	4
+	http://www.example.com/593
+594
+	I am going to make my bed first.
+	19
+	60
+	2
+	http://www.example.com/594
+595
+	He wished that time would pass faster.
+	71
+	61
+	6
+	http://www.example.com/595
+596
+	She was scared by the earthquake.
+	33
+	42
+	6
+
+597
+	He was very excited to see her, after two months away.
+	137
+	65
+	0
+
+598
+	The Communists are considered bad because they failed in carrying out their ideal of ending inequality.
+	135
+	18
+	2
+	http://www.example.com/598
+599
+	I prefer to go rather than to stay.
+	74
+	99
+	6
+	http://www.example.com/599
+600
+	Bigger doesn't always mean better.
+	12
+	125
+	2
+
+601
+	When she got her new ID, they hole-punched her old one.
+	105
+	98
+	3
+	http://www.example.com/601
+602
+	Today is Sunday, which means tomorrow is Monday and yesterday was Saturday.
+	38
+	134
+	3
+	http://www.example.com/602
+603
+	She graduated high school in 2003.
+	103
+	97
+	6
+	http://www.example.com/603
+604
+	I thought I wanted to work in an office, but now I'm not so sure.
+	138
+	55
+	0
+	http://www.example.com/604
+605
+	Cry all you want.
+	28
+	117
+	4
+
+606
+	She didn't know if it was an ethical issue that she wasn't disclosing certain information.
+	43
+	62
+	3
+	http://www.example.com/606
+607
+	His mom was so upset that he knew he couldn't tell her the truth.
+	21
+	73
+	0
+
+608
+	He has quite a few friends.
+	51
+	41
+	1
+
+609
+	You're making the biggest mistake of your life.
+	67
+	30
+	1
+	http://www.example.com/609
+610
+	Michael doesn't work.
+	114
+	127
+	1
+
+611
+	I have a feeling that something big is about to happen.
+	88
+	33
+	8
+
+612
+	She often exaggerates certain events to sound cool.
+	90
+	85
+	3
+
+613
+	The volume was up too high on the television.
+	39
+	22
+	2
+	http://www.example.com/613
+614
+	This is the biggest bookstore in town.
+	114
+	32
+	4
+	http://www.example.com/614
+615
+	He is bigger than all the other boys.
+	12
+	52
+	1
+
+616
+	I was so thirsty I couldn't wait to get a drink of water.
+	125
+	45
+	6
+	http://www.example.com/616
+617
+	He writes meaningless letters.
+	94
+	107
+	1
+	http://www.example.com/617
+618
+	He didn't want to go to the party, but he had already said he would go.
+	28
+	101
+	4
+	http://www.example.com/618
+619
+	Tom is taller than you are.
+	39
+	42
+	3
+	http://www.example.com/619
+620
+	She is with another man.
+	56
+	14
+	2
+
+621
+	You must have a huge family.
+	54
+	37
+	7
+
+622
+	I like cucumbers and olives.
+	4
+	7
+	3
+
+623
+	We have a big oak tree in our backyard.
+	108
+	6
+	3
+	http://www.example.com/623
+624
+	Bad news travels fast.
+	124
+	125
+	2
+	http://www.example.com/624
+625
+	One of the big issues in the campaign was taxes.
+	139
+	26
+	5
+
+626
+	Tragedy brings hope.
+	92
+	130
+	0
+	http://www.example.com/626
+627
+	He asked if she wanted room for cream in her coffee.
+	79
+	52
+	1
+	http://www.example.com/627
+628
+	They will arrive in half an hour.
+	120
+	37
+	2
+	http://www.example.com/628
+629
+	She was determined to summit Mount Everest before she turned twenty-nine.
+	2
+	113
+	1
+	http://www.example.com/629
+630
+	I was thinking of going round your place.
+	22
+	135
+	6
+
+631
+	I love eating toasted cheese and tuna sandwiches.
+	41
+	92
+	3
+
+632
+	If you like tuna and tomato sauce- try combining the two. It's really not as bad as it sounds.
+	131
+	87
+	6
+
+633
+	Someone I know recently combined Maple Syrup & buttered Popcorn thinking it would taste like caramel popcorn. It didn't and they don't recommend anyone else do it either.
+	138
+	124
+	4
+	http://www.example.com/633
+634
+	Sometimes, all you need to do is completely make an ass of yourself and laugh it off to realise that life isn't so bad after all.
+	19
+	146
+	5
+
+635
+	When I was little I had a car door slammed shut on my hand and I still remember it quite vividly.
+	69
+	63
+	6
+
+636
+	The clock within this blog and the clock on my laptop are 1 hour different from each other.
+	142
+	80
+	3
+	http://www.example.com/636
+637
+	They were excited to see their first sloth.
+	29
+	117
+	2
+
+638
+	The wake behind the boat told of the past while the open sea for told life in the unknown future.
+	145
+	26
+	2
+
+639
+	Even though he thought the world was flat he didn't see the irony of wanting to travel around the world.
+	90
+	133
+	4
+	http://www.example.com/639
+640
+	He wondered if it could be called a beach if there was no sand.
+	140
+	40
+	3
+	http://www.example.com/640
+641
+	Thigh-high in the water, the fisherman's hope for dinner soon turned to despair.
+	85
+	130
+	2
+	http://www.example.com/641
+642
+	Combines are no longer just for farms.
+	31
+	137
+	5
+
+643
+	The small white buoys marked the location of hundreds of crab pots.
+	34
+	140
+	1
+
+644
+	The snow-covered path was no help in finding his way out of the back-country.
+	95
+	51
+	7
+
+645
+	The waitress was not amused when he ordered green eggs and ham.
+	16
+	107
+	5
+
+646
+	Buried deep in the snow, he hoped his batteries were fresh in his avalanche beacon.
+	18
+	103
+	1
+	http://www.example.com/646
+647
+	Courage and stupidity were all he had.
+	34
+	93
+	0
+
+648
+	I don't respect anybody who can't tell the difference between Pepsi and Coke.
+	126
+	93
+	1
+	http://www.example.com/648
+649
+	As the years pass by, we all know owners look more and more like their dogs.
+	10
+	53
+	4
+	http://www.example.com/649
+650
+	In hopes of finding out the truth, he entered the one-room library.
+	125
+	37
+	9
+
+651
+	As he entered the church he could hear the soft voice of someone whispering into a cell phone.
+	130
+	52
+	1
+	http://www.example.com/651
+652
+	He quietly entered the museum as the super bowl started.
+	26
+	103
+	5
+
+653
+	He had concluded that pigs must be able to fly in Hog Heaven.
+	12
+	125
+	5
+	http://www.example.com/653
+654
+	The rain pelted the windshield as the darkness engulfed us.
+	146
+	22
+	0
+
+655
+	Beach-combing replaced wine tasting as his new obsession.
+	59
+	27
+	5
+
+656
+	The blinking lights of the antenna tower came into focus just as I heard a loud snap.
+	12
+	113
+	1
+	http://www.example.com/656
+657
+	People generally approve of dogs eating cat food but not cats eating dog food.
+	141
+	28
+	7
+
+658
+	Car safety systems have come a long way, but he was out to prove they could be outsmarted.
+	70
+	102
+	1
+	http://www.example.com/658
+659
+	They looked up at the sky and saw a million stars.
+	86
+	22
+	7
+
+660
+	She opened up her third bottle of wine of the night.
+	3
+	49
+	3
+	http://www.example.com/660
+661
+	With a single flip of the coin, his life changed forever.
+	6
+	103
+	5
+	http://www.example.com/661
+662
+	The tart lemonade quenched her thirst, but not her longing.
+	93
+	104
+	0
+	http://www.example.com/662
+663
+	Flying fish few by the space station.
+	130
+	104
+	6
+	http://www.example.com/663
+664
+	He colored deep space a soft yellow.
+	146
+	135
+	4
+	http://www.example.com/664
+665
+	Dan ate the clouds like cotton candy.
+	125
+	11
+	6
+	http://www.example.com/665
+666
+	He found a leprechaun in his walnut shell.
+	142
+	20
+	0
+
+667
+	Bill ran from the giraffe toward the dolphin.
+	100
+	112
+	4
+	http://www.example.com/667
+668
+	It didn't make sense unless you had the power to eat colors.
+	9
+	53
+	0
+	http://www.example.com/668
+669
+	Patricia loves the sound of nails strongly pressed against the chalkboard.
+	51
+	60
+	4
+
+670
+	He didn't understand why the bird wanted to ride the bicycle.
+	48
+	130
+	6
+
+671
+	Garlic ice-cream was her favorite.
+	121
+	103
+	6
+
+672
+	Smoky the Bear secretly started the fires.
+	137
+	80
+	5
+	http://www.example.com/672
+673
+	Pat ordered a ghost pepper pie.
+	112
+	139
+	3
+
+674
+	You have every right to be angry, but that doesn't give you the right to be mean.
+	16
+	133
+	2
+
+675
+	Andy loved to sleep on a bed of nails.
+	18
+	91
+	1
+
+676
+	Her daily goal was to improve on yesterday.
+	0
+	62
+	2
+	http://www.example.com/676
+677
+	She had a habit of taking showers in lemonade.
+	95
+	76
+	7
+
+678
+	The elephant didn't want to talk about the person in the room.
+	87
+	96
+	3
+	http://www.example.com/678
+679
+	The skeleton had skeletons of his own in the closet.
+	56
+	66
+	1
+	http://www.example.com/679
+680
+	The Oscar ceremonies are Hollywood's biggest extravaganza.
+	8
+	131
+	0
+
+681
+	She learned the different types of clouds in second grade.
+	31
+	105
+	4
+	http://www.example.com/681
+682
+	Sometimes I get confused where the ball went.
+	49
+	81
+	0
+
+683
+	We go to the gym club together.
+	42
+	88
+	8
+	http://www.example.com/683
+684
+	We've been trying to go there for so long.
+	51
+	31
+	3
+
+685
+	I haven't been invited.
+	60
+	74
+	7
+	http://www.example.com/685
+686
+	This room is just about big enough.
+	116
+	101
+	2
+
+687
+	The giraffe licked the tree and spat at the gorilla.
+	59
+	22
+	6
+
+688
+	That will do.
+	96
+	77
+	2
+	http://www.example.com/688
+689
+	She doesn't see Peter every day.
+	19
+	55
+	0
+
+690
+	The conversion rate of USD to Chinese RMB is approximately 1:6.
+	126
+	103
+	3
+
+691
+	We cook every day.
+	122
+	55
+	6
+
+692
+	I'm left wondering if she understood the joke.
+	92
+	88
+	2
+
+693
+	Wiggle your fingers.
+	145
+	53
+	0
+
+694
+	Tokyo is bigger than Rome.
+	103
+	143
+	7
+
+695
+	He plays the violin as well as the fiddle.
+	23
+	47
+	5
+
+696
+	His speech covered many subjects.
+	66
+	131
+	0
+
+697
+	My hands are too big to fit into these gloves.
+	59
+	113
+	7
+	http://www.example.com/697
+698
+	People are really out there thinking we can stop fascism by pointing out that they made factually inaccurate statements somewhere along the way.
+	22
+	141
+	1
+
+699
+	Robert tends to talk big.
+	66
+	20
+	5
+	http://www.example.com/699
+700
+	I have a whole list of people to call.
+	68
+	83
+	2
+	http://www.example.com/700
+701
+	He wore a red shirt and khakis to Target and was mistaken for an employee.
+	12
+	77
+	0
+	http://www.example.com/701
+702
+	It could possibly become a big problem.
+	125
+	11
+	1
+	http://www.example.com/702
+703
+	She wanted to be a tutor but had a hard time getting started.
+	49
+	127
+	6
+
+704
+	The kids were smiling from ear to ear.
+	11
+	70
+	3
+	http://www.example.com/704
+705
+	The nurse asked me which medications I was taking.
+	64
+	24
+	2
+	http://www.example.com/705
+706
+	Tom didn't want to take such a big risk.
+	22
+	59
+	6
+
+707
+	She told him to grow up.
+	83
+	125
+	2
+
+708
+	Albert is so cute.
+	39
+	127
+	2
+
+709
+	She thought squirrels tasted gross, but if she complained, her parents would yell at her.
+	117
+	95
+	1
+
+710
+	She meant to go to Gaborone, but mixed up Botswana and Zimbabwe and ended up in Harare instead.
+	28
+	19
+	4
+	http://www.example.com/710
+711
+	I've never seen a whale that big.
+	86
+	20
+	1
+	http://www.example.com/711
+712
+	We weren't in the best place.
+	85
+	90
+	2
+
+713
+	Good location choice.
+	45
+	58
+	2
+
+714
+	People love Chicago.
+	1
+	127
+	7
+	http://www.example.com/714
+715
+	He looked like a candy cane.
+	90
+	98
+	7
+	http://www.example.com/715
+716
+	She froze at the sight of the big spider.
+	44
+	12
+	0
+
+717
+	They called each other over the iPad each morning during breakfast.
+	140
+	40
+	7
+
+718
+	Problem solving is important.
+	139
+	116
+	6
+
+719
+	Every store around her seemed to have retail space for lease.
+	12
+	33
+	3
+	http://www.example.com/719
+720
+	Tom just got that big promotion he's been waiting for.
+	32
+	136
+	3
+	http://www.example.com/720
+721
+	I don't hate you.
+	36
+	127
+	4
+	http://www.example.com/721
+722
+	The dog chased the cat around the block four times.
+	133
+	144
+	6
+
+723
+	Mary is a fan of theirs.
+	71
+	62
+	5
+	http://www.example.com/723
+724
+	The job was bigger than I anticipated.
+	11
+	70
+	3
+	http://www.example.com/724
+725
+	The papers say that there was a big fire in Nagoya.
+	26
+	6
+	2
+
+726
+	When I ripped the tape off, it hurt.
+	103
+	50
+	0
+	http://www.example.com/726
+727
+	This dress is too big for me.
+	41
+	134
+	1
+	http://www.example.com/727
+728
+	I can make my own decisions.
+	31
+	137
+	2
+
+729
+	I don't think the house is as big as we hoped.
+	2
+	40
+	4
+
+730
+	The chandelier swayed in the breeze, sending dust drifting over the tables.
+	140
+	17
+	6
+
+731
+	There's a big package on the desk for you.
+	36
+	113
+	2
+
+732
+	He resolved to give up smoking.
+	127
+	102
+	2
+	http://www.example.com/732
+733
+	The big fire reduced the whole town to ashes.
+	43
+	62
+	0
+	http://www.example.com/733
+734
+	This is my younger brother.
+	18
+	48
+	2
+
+735
+	I will not open the door.
+	121
+	87
+	5
+
+736
+	The bigger they are, the harder they fall.
+	32
+	37
+	0
+
+737
+	I want a big happy family.
+	41
+	60
+	1
+	http://www.example.com/737
+738
+	They live in a beautiful house.
+	124
+	138
+	0
+
+739
+	She became homeless after she was evicted.
+	86
+	96
+	2
+	http://www.example.com/739
+740
+	She regretted not going until she saw the pictures they posted of the meet-up and realized she would have been the only woman there.
+	112
+	71
+	8
+
+741
+	We're leaving in ten minutes, whether you're dressed or not.
+	128
+	141
+	7
+
+742
+	I am a little mad right now.
+	80
+	0
+	2
+
+743
+	I am having his baby.
+	58
+	14
+	2
+
+744
+	Animal print adds a nice touch to plain outfits.
+	86
+	147
+	7
+	http://www.example.com/744
+745
+	I am on the phone.
+	11
+	48
+	4
+
+746
+	She didn't understand the appeal of hardwood floors.
+	74
+	33
+	6
+
+747
+	I check off each task on my list as soon as I complete it.
+	40
+	94
+	4
+
+748
+	His story is fishy.
+	66
+	138
+	4
+
+749
+	He didn't mean to smash the window.
+	78
+	21
+	0
+	http://www.example.com/749
+750
+	he has skipped school on many occasions.
+	102
+	41
+	5
+
+751
+	We're no different from anyone else.
+	80
+	127
+	6
+
+752
+	I have a feeling the boss won't be happy about this.
+	1
+	91
+	2
+	http://www.example.com/752
+753
+	Wearing long sleeves in the winter is a good idea.
+	104
+	128
+	5
+	http://www.example.com/753
+754
+	You're a fantastic cook.
+	139
+	125
+	1
+
+755
+	I had a beta fish.
+	120
+	37
+	5
+
+756
+	I'm on the list.
+	137
+	42
+	3
+	http://www.example.com/756
+757
+	It's so sunny outside.
+	133
+	77
+	0
+	http://www.example.com/757
+758
+	Nobody ever believed her when she told them how big her family was.
+	121
+	37
+	2
+	http://www.example.com/758
+759
+	She went to Oktoberfest and got drunk on half a stein of beer.
+	83
+	44
+	1
+	http://www.example.com/759
+760
+	We all live in a yellow submarine.
+	5
+	20
+	0
+
+761
+	A candle can be fake or real.
+	31
+	51
+	3
+	http://www.example.com/761
+762
+	You would somehow manage to make yourself understood.
+	120
+	63
+	5
+
+763
+	It could be the biggest mistake you ever make.
+	54
+	139
+	6
+	http://www.example.com/763
+764
+	We have group fitness classes.
+	70
+	98
+	1
+
+765
+	One day, maybe, she'd be interested, but not right now.
+	64
+	142
+	6
+
+766
+	I thought about possibly taking it over myself.
+	33
+	99
+	4
+	http://www.example.com/766
+767
+	The woman wasn't replying to her emails.
+	120
+	4
+	4
+	http://www.example.com/767
+768
+	Tom had big money problems.
+	29
+	117
+	1
+	http://www.example.com/768
+769
+	They saw giraffes.
+	147
+	94
+	0
+
+770
+	I've asked you a thousand times not to leave your dirty socks on the floor.
+	132
+	142
+	7
+	http://www.example.com/770
+771
+	It is very useful to listen to Lesson One again.
+	103
+	47
+	0
+	http://www.example.com/771
+772
+	I could be proposing next week.
+	95
+	51
+	5
+	http://www.example.com/772
+773
+	I'm reconsidering my decision to get such an expensive car.
+	90
+	71
+	8
+
+774
+	He snuck into the house after midnight to investigate.
+	88
+	10
+	7
+	http://www.example.com/774
+775
+	Tom recognized three of the names on the list.
+	89
+	69
+	1
+
+776
+	The bike shop had special bike racks out front, which were shaped like bicycle wheels.
+	112
+	131
+	3
+	http://www.example.com/776
+777
+	I want to be married.
+	114
+	139
+	2
+
+778
+	She hated the taste of butter so much that it made her gag.
+	107
+	111
+	3
+	http://www.example.com/778
+779
+	We are starting to enter a new chapter.
+	119
+	3
+	8
+	http://www.example.com/779
+780
+	You'll get a chance to come closer to nature, meet lots of different animals, birds, and plants.
+	30
+	104
+	0
+	http://www.example.com/780
+781
+	When you enter a room, smile and say hello.
+	86
+	53
+	6
+	http://www.example.com/781
+782
+	You need to look at the big picture here.
+	109
+	59
+	3
+
+783
+	Yesterday's board meeting was a big success.
+	48
+	45
+	2
+
+784
+	He recommended the scary book to me.
+	12
+	77
+	0
+	http://www.example.com/784
+785
+	I had to check Facebook to figure out her last name.
+	61
+	145
+	6
+
+786
+	He used a big piece of paper to make the bag.
+	109
+	100
+	3
+	http://www.example.com/786
+787
+	They painted the coffee shop ceiling black.
+	52
+	108
+	7
+	http://www.example.com/787
+788
+	I expect to be there this evening.
+	90
+	37
+	2
+	http://www.example.com/788
+789
+	We generally sing songs all together.
+	122
+	49
+	5
+
+790
+	She felt bad about constantly complaining about her friends but they were driving her insane.
+	23
+	90
+	3
+
+791
+	She sat next to a mom with a baby on the train, and the baby threw up on her.
+	142
+	64
+	3
+
+792
+	He wanted to go for a walk but it was too cold to go outside.
+	126
+	74
+	1
+	http://www.example.com/792
+793
+	In Japan, there is no lake bigger than Lake Biwa.
+	96
+	113
+	0
+	http://www.example.com/793
+794
+	I'm always late and I don't care.
+	115
+	122
+	4
+
+795
+	Grief is a ritual.
+	15
+	20
+	0
+	http://www.example.com/795
+796
+	Peter ate french fries.
+	78
+	21
+	0
+
+797
+	It's a big country, Tom.
+	76
+	48
+	1
+
+798
+	She got Taco Bell for lunch to try to cheer herself up, but it only made her more upset.
+	82
+	48
+	1
+	http://www.example.com/798
+799
+	There's a big bottle of aspirin in the medicine cabinet.
+	98
+	27
+	8
+	http://www.example.com/799
+800
+	The clock was ticking and kept me awake all night.
+	36
+	37
+	8
+
+801
+	Judith Jarvis Thompson is the best philosopher of all time.
+	117
+	129
+	2
+	http://www.example.com/801
+802
+	He said the telegram had arrived at noon.
+	66
+	117
+	0
+
+803
+	She liked the wallpaper in her room, but her mom insisted they remove it and put up paint instead.
+	49
+	81
+	3
+
+804
+	He was a horrible dancer.
+	126
+	103
+	1
+	http://www.example.com/804
+805
+	That's a great job, Kimberly.
+	43
+	30
+	0
+	http://www.example.com/805
+806
+	I don't care how long your socks are.
+	28
+	120
+	3
+
+807
+	Aluminum helps to keep your food fresh for longer.
+	145
+	2
+	4
+
+808
+	Technology makes us forget our past.
+	34
+	93
+	2
+	http://www.example.com/808
+809
+	At the coffee shop, she couldn't tell if they were annoyed with her or not.
+	36
+	125
+	2
+	http://www.example.com/809
+810
+	I accidentally left my money in my pants pocket and it got ruined in the washer.
+	44
+	122
+	0
+	http://www.example.com/810
+811
+	The girl had very long, very pretty hair and round glasses.
+	108
+	6
+	2
+	http://www.example.com/811
+812
+	Chocolate covered crickets were his favorite snack.
+	50
+	117
+	4
+
+813
+	The secret code they created made no sense, even to them.
+	92
+	41
+	1
+	http://www.example.com/813
+814
+	Three years later, the coffin was still full of Jello.
+	130
+	43
+	5
+	http://www.example.com/814
+815
+	His mind was blown that there was nothing in space except space itself.
+	106
+	59
+	0
+	http://www.example.com/815
+816
+	They're playing the piano while flying in the plane.
+	50
+	7
+	1
+	http://www.example.com/816
+817
+	The hand sanitizer was actually clear glue.
+	29
+	20
+	0
+
+818
+	The lyrics of the song sounded like fingernails on a chalkboard.
+	94
+	119
+	3
+
+819
+	It took him a month to finish the meal.
+	127
+	76
+	5
+	http://www.example.com/819
+820
+	Seek success, but always be prepared for random cats.
+	26
+	146
+	1
+
+821
+	Having no hair made him look even hairier.
+	78
+	21
+	0
+
+822
+	He poured rocks in the dungeon of his mind.
+	82
+	131
+	0
+
+823
+	The blue parrot drove by the hitchhiking mongoose.
+	31
+	50
+	2
+
+824
+	Happiness can be found in the depths of chocolate pudding.
+	88
+	1
+	2
+	http://www.example.com/824
+825
+	There are no heroes in a punk rock band.
+	129
+	14
+	6
+	http://www.example.com/825
+826
+	He shaved the peach to prove a point.
+	145
+	79
+	0
+	http://www.example.com/826
+827
+	Peanuts don't grow on trees, but cashews do.
+	96
+	1
+	5
+
+828
+	It's difficult to understand the lengths he'd go to remain short.
+	49
+	115
+	2
+	http://www.example.com/828
+829
+	He created a pig burger out of beef.
+	40
+	144
+	5
+	http://www.example.com/829
+830
+	His thought process was on so many levels that he gave himself a phobia of heights.
+	2
+	145
+	3
+
+831
+	He liked to play with words in the bathtub.
+	136
+	32
+	0
+
+832
+	There were three sphered rocks congregating in a cubed room.
+	51
+	60
+	3
+	http://www.example.com/832
+833
+	There was no telling what thoughts would come from the machine.
+	2
+	80
+	2
+
+834
+	He put heat on the wound to see what would grow.
+	72
+	93
+	1
+
+835
+	She used her own hair in the soup to give it more flavor.
+	139
+	29
+	4
+
+836
+	Sometimes you have to just give up and win by cheating.
+	39
+	84
+	0
+	http://www.example.com/836
+837
+	She was amazed by the large chunks of ice washing up on the beach.
+	90
+	85
+	5
+	http://www.example.com/837
+838
+	Gary didn't understand why Doug went upstairs to get one dollar bills when he invited him to go cow tipping.
+	78
+	21
+	1
+
+839
+	The beach was crowded with snow leopards.
+	71
+	61
+	4
+	http://www.example.com/839
+840
+	As the asteroid hurtled toward earth, Becky was upset her dentist appointment had been canceled.
+	117
+	28
+	2
+
+841
+	She looked at the masterpiece hanging in the museum but all she could think is that her five-year-old could do better.
+	93
+	90
+	5
+
+842
+	The white water rafting trip was suddenly halted by the unexpected brick wall.
+	92
+	41
+	0
+
+843
+	She always had an interesting perspective on why the world must be flat.
+	9
+	17
+	0
+
+844
+	There are many things that confuse me about that.
+	98
+	4
+	4
+
+845
+	He is my grandfather.
+	5
+	72
+	2
+
+846
+	You shouldn't go swimming after eating a big meal.
+	41
+	37
+	2
+
+847
+	They have a big lunch and a small dinner.
+	114
+	27
+	5
+
+848
+	She attended kindergarten in 2013.
+	59
+	143
+	1
+
+849
+	I'm taking a little road trip to Oklahoma City this morning.
+	56
+	19
+	2
+
+850
+	He admitted defeat.
+	107
+	115
+	0
+	http://www.example.com/850
+851
+	You, as the maker, get to decide the design.
+	51
+	96
+	1
+
+852
+	She thought she was very special, and not like other girls.
+	6
+	61
+	2
+
+853
+	The man at the coffeeshop had been sitting there alone for some time before he was joined by a very beautiful woman.
+	93
+	126
+	5
+	http://www.example.com/853
+854
+	I do not want to smoke.
+	32
+	117
+	3
+
+855
+	Those are big watermelons.
+	26
+	139
+	2
+	http://www.example.com/855
+856
+	We shall devote today's lesson to the study of the English verb 'to get'.
+	40
+	117
+	7
+	http://www.example.com/856
+857
+	There's not much chance of that actually happening.
+	44
+	12
+	1
+
+858
+	You are more than just your shopping cart.
+	119
+	95
+	3
+
+859
+	She had always harbored a secret jealousy for Youtubers, even those who appeared outwardly dumb and were often mocked on Twitter.
+	105
+	133
+	0
+
+860
+	It makes me forget all my problems.
+	141
+	93
+	10
+
+861
+	He bonded with his father over music.
+	54
+	36
+	8
+	http://www.example.com/861
+862
+	She paid over a thousand dollars a month for her tiny studio apartment, which did not have a dishwasher or consistent heating.
+	30
+	20
+	5
+	http://www.example.com/862
+863
+	There is a lot of crime in big cities.
+	113
+	12
+	0
+	http://www.example.com/863
+864
+	With these headphones, I can't hear anything.
+	130
+	134
+	4
+
+865
+	She wanted her grandmother's old bike, but the tires were worn out and she couldn't find a shop that could replace them.
+	12
+	22
+	0
+	http://www.example.com/865
+866
+	Today, I met a vampire who liked to eat beets.
+	58
+	45
+	6
+
+867
+	Alex works for 4 hours every day.
+	129
+	1
+	2
+
+868
+	I got a smoothie while I was waiting for my plane to arrive.
+	33
+	42
+	4
+	http://www.example.com/868
+869
+	The old man liked to watch birds and go hunting for squirrels.
+	54
+	10
+	6
+	http://www.example.com/869
+870
+	It rather suprised me.
+	28
+	109
+	4
+	http://www.example.com/870
+871
+	Tom wanted to live in a city like Boston.
+	98
+	115
+	5
+	http://www.example.com/871
+872
+	The red van was pulling a trailer with a beat-up lawn mower on it.
+	116
+	25
+	1
+
+873
+	Nobody is out there trying to be happy.
+	31
+	105
+	2
+
+874
+	Most of the people who agreed to sell their livers had already sold one of their kidneys.
+	124
+	20
+	2
+
+875
+	This would be a fun place to get married.
+	108
+	52
+	2
+	http://www.example.com/875
+876
+	The kid had made it his mission to pee in every pool he swam in.
+	4
+	26
+	3
+	http://www.example.com/876
+877
+	There is nothing else to do today.
+	40
+	64
+	7
+	http://www.example.com/877
+878
+	She will buy the red sweater.
+	74
+	90
+	0
+
+879
+	She gave me a dirty look.
+	145
+	99
+	0
+	http://www.example.com/879
+880
+	I just made it.
+	108
+	52
+	1
+
+881
+	The package will arrive six days late.
+	145
+	88
+	5
+	http://www.example.com/881
+882
+	He kept telling himself that one day it would all somehow make sense.
+	28
+	21
+	4
+
+883
+	She moved forward only because she trusted that the ending she now was going through must be followed by a new beginning.
+	75
+	40
+	2
+	http://www.example.com/883
+884
+	While all her friends were positive that Mary had a sixth sense, she knew she actually had a seventh sense.
+	99
+	74
+	3
+
+885
+	He had a wall full of masks so she could wear a different face every day.
+	117
+	50
+	4
+
+886
+	The group quickly understood that toxic waste was the most effective barrier to use against the zombies.
+	15
+	20
+	1
+
+887
+	There have been days when I wished to be separated from my body, but today wasn't one of those days.
+	111
+	84
+	1
+	http://www.example.com/887
+888
+	To the surprise of everyone, the Rapture happened yesterday but it didn't quite go as expected.
+	104
+	97
+	4
+	http://www.example.com/888
+889
+	The bullet pierced the window shattering it before missing Danny's head by mere millimeters.
+	54
+	36
+	1
+
+890
+	The complicated school homework left the parents trying to help their kids quite confused.
+	134
+	132
+	4
+	http://www.example.com/890
+891
+	Too many prisons have become early coffins.
+	94
+	130
+	2
+	http://www.example.com/891
+892
+	I often wish for good luck and receive bad luck.
+	145
+	79
+	3
+
+893
+	I got a new cat.
+	47
+	95
+	2
+	http://www.example.com/893
+894
+	I was born a very grumpy baby.
+	62
+	115
+	6
+
+895
+	These dogs are so sweet.
+	106
+	113
+	1
+	http://www.example.com/895
+896
+	You need therapy.
+	119
+	75
+	0
+
+897
+	The price just covers the pre-tax cost.
+	72
+	5
+	4
+	http://www.example.com/897
+898
+	Utensils are useful.
+	59
+	143
+	7
+
+899
+	She knew as soon as she rejected the job that it was the wrong decision to make.
+	122
+	25
+	4
+	http://www.example.com/899
+900
+	As a kid, she thought that dinosaurs were still alive and lived in the woods behind her house.
+	1
+	100
+	2
+	http://www.example.com/900
+901
+	In Shanghai, there is a tower called the Pearl Tower which has a big round base and a pointed tip.
+	29
+	36
+	0
+	http://www.example.com/901
+902
+	She found a cool vintage sweatshirt while thrifting.
+	34
+	99
+	1
+	http://www.example.com/902
+903
+	I'll make a list and give it to Samantha.
+	123
+	45
+	1
+	http://www.example.com/903
+904
+	She got bent out of shape.
+	131
+	66
+	2
+	http://www.example.com/904
+905
+	Therapy seems helpful.
+	12
+	52
+	1
+
+906
+	I bought these boots at Goodwill.
+	34
+	93
+	2
+
+907
+	He is tough, but I am even tougher.
+	132
+	58
+	1
+
+908
+	The external scars tell only part of the story.
+	26
+	33
+	1
+
+909
+	Excitement replaced fear until the final moment.
+	5
+	90
+	2
+	http://www.example.com/909
+910
+	The tattered work gloves speak of the many hours of hard labor he endured throughout his life.
+	48
+	103
+	2
+
+911
+	The hummingbird's wings blurred while it eagerly sipped the sugar water from the feeder.
+	90
+	5
+	6
+	http://www.example.com/911
+912
+	Poison ivy grew through the fence they said was impenetrable.
+	76
+	2
+	4
+	http://www.example.com/912
+913
+	She forgot to water the plant for two months.
+	34
+	115
+	1
+	http://www.example.com/913
+914
+	This car is in good condition.
+	123
+	3
+	3
+
+915
+	The tape was so sticky that, when it got stuck to my eyebrows, it wouldn't come off.
+	55
+	102
+	1
+
+916
+	I am Loki.
+	64
+	29
+	6
+
+917
+	She is my grandmother.
+	134
+	107
+	6
+	http://www.example.com/917
+918
+	It's as flat as a pancake.
+	143
+	41
+	4
+
+919
+	I like rice and beans for dinner.
+	96
+	94
+	4
+
+920
+	No burglar would ever have the heart to hurt a pet pig.
+	106
+	85
+	4
+	http://www.example.com/920
+921
+	I had a bad feeling the morning after drinking too much.
+	0
+	113
+	3
+
+922
+	He had always wanted to be a Youtuber but never thought it would actually happen.
+	101
+	7
+	4
+	http://www.example.com/922
+923
+	I like veggies too.
+	94
+	23
+	7
+	http://www.example.com/923
+924
+	She's trying to drown her sorrows.
+	9
+	53
+	1
+
+925
+	His shirt is covered in sweat.
+	30
+	79
+	0
+	http://www.example.com/925
+926
+	The Grand Canyon got snow for the first time in decades, and all the tourists were very excited.
+	61
+	30
+	1
+	http://www.example.com/926
+927
+	She has blue eyes.
+	67
+	30
+	1
+
+928
+	That woman is creepy.
+	132
+	6
+	1
+
+929
+	I wish Star Wars had a happier plot.
+	132
+	60
+	4
+	http://www.example.com/929
+930
+	Tom stood alone under a clock in the deserted train station.
+	138
+	103
+	5
+	http://www.example.com/930
+931
+	We look forward to your visit.
+	96
+	87
+	1
+	http://www.example.com/931
+932
+	She had a hard time finding laundry detergent when she was traveling.
+	130
+	118
+	2
+	http://www.example.com/932
+933
+	I want white teeth.
+	144
+	51
+	7
+
+934
+	I have a question I need to ask everyone.
+	104
+	61
+	6
+
+935
+	Racecar backwards is racecar.
+	12
+	122
+	0
+	http://www.example.com/935
+936
+	I don't want to live in a mansion.
+	127
+	63
+	3
+	http://www.example.com/936
+937
+	Tom started a list so he wouldn't forget anything.
+	48
+	107
+	1
+
+938
+	School violence is a major problem.
+	41
+	51
+	0
+	http://www.example.com/938
+939
+	Big men are not always strong.
+	69
+	63
+	6
+	http://www.example.com/939
+940
+	He uses the snorkel to breathe under water.
+	77
+	133
+	2
+	http://www.example.com/940
+941
+	They had been dating for seven years by the time they got engaged.
+	21
+	144
+	5
+	http://www.example.com/941
+942
+	She wanted to get a master's degree because she missed school.
+	40
+	147
+	4
+
+943
+	I can't find the page you're talking about.
+	63
+	51
+	3
+
+944
+	He strives to keep the best lawn in the neighborhood.
+	100
+	137
+	0
+
+945
+	The spa attendant applied the deep cleaning mask to the gentleman's back.
+	36
+	48
+	5
+
+946
+	Shingle color was not something the couple had ever talked about.
+	97
+	87
+	2
+
+947
+	The sunblock was handed to the girl before practice, but the burned skin was proof she did not apply it.
+	58
+	47
+	5
+	http://www.example.com/947
+948
+	The virus had powers none of us knew existed.
+	82
+	40
+	0
+
+949
+	A quiet house is nice until you are ordered to stay in it for months.
+	34
+	118
+	0
+	http://www.example.com/949
+950
+	If there is a big earthquake, the alarm will sound.
+	40
+	60
+	1
+	http://www.example.com/950
+951
+	Tom didn't tell us how big your house was.
+	6
+	61
+	3
+
+952
+	The coffee shop didn't have liquid sugar for her iced tea, so she had to use sugar packets.
+	62
+	112
+	0
+	http://www.example.com/952
+953
+	Her mother offered to send her money every month, but she was too embarrassed to accept it.
+	86
+	127
+	3
+	http://www.example.com/953
+954
+	He's as mad as a hornet.
+	144
+	110
+	9
+	http://www.example.com/954
+955
+	Tommy lost the shopping list his mother had given him and just bought things he wanted to eat.
+	68
+	16
+	1
+
+956
+	Tom answered all the questions on the list.
+	60
+	40
+	7
+
+957
+	I wish I had met my uncle yesterday like I was supposed to.
+	139
+	26
+	6
+
+958
+	All the names are listed in alphabetical order.
+	91
+	111
+	3
+	http://www.example.com/958
+959
+	we won't be taking you with us.
+	69
+	33
+	2
+	http://www.example.com/959
+960
+	Glazed donuts are amazing.
+	90
+	93
+	6
+
+961
+	He has a very interesting looking face.
+	95
+	76
+	8
+	http://www.example.com/961
+962
+	No woman would buy that.
+	95
+	111
+	1
+
+963
+	She liked the feeling of the keyboard under her fingers.
+	143
+	116
+	0
+	http://www.example.com/963
+964
+	Democracy over what we work on is called socialist.
+	44
+	83
+	2
+	http://www.example.com/964
+965
+	She learned that water bottles are no longer just to hold liquid, but they're also status symbols.
+	27
+	73
+	1
+	http://www.example.com/965
+966
+	Their argument could be heard across the parking lot.
+	79
+	86
+	2
+	http://www.example.com/966
+967
+	Giving directions that the mountains are to the west only works when you can see them.
+	45
+	63
+	4
+	http://www.example.com/967
+968
+	Traveling became almost extinct during the pandemic.
+	76
+	118
+	4
+
+969
+	It was obvious she was hot, sweaty, and tired.
+	55
+	138
+	4
+	http://www.example.com/969
+970
+	The Great Dane looked more like a horse than a dog.
+	18
+	103
+	0
+	http://www.example.com/970
+971
+	He played the game as if his life depended on it and the truth was that it did.
+	131
+	82
+	7
+
+972
+	It's not possible to convince a monkey to give you a banana by promising it infinite bananas when they die.
+	39
+	26
+	2
+	http://www.example.com/972
+973
+	He went on a whiskey diet and immediately lost three days.
+	78
+	102
+	0
+
+974
+	He watched the dancing piglets with panda bear tummies in the swimming pool.
+	70
+	18
+	3
+
+975
+	Martha came to the conclusion that shake weights are a great gift for any occasion.
+	125
+	37
+	5
+	http://www.example.com/975
+976
+	The stained glass window had slivers of yellow, orange, and red.
+	132
+	7
+	5
+
+977
+	Hayley Wickenheiser is an incredible human being.
+	107
+	48
+	2
+
+978
+	My boyfriend loves this song.
+	28
+	122
+	1
+	http://www.example.com/978
+979
+	She wasn't sure if she had made a stupid decision or not.
+	18
+	134
+	4
+	http://www.example.com/979
+980
+	She took offense at his comment.
+	81
+	13
+	0
+
+981
+	You can decide which smoothie place we go to.
+	82
+	131
+	0
+	http://www.example.com/981
+982
+	A big car drew up and a tall lady got out.
+	4
+	48
+	3
+	http://www.example.com/982
+983
+	There were so many cookies leftover.
+	115
+	109
+	9
+	http://www.example.com/983
+984
+	That movie franchise sucks.
+	71
+	140
+	2
+	http://www.example.com/984
+985
+	I'm a fan of American cooking.
+	71
+	90
+	5
+	http://www.example.com/985
+986
+	My family just got home.
+	131
+	88
+	7
+	http://www.example.com/986
+987
+	Tom could be a big help to you, I think.
+	58
+	42
+	6
+	http://www.example.com/987
+988
+	The train does not leave at 8AM.
+	6
+	141
+	2
+	http://www.example.com/988
+989
+	Bobsled is a sporting event.
+	140
+	114
+	0
+
+990
+	The car crash was so instantaneous that I barely had time to process it.
+	48
+	10
+	2
+
+991
+	I always list what I need before I go shopping.
+	121
+	94
+	1
+	http://www.example.com/991
+992
+	The businessman had many important meetings.
+	29
+	117
+	1
+
+993
+	She promised she would reserve a room for me.
+	12
+	22
+	4
+
+994
+	I want your life to be better than mine was.
+	23
+	35
+	3
+	http://www.example.com/994
+995
+	You go on a holiday every summer.
+	88
+	10
+	5
+	http://www.example.com/995
+996
+	The risk is higher if you wait to go to the hospital.
+	146
+	119
+	0
+	http://www.example.com/996
+997
+	Odds are that he is cheating on her.
+	17
+	52
+	8
+
+998
+	Tokyo is a very large city.
+	52
+	64
+	5
+	http://www.example.com/998
+999
+	I especially appreciate how helpful and kind you've been throughout this entire process.
+	101
+	112
+	3
+	http://www.example.com/999
+1000
+	I'm having second thoughts about getting married so soon.
+	79
+	145
+	1
+	http://www.example.com/1000
+1001
+	The technology is unbeatable.
+	129
+	117
+	4
+	http://www.example.com/1001
+1002
+	She thought the new Dune movie was dull, but her boss loved it.
+	16
+	99
+	6
+	http://www.example.com/1002
+1003
+	I am afraid of tornados.
+	96
+	142
+	0
+
+1004
+	She resolved to stop speaking out people when she was out on her walks.
+	9
+	53
+	0
+	http://www.example.com/1004
+1005
+	Today is a great day.
+	98
+	105
+	6
+	http://www.example.com/1005
+1006
+	A man from my future came to me today.
+	107
+	88
+	1
+	http://www.example.com/1006
+1007
+	The peanut butter jar was hard to open.
+	44
+	135
+	1
+	http://www.example.com/1007
+1008
+	I had just gotten the face where I wanted it when my classmate bumped into me and the clay fell over.
+	113
+	59
+	4
+	http://www.example.com/1008
+1009
+	They were afraid of the black dog.
+	91
+	111
+	5
+	http://www.example.com/1009
+1010
+	Since the moment I first put on the suit, it's been the greatest gig of my life.
+	144
+	14
+	3
+
+1011
+	I entered Tom's name on the list of candidates.
+	116
+	63
+	3
+	http://www.example.com/1011
+1012
+	The big ugly tree destroys the beauty of the house.
+	60
+	40
+	2
+	http://www.example.com/1012
+1013
+	On her seventeenth birthday, she jumped from her house's third-floor balcony.
+	53
+	67
+	5
+
+1014
+	This could become a problem.
+	57
+	11
+	2
+
+1015
+	She hated first dates.
+	70
+	128
+	1
+	http://www.example.com/1015
+1016
+	In China, they eat watermelon with salt on it, because they say it makes things taste sweeter.
+	114
+	139
+	5
+
+1017
+	I got my hair cut today, and they cut it way too short.
+	100
+	87
+	4
+	http://www.example.com/1017
+1018
+	I put on my underclothes, shirt and trousers.
+	93
+	90
+	0
+	http://www.example.com/1018
+1019
+	The mother read a story to her son.
+	133
+	125
+	2
+
+1020
+	Tom's one main ambition in life was to become a race car driver.
+	67
+	61
+	2
+
+1021
+	There was a big earthquake last night.
+	76
+	37
+	5
+	http://www.example.com/1021
+1022
+	The first baseman caught the fly ball.
+	19
+	55
+	5
+
+1023
+	Karl Marx actually thought that under capitalism poets would be able to find work that paid wages.
+	126
+	135
+	1
+
+1024
+	I'm sorry to interrupt you.
+	83
+	125
+	1
+
+1025
+	My favorite snack is pretzels.
+	14
+	117
+	3
+
+1026
+	She dreamed an evil henchman was forcing her to count every single hair on her head.
+	90
+	73
+	4
+
+1027
+	Our house is a historic building and protected monument.
+	42
+	13
+	8
+	http://www.example.com/1027
+1028
+	You don't need to leave so early.
+	1
+	84
+	3
+
+1029
+	I have been trying to say this for awhile.
+	127
+	38
+	3
+	http://www.example.com/1029
+1030
+	He bought Traveler's Choice instant coffee because it was cheaper than the other brands.
+	33
+	99
+	0
+	http://www.example.com/1030
+1031
+	Northwestern is a great school.
+	24
+	94
+	3
+	http://www.example.com/1031
+1032
+	He ordered a latte.
+	79
+	145
+	3
+
+1033
+	I have the flowers.
+	100
+	62
+	1
+
+1034
+	My biggest problem is deciding what I should do next.
+	7
+	104
+	3
+
+1035
+	I've made a list of people I need to talk to.
+	141
+	88
+	3
+
+1036
+	She's as white as a sheet.
+	142
+	111
+	4
+	http://www.example.com/1036
+1037
+	We are completely in love.
+	85
+	112
+	0
+	http://www.example.com/1037
+1038
+	Today is the day I'll finally know what brick tastes like.
+	17
+	9
+	1
+	http://www.example.com/1038
+1039
+	People keep telling me "orange" but I still prefer "pink".
+	115
+	49
+	8
+
+1040
+	Hang on, my kittens are scratching at the bathtub and they'll upset by the lack of biscuits.
+	64
+	142
+	2
+
+1041
+	The tears of a clown make my lipstick run, but my shower cap is still intact.
+	72
+	73
+	1
+
+1042
+	The gloves protect my feet from excess work.
+	131
+	88
+	7
+	http://www.example.com/1042
+1043
+	The fog was so dense even a laser decided it wasn't worth the effort.
+	123
+	45
+	1
+
+1044
+	He was an introvert that extroverts seemed to love.
+	60
+	141
+	0
+
+1045
+	The golden retriever loved the fireworks each Fourth of July.
+	96
+	1
+	3
+	http://www.example.com/1045
+1046
+	I want a giraffe, but I'm a turtle eating waffles.
+	67
+	71
+	3
+	http://www.example.com/1046
+1047
+	Henry couldn't decide if he was an auto mechanic or a priest.
+	116
+	58
+	0
+	http://www.example.com/1047
+1048
+	100 years old is such a young age if you happen to be a bristlecone pine.
+	54
+	10
+	1
+
+1049
+	When he asked her favorite number, she answered without hesitation that it was diamonds.
+	3
+	136
+	4
+
+1050
+	My biggest joy is roasting almonds while stalking prey.
+	144
+	14
+	0
+
+1051
+	Edith could decide if she should paint her teeth or brush her nails.
+	109
+	84
+	7
+
+1052
+	It was the first time he had ever seen someone cook dinner on an elephant.
+	32
+	117
+	1
+	http://www.example.com/1052
+1053
+	Purple is the best city in the forest.
+	45
+	95
+	3
+	http://www.example.com/1053
+1054
+	There is no better feeling than staring at a wall with closed eyes.
+	131
+	0
+	7
+
+1055
+	She couldn't understand why nobody else could see that the sky is full of cotton candy.
+	20
+	15
+	9
+	http://www.example.com/1055
+1056
+	He decided to count all the sand on the beach as a hobby.
+	147
+	94
+	0
+
+1057
+	My uncle's favorite pastime was building cars out of noodles.
+	90
+	93
+	3
+
+1058
+	The best part of marriage is animal crackers with peanut butter.
+	41
+	95
+	4
+	http://www.example.com/1058
+1059
+	I'll talk you through every step of the aquatic soccer game.
+	34
+	93
+	2
+	http://www.example.com/1059
+1060
+	It's difficult to say, but I think our customers are more satisfied.
+	5
+	20
+	3
+
+1061
+	He is my father.
+	59
+	31
+	1
+
+1062
+	I have no doubt that you're going to nail this interview.
+	16
+	133
+	1
+	http://www.example.com/1062
+1063
+	The train was forty-seven minutes late.
+	90
+	5
+	4
+
+1064
+	He was so surprised that he dropped the dumbbells right on his foot.
+	86
+	22
+	7
+	http://www.example.com/1064
+1065
+	She had always wanted to be a boxer, but was so weak that she never made it more than a class or two before giving up.
+	24
+	144
+	0
+
+1066
+	She meant the world to me.
+	98
+	4
+	2
+
+1067
+	I'm also too poor to afford a real office.
+	43
+	62
+	0
+	http://www.example.com/1067
+1068
+	I drink less water than him.
+	111
+	91
+	3
+
+1069
+	She spent over $300 on masks alone in 2020.
+	75
+	38
+	3
+	http://www.example.com/1069
+1070
+	Whitening your teeth can be bad for them.
+	90
+	89
+	2
+
+1071
+	English Speaking Courses are the hardest ones.
+	75
+	17
+	4
+
+1072
+	My home is bright pink and has yellow flowers growing all around it.
+	79
+	42
+	3
+	http://www.example.com/1072
+1073
+	I just saw the most eccentric brick.
+	140
+	142
+	4
+	http://www.example.com/1073
+1074
+	She tried to make chicken but she must have put the wrong thing in because it came out of the oven bright green.
+	69
+	89
+	0
+
+1075
+	Yes, you can have a carry on.
+	122
+	35
+	1
+	http://www.example.com/1075
+1076
+	I have 30 jackets.
+	108
+	36
+	1
+	http://www.example.com/1076
+1077
+	They'll show you the way home when you're drunk.
+	85
+	130
+	0
+	http://www.example.com/1077
+1078
+	She threw her back out.
+	97
+	71
+	0
+	http://www.example.com/1078
+1079
+	Tom Jackson was one of the names I recognized on that list.
+	81
+	20
+	0
+	http://www.example.com/1079
+1080
+	It's not such a big problem You're worrying way too much.
+	118
+	31
+	1
+	http://www.example.com/1080
+1081
+	I want someone who is going to inspire me.
+	80
+	147
+	0
+	http://www.example.com/1081
+1082
+	The beekeeper was so confident that she didn't bother to wear protective gear.
+	113
+	12
+	0
+	http://www.example.com/1082
+1083
+	No, I can't clean your house It's too big..
+	66
+	95
+	2
+
+1084
+	I can't believe you went skydiving last week.
+	87
+	141
+	0
+
+1085
+	She was very tired as a general rule.
+	33
+	99
+	2
+
+1086
+	She painted her face purple for Halloween, so she could go as a grape.
+	102
+	122
+	3
+	http://www.example.com/1086
+1087
+	I will never forget that day.
+	41
+	143
+	4
+
+1088
+	He is my elder brother.
+	97
+	14
+	0
+	http://www.example.com/1088
+1089
+	Her mom was a musical theater actress, which got her interested in singing.
+	45
+	123
+	4
+	http://www.example.com/1089
+1090
+	Selling hand-made objects is the main source of income for locals.
+	120
+	136
+	0
+	http://www.example.com/1090
+1091
+	You're not looking at the big picture.
+	100
+	109
+	4
+	http://www.example.com/1091
+1092
+	I do not like zoos.
+	49
+	81
+	5
+	http://www.example.com/1092
+1093
+	I've been a big fan of yours for a long time.
+	27
+	73
+	5
+
+1094
+	Everyone who got eliminated in red-light green-light got to go inside and eat cookies.
+	65
+	61
+	0
+
+1095
+	I could eat avocados for thee rest of my life.
+	44
+	80
+	4
+	http://www.example.com/1095
+1096
+	Juan watched TV.
+	32
+	117
+	1
+
+1097
+	It's a significant part of history.
+	9
+	104
+	0
+
+1098
+	My mom is from China.
+	108
+	37
+	1
+
+1099
+	His grandmother loved his paintings so much that she tried to sell them to her friends.
+	139
+	98
+	5
+	http://www.example.com/1099
+1100
+	My brother just got home.
+	62
+	100
+	0
+	http://www.example.com/1100
+1101
+	She became more and more beautiful.
+	79
+	49
+	2
+
+1102
+	I don't like close spaces.
+	113
+	96
+	2
+
+1103
+	I'm going to crash at your place.
+	21
+	144
+	2
+	http://www.example.com/1103
+1104
+	These shoes are just way too large.
+	124
+	44
+	2
+
+1105
+	We didn't sleep all night because we were talking.
+	32
+	26
+	2
+
+1106
+	You might want to consider how cute they look in pajamas.
+	93
+	141
+	1
+	http://www.example.com/1106
+1107
+	I had to put a pin in his femur.
+	15
+	125
+	0
+
+1108
+	Being fashionable is easy.
+	42
+	58
+	4
+
+1109
+	I've got rough hands.
+	27
+	97
+	5
+
+1110
+	I just passed the funniest bridge.
+	107
+	16
+	1
+	http://www.example.com/1110
+1111
+	I made very short work of the big steak.
+	104
+	123
+	1
+
+1112
+	Knowledge is power.
+	112
+	139
+	4
+
+1113
+	She's as sick as a dog.
+	51
+	60
+	3
+	http://www.example.com/1113
+1114
+	She wasn't as productive as she was hoping, partially because she didn't have much work to do.
+	30
+	102
+	0
+	http://www.example.com/1114
+1115
+	You have to take the good with the bad.
+	75
+	12
+	0
+
+1116
+	Everybody is expecting a bonus.
+	80
+	95
+	5
+	http://www.example.com/1116
+1117
+	Water damage sucks.
+	88
+	92
+	7
+	http://www.example.com/1117
+1118
+	The broken leg isn't Tom's biggest problem.
+	105
+	146
+	0
+
+1119
+	I owe you a big one for getting me out of the jam.
+	96
+	134
+	2
+	http://www.example.com/1119
+1120
+	what I remember is that she was with us at 8 pm.
+	53
+	9
+	2
+
+1121
+	I feel like I am going to pass out.
+	115
+	34
+	7
+	http://www.example.com/1121
+1122
+	I had dinner with George Washington last night.
+	108
+	36
+	2
+
+1123
+	This ship is too big to pass through the canal.
+	101
+	28
+	1
+
+1124
+	I added his name to the book.
+	35
+	139
+	1
+
+1125
+	He liked chocolate and banana milkshakes because his mom used to make them when he was sick.
+	95
+	117
+	7
+	http://www.example.com/1125
+1126
+	This lasagna is delicious.
+	72
+	137
+	6
+
+1127
+	Naps make me feel lazy.
+	130
+	125
+	2
+
+1128
+	We have a big stove which keeps us very toasty.
+	34
+	61
+	0
+
+1129
+	She created an app to match zombies with willing victims.
+	0
+	125
+	3
+	http://www.example.com/1129
+1130
+	He has a weird mouth.
+	1
+	42
+	1
+
+1131
+	Ask no questions and hear no lies.
+	73
+	112
+	2
+
+1132
+	It's bound to happen eventually.
+	42
+	4
+	7
+	http://www.example.com/1132
+1133
+	I go back to bedroom.
+	30
+	67
+	2
+	http://www.example.com/1133
+1134
+	I made some steak.
+	56
+	58
+	0
+
+1135
+	Her mom asked her to come home for Christmas.
+	28
+	30
+	6
+	http://www.example.com/1135
+1136
+	She likes to swing at the playground.
+	16
+	116
+	2
+	http://www.example.com/1136
+1137
+	Thank you very much for your hospitality.
+	30
+	102
+	4
+	http://www.example.com/1137
+1138
+	There used to be a big cherry tree in the garden.
+	63
+	98
+	3
+	http://www.example.com/1138
+1139
+	She constantly worried about accidentally burning her house down.
+	79
+	49
+	2
+	http://www.example.com/1139
+1140
+	Daya chose a song from the list to sing.
+	60
+	105
+	9
+	http://www.example.com/1140
+1141
+	I think I could fall asleep really quickly.
+	74
+	35
+	2
+
+1142
+	You may take either the big box or the small one.
+	92
+	88
+	1
+	http://www.example.com/1142
+1143
+	She was dressed like a rabbit.
+	85
+	128
+	6
+
+1144
+	Mary enjoys cooking.
+	83
+	116
+	2
+
+1145
+	It was a maze of rubber wiring.
+	75
+	40
+	3
+	http://www.example.com/1145
+1146
+	I can't get this lift to work.
+	27
+	98
+	6
+
+1147
+	He has a nice restaurant near the lake.
+	8
+	58
+	1
+	http://www.example.com/1147
+1148
+	Here is David with his guitar.
+	137
+	63
+	3
+
+1149
+	He went fast down the slide.
+	57
+	71
+	1
+
+1150
+	She hated chocolate chip cookies, but she loved gingersnaps.
+	61
+	46
+	4
+
+1151
+	She bought a massive pack of toilet paper from Costco, which lasted her three months.
+	106
+	141
+	3
+
+1152
+	She went over to see if her name was there.
+	7
+	101
+	1
+
+1153
+	As luck would have it I found a pen at the bottom of my bag.
+	28
+	117
+	1
+	http://www.example.com/1153
+1154
+	I imagine you think of this activity as something characters from a Jane Austin novel did.
+	22
+	39
+	2
+
+1155
+	She desperately wanted to meet an alien before she died.
+	89
+	69
+	1
+
+1156
+	I am extra ticklish for some reason.
+	95
+	111
+	4
+	http://www.example.com/1156
+1157
+	She likes parties.
+	130
+	7
+	5
+	http://www.example.com/1157
+1158
+	I seriously doubt she actually believes you.
+	73
+	125
+	3
+
+1159
+	I am the biggest Ariana Grande fan on the planet.
+	127
+	37
+	0
+	http://www.example.com/1159
+1160
+	I know that there was a big church here.
+	29
+	20
+	2
+	http://www.example.com/1160
+1161
+	The enemy destroyed the city.
+	96
+	51
+	3
+
+1162
+	We see them every week.
+	19
+	146
+	5
+	http://www.example.com/1162
+1163
+	There are many theories regarding the origins of language.
+	127
+	93
+	6
+
+1164
+	I just walked on thee coolest pillow.
+	106
+	0
+	3
+
+1165
+	Dad is going to work.
+	92
+	121
+	4
+
+1166
+	I have a bunch of things I need to do.
+	35
+	122
+	0
+	http://www.example.com/1166
+1167
+	She is a composer for the harp.
+	131
+	66
+	1
+	http://www.example.com/1167
+1168
+	The cat coughed up a hairball that was almost the same size as she was.
+	51
+	31
+	4
+
+1169
+	My lunch included a peanut butter sandwich, crackers, juice, and a cheese stick.
+	12
+	43
+	3
+	http://www.example.com/1169
+1170
+	The cruise cut through the Bermuda Triangle.
+	114
+	139
+	5
+
+1171
+	He was very scared when he saw this big snake.
+	24
+	64
+	0
+
+1172
+	I put my headphones on and listened to some smooth jazz.
+	38
+	28
+	2
+	http://www.example.com/1172
+1173
+	You need to be able to justify why you're wearing yellow socks in a formal environment.
+	90
+	89
+	1
+	http://www.example.com/1173
+1174
+	The Pearl Tower in Shanghai is one of the most memorable sites in China.
+	36
+	63
+	6
+	http://www.example.com/1174
+1175
+	I couldn't tear myself away from you even if I tried.
+	95
+	44
+	7
+	http://www.example.com/1175
+1176
+	Tom has some pretty big shoes to fill.
+	146
+	33
+	5
+
+1177
+	He wears suspenders instead of a belt.
+	34
+	99
+	1
+	http://www.example.com/1177
+1178
+	We are buzzing on this espresso.
+	127
+	129
+	6
+	http://www.example.com/1178
+1179
+	She waited until the elevator was full to clear her throat and say, â€œYou guys might be wondering why I called this meeting.
+	64
+	129
+	1
+	http://www.example.com/1179
+1180
+	He goes to football every day.
+	90
+	37
+	4
+
+1181
+	They go to a gallery every Saturday.
+	131
+	88
+	0
+
+1182
+	I want to have my name taken off the list.
+	58
+	56
+	1
+	http://www.example.com/1182
+1183
+	The advanced technology is what sold me.
+	102
+	16
+	4
+	http://www.example.com/1183
+1184
+	I just think he didn't execute it the way he needed to today.
+	25
+	141
+	1
+	http://www.example.com/1184
+1185
+	Her face turned red because she was embarrassed.
+	32
+	37
+	1
+	http://www.example.com/1185
+1186
+	I have one big brother and two little sisters.
+	34
+	61
+	1
+	http://www.example.com/1186
+1187
+	The hockey rink was on the other side of the campus.
+	96
+	85
+	0
+	http://www.example.com/1187
+1188
+	Sam felt sick after eating five huge candy bars.
+	123
+	54
+	0
+
+1189
+	It's the size of a golf ball.
+	10
+	88
+	8
+
+1190
+	Nothing beats a big glass of beer in summer.
+	92
+	54
+	2
+
+1191
+	My cat runs very fast.
+	146
+	104
+	2
+
+1192
+	Tom lives in a white house.
+	69
+	18
+	0
+	http://www.example.com/1192
+1193
+	He had a sore throat so I gave him my bottle of water and told him to keep it.
+	82
+	131
+	1
+
+1194
+	He was wearing a vest.
+	101
+	112
+	2
+	http://www.example.com/1194
+1195
+	Her hat was green, her mittens were yellow, and her coat was orange.
+	121
+	92
+	3
+	http://www.example.com/1195
+1196
+	Lions and tigers are called big cats.
+	47
+	10
+	5
+
+1197
+	Nikita is a perfectly respectable businessman.
+	31
+	5
+	1
+
+1198
+	What you're suggesting is just not practical.
+	72
+	89
+	2
+
+1199
+	she's lying or at least not telling the entire truth.
+	68
+	128
+	1
+

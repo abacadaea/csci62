@@ -23,6 +23,6 @@ int main() {
   for(int i = 0; i < 1000; i++) {
     n.addPost(new Post(0, 0, "Post " + to_string(i), i));
   }
-  vector<Post*> manyPosts = n.getPosts(1);
+  vector<Post*> manyPosts = n.getPosts(0);
   assert(manyPosts.size() == 1000);
 }

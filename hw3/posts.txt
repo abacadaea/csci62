@@ -1,4 +1,4 @@
-1200
+800
 0
 	The llama couldn't resist trying the lemonade.
 	132
@@ -228,7 +228,7 @@
 	2
 	http://www.example.com/37
 38
-	He found the chocolate covered roaches quite tasty.
+	He found the chocolate covered beans quite tasty.
 	43
 	130
 	2
@@ -294,7 +294,7 @@
 	0
 	http://www.example.com/48
 49
-	There aren't enough towels in the world to stop the sewage flowing from his mouth.
+	There isn't enough toilet paper.
 	53
 	56
 	2
@@ -342,7 +342,7 @@
 	8
 
 57
-	You've been eyeing me all day and waiting for your move like a lion stalking a gazelle in a savannah.
+	Take a look at this picture!
 	11
 	130
 	1
@@ -1146,7 +1146,7 @@
 	10
 
 191
-	Nudist colonies shun fig-leaf couture.
+	The apple tree is old.
 	118
 	39
 	2
@@ -1182,7 +1182,7 @@
 	5
 
 197
-	The fifty mannequin heads floating in the pool kind of freaked them out.
+	There were fifty floaties in the pool.
 	141
 	88
 	9
@@ -1224,7 +1224,7 @@
 	1
 
 204
-	He only had one drink but he's completely wasted.
+	He feel asleep immediately.
 	35
 	23
 	1
@@ -1500,7 +1500,7 @@
 	2
 	http://www.example.com/249
 250
-	She wanted to get gastric bypass surgery, but her insurance wouldn't cover it.
+	Insurance wouldn't cover it.
 	111
 	58
 	3
@@ -1590,7 +1590,7 @@
 	4
 	http://www.example.com/264
 265
-	I started drinking when I was sixteen, but I'm European.
+	I got my driver's license when I was eighteen.
 	122
 	102
 	5
@@ -1644,7 +1644,7 @@
 	7
 	http://www.example.com/273
 274
-	It's been three months and his stab wound hasn't healed yet.
+	The wound hasn't healed yet.
 	130
 	7
 	6
@@ -1860,7 +1860,7 @@
 	7
 
 310
-	that's not even how to kill me.
+	that's not how you do it.
 	87
 	86
 	4
@@ -2112,7 +2112,7 @@
 	5
 
 352
-	My son is a total nightmare.
+	My son has black hair.
 	59
 	22
 	6
@@ -2226,7 +2226,7 @@
 	1
 	http://www.example.com/370
 371
-	We finished a bottle of wine between the two of us.
+	We finished the game.
 	41
 	95
 	3
@@ -2298,7 +2298,7 @@
 	1
 
 383
-	I told him I'd spank the suitcase for being bad.
+	This suitcase is terrible.
 	53
 	102
 	5
@@ -2544,7 +2544,7 @@
 	1
 	http://www.example.com/423
 424
-	I am to blame for her death.
+	I am to blame.
 	91
 	112
 	2
@@ -4560,7 +4560,7 @@
 	1
 	http://www.example.com/759
 760
-	The Nazis are considered bad because they succeeded in carrying out their ideal of ending the Jews.
+	We all live in a yellow submarine.
 	5
 	20
 	0
@@ -5136,7 +5136,7 @@
 	2
 	http://www.example.com/855
 856
-	We shall devote today's lesson to the study of the English verb â€˜to get'.
+	We shall devote today's lesson to the study of the English verb 'to get'.
 	40
 	117
 	7

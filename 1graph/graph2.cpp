@@ -1,48 +1,50 @@
+#include <iostream>
 #include <vector>
 #include <set>
 
+using namespace std;
+
+// REVIEW: How to implement these methods?
 class Graph {
 public:
-  int n() { // returns the number of vertices in this Graph
-    return adjLists.size(); 
- 
+  // # vertices
+  int n() {
+    return adjLists.size();
   }
-  int m() { // returns the number of edges in this Graph
-    int count = 0;
-    for (auto list : adjLists) {
-      count += list.size();
+  // # edges
+  int m() {
+    int sum = 0;
+    for (set<int> list : adjLists) {
+      sum += list.size();
     }
-    return count / 2;
-
-    /*
-    for (int i = 0; i < adjLists.size(); i ++) {
-      count += adjLists[i].size();
-    }
-    return count / 2;
-    */
+    return sum / 2;
   }
-  void addVertex() { // Add new vertex
-    adjLists.push_back(std::set<int> ());
-
+  // create new vertex
+  void addVertex() { 
+    adjLists.push_back(set<int>());
   }
-  void addEdge(int i, int j) { // add edge (i,j) to the Graph
+  // add edge between vertex i and j
+  void addEdge(int i, int j) {
     adjLists[i].insert(j);
     adjLists[j].insert(i);
   }
-  bool areAdjacent(int i, int j) { // return true if (i,j) is an edge
-                                     // check if j is in adjLists[i]
-    return (adjLists[i].find(j) != adjLists[i].end());
-    /*
-    if (adjLists[i].find(j) != adjLists[i].end()) {
-      return true; 
-    } else {
-      return false;
-    }*/
+  // true iff i and j are adj
+  bool areAdjacent(int i, int j) {
+    return adjLists[i].contains(j);
   }
- private:
-  std::vector<std::set<int> > adjLists;
+private:
+  vector<set<int> > adjLists;
 };
 
 int main () {
-
+  Graph G = Graph();
+  G.addVertex();
+  G.addVertex();
+  G.addVertex();
+  G.addVertex();
+  G.addEdge(0,1);
+  G.addEdge(1,2);
+  G.addEdge(0,3);
+  G.addEdge(0,2);
+  cout << G.m() << endl;
 }

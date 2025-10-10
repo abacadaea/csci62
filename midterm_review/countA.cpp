@@ -10,7 +10,7 @@ int countA(const char* fname) {
   int count = 0;
   while(fin >> word) {
     for (int i = 0; i < word.length(); i ++) {
-      if (word[i] == 'A') {
+      if (word[i] == 'A' || word[i] == 'a') {
         count ++;
       }
     }
@@ -19,7 +19,7 @@ int countA(const char* fname) {
       count += (c=='A');
     }
     */
-    //cout << word << " " << count << endl;
+    cout << word << " " << count << endl;
   }
   return count;
 }
@@ -30,7 +30,6 @@ int countAByChar(const char* fname) {
   int count = 0;
   while(fin >> c) {
     count += (c=='A');
-    //cout << c << " " << count << endl;
   }
   return count;
 }

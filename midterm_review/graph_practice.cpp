@@ -19,7 +19,7 @@ public:
   }
 
   vector<pair<int,int> > getEdgeList() {
-    // solution 1
+    // solution 1 
     vector<pair<int,int> > answer;
     int n = adjLists.size();
     for (int i = 0; i < n; i ++) {
@@ -35,8 +35,9 @@ public:
     int n = adjLists.size();
     for (int i = 0; i < n; i ++) {
       for (int j : adjLists[i]) {
-        if (!answerSet.contains(pair<int,int>(i,j))
-            &&  !answerSet.contains(pair<int,int>(j,i))) {
+        //if (!answerSet.contains(pair<int,int>(i,j))
+        //&&  !answerSet.contains(pair<int,int>(j,i))) {
+        if (!answerSet.contains(pair<int,int>(j,i))) {
           answerSet.insert(pair<int,int> (i,j));
         }
       }
@@ -84,6 +85,7 @@ public:
 
         // update max distance seen
         diam = max(diam, curDist);
+        if(curDist > diam) diam = curDist;
       } 
     } 
     return diam;
@@ -192,11 +194,11 @@ int main () {
     G2.addEdge(4,6);
     cout << "G2.diameter(): " << G2.diameter() << endl;
     cout << "G2.diameterFast(): " << G2.diameterFast() << endl;
-    cout << "G2.dist5(0): ";
-    vector<int> g2d5 = G2.dist5(0);
-    for (int x : g2d5) {
-      cout << x << " ";
-    }
-    cout << endl;
+    //cout << "G2.dist5(0): ";
+    //vector<int> g2d5 = G2.dist5(0);
+    //for (int x : g2d5) {
+    //  cout << x << " ";
+    //}
+    //cout << endl;
   }
 }

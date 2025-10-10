@@ -160,43 +160,43 @@ public:
 };
 
 int main () {
-  Graph G = Graph();
-  G.addVertex();
-  G.addVertex();
-  G.addVertex();
-  G.addVertex();
-  G.addEdge(0,1);
-  G.addEdge(1,2);
-  G.addEdge(0,3);
-  G.addEdge(0,2);
+  if (0) {
+    Graph G = Graph();
+    G.addVertex();
+    G.addVertex();
+    G.addVertex();
+    G.addVertex();
+    G.addEdge(0,1);
+    G.addEdge(1,2);
+    G.addEdge(0,3);
+    G.addEdge(0,2);
 
-  vector<pair<int,int> > edgeList = G.getEdgeList();
-  for (pair<int,int> p : edgeList) {
-    cout << p.first << " " << p.second << endl;
+    vector<pair<int,int> > edgeList = G.getEdgeList();
+    for (pair<int,int> p : edgeList) {
+      cout << p.first << " " << p.second << endl;
+    }
+  } else { 
+    Graph G2 = Graph();
+    G2.addVertex();
+    G2.addVertex();
+    G2.addVertex();
+    G2.addVertex();
+    G2.addVertex();
+    G2.addVertex();
+    G2.addVertex();
+    G2.addEdge(0,1);
+    G2.addEdge(1,2);
+    G2.addEdge(2,3);
+    G2.addEdge(3,4);
+    G2.addEdge(4,5);
+    G2.addEdge(4,6);
+    cout << "G2.diameter(): " << G2.diameter() << endl;
+    cout << "G2.diameterFast(): " << G2.diameterFast() << endl;
+    cout << "G2.dist5(0): ";
+    vector<int> g2d5 = G2.dist5(0);
+    for (int x : g2d5) {
+      cout << x << " ";
+    }
+    cout << endl;
   }
-  
-  /*
-  Graph G2 = Graph();
-  G2.addVertex();
-  G2.addVertex();
-  G2.addVertex();
-  G2.addVertex();
-  G2.addVertex();
-  G2.addVertex();
-  G2.addVertex();
-  G2.addEdge(0,1);
-  G2.addEdge(1,2);
-  G2.addEdge(2,3);
-  G2.addEdge(3,4);
-  G2.addEdge(4,5);
-  G2.addEdge(4,6);
-  //cout << "G.diameter(): " << G.diameter() << endl;
-  //cout << "G.diameterFast(): " << G.diameterFast() << endl;
-  cout << "G2.dist5(0): ";
-  vector<int> g2d5 = G2.dist5(0);
-  for (int x : g2d5) {
-    cout << x << " ";
-  }
-  cout << endl;
-  */
 }

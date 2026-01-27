@@ -19,11 +19,7 @@ int main() {
       assert(path[0] == i);
       if (i != j) {
         assert(path[1] == j);
-      	return 0;
-}
-    	return 0;
-}
-  	return 0;
-}
-	return 0;
+      }
+    }
+  }
 }
